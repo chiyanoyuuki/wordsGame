@@ -7,10 +7,17 @@ import DATA from '../assets/data.json';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  public data: any = DATA;
-  title = 'words';
+  public data: { data: { definitions: string[], done: boolean, mot: string, type: string }[] } = DATA;
+  public mot!: { definitions: string[]; done: boolean; mot: string; type: string; };
+  public joueurs: { nom: string, score: number, ok: boolean }[] = [];
+  public nomJoueurTemp: string = "";
 
   ngOnInit() {
-    console.log(this.data);
+    let rdm = Math.floor(Math.random() * this.data.data.length);
+    this.mot = this.data.data[rdm];
+  }
+
+  addPlayer() {
+    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false }
   }
 }
