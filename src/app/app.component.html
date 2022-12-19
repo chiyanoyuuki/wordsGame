@@ -1,14 +1,41 @@
-<div class="flex">
-  <div *ngFor="let joueur of joueurs">
-    <div class="joueur" *ngIf="joueur.ok">
-      <p>{{joueur.nom}}</p>
-      <p>{{joueur.score}}</p>
+<div style="width:fit-content;display:flex;">
+  <div style="border:5px solid black;margin-right:10px;height:fit-content">
+    <div *ngFor="let joueur of joueurs;let i=index" (click)="!start?clickJoueur(i):joueurSelected=joueur">
+      <div *ngIf="joueur.ok" class="joueur" [ngClass]="{selected:joueurSelected==joueur}">
+        <p>{{joueur.nom}}</p>
+        <p *ngIf="joueurSelected!=joueur&&!start">{{joueur.score}}</p>
+        <p *ngIf="start">{{joueur.score}}</p>
+        <p *ngIf="joueurSelected==joueur&&!start">Supprimer ?</p>
+      </div>
+      <div *ngIf="!joueur.ok">
+        <input type="text" [(ngModel)]="nomJoueurTemp" /><br />
+        <button (click)="addNewPlayer(i)" style="width:100%;margin-top:10px;">Valider</button>
+      </div>
     </div>
-    <div class="joueur" *ngIf="!joueur.ok">
-      <input type="text" [(ngModel)]="nomJoueurTemp" /><br />
-      <button (click)="joueur.nom = nomJoueurTemp;joueur.ok = true;nomJoueurTemp=''"
-        style="width:100%;margin-top:10px;">Valider</button>
-    </div>
+    <button (click)="addPlayer()" *ngIf="!start">Ajouter joueur</button>
   </div>
-  <button (click)="addPlayer()" style="margin-top:20px;margin-left:20px;">Ajouter un joueur</button>
+
+  <div><button (click)="start=true;" *ngIf="!start" style="height:100%;">Commencer</button></div>
+
+  <div *ngIf="start">
+    <div class="flex">
+      <button *ngIf="indice<mot.mot.length" style="margin-right:10px;" (click)="clickIndice()">Indice</button>
+      <div class="flex" style="height:fit-content;padding-top:15px;" *ngIf="indice>0">
+        <p class="letter" *ngFor="let letter of ind" style="height:fit-content">{{letter | uppercase}}</p>
+      </div>
+    </div>
+    <div class="flex" style="height:30px;margin-top:5px;">
+      <input type="text" [(ngModel)]="guessing" />
+      <button style="padding:5px 15px;margin-left:5px;" [disabled]="!joueurSelected">Try</button>
+    </div>
+    <div style="margin:10px 0px;">
+      <div *ngFor="let def of mot.definitions;let i=index">
+        <div class="defs flex" [ngClass]="{current:i==idx}" *ngIf="i>=idx">
+          <p style="width:40px;">{{(i+1)}}.</p>
+          <p>{{mot.definitions[mot.definitions.length-i-1]}}</p>
+        </div>
+      </div>
+    </div>
+    <button *ngIf="idx>0" (click)="idx=idx-1">Definition suivante</button>
+  </div>
 </div>
