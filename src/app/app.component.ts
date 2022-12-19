@@ -7,34 +7,40 @@ import DATA from '../assets/data.json';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  public start: boolean = true;
-  public joueurSelected!: { nom: string, score: number, ok: boolean };
+  public start: boolean = false;
+  public joueurSelected!: { nom: string, score: number, ok: boolean, try: number };
   public data: { data: { definitions: string[], done: boolean, mot: string, type: string }[] } = DATA;
   public mot!: { definitions: string[]; done: boolean; mot: string; type: string; };
-  public joueurs: { nom: string, score: number, ok: boolean }[] = [
-    { nom: "Dad", score: 0, ok: true },
-    { nom: "Mum", score: 0, ok: true },
-    { nom: "Alexandre", score: 0, ok: true },
-    { nom: "Antoine", score: 0, ok: true },
-    { nom: "Arthur", score: 0, ok: true },
-    { nom: "Cesar", score: 0, ok: true }
+  public joueurs: { nom: string, score: number, ok: boolean, try: number }[] = [
+    { nom: "Dad", score: 0, ok: true, try: 2 },
+    { nom: "Mum", score: 0, ok: true, try: 2 },
+    { nom: "Alexandre", score: 0, ok: true, try: 2 },
+    { nom: "Antoine", score: 0, ok: true, try: 2 },
+    { nom: "Arthur", score: 0, ok: true, try: 2 },
+    { nom: "Cesar", score: 0, ok: true, try: 2 }
   ];
   public nomJoueurTemp: string = "";
   public guessing: string = "";
   public idx!: number;
   public indice!: number;
   public ind!: string[];
+  public found: boolean = false;
 
   ngOnInit() {
     this.newWord();
   }
 
   newWord() {
+    this.found = false;
     let rdm = Math.floor(Math.random() * this.data.data.length);
     this.mot = this.data.data[rdm];
     this.idx = this.mot.definitions.length - 1;
     this.ind = new Array(this.mot.mot.length).fill("_");
     this.indice = 0;
+    for (let p of this.joueurs) {
+      p.try = 2;
+    }
+    this.guessing = "";
     console.log(this.idx);
   }
 
@@ -52,8 +58,21 @@ export class AppComponent implements OnInit {
     }
   }
 
+  check() {
+    if (this.mot.mot == this.guessing) {
+      if (this.indice > 2) this.joueurSelected.score += 1;
+      else
+        this.joueurSelected.score += this.joueurSelected.try;
+      this.found = true;
+    }
+    else {
+      this.joueurSelected.try--;
+      this.guessing = "";
+    }
+  }
+
   addPlayer() {
-    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false }
+    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false, try: 2 }
   }
 
   clickJoueur(i: number) {

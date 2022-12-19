@@ -1,10 +1,15 @@
 <div style="width:fit-content;display:flex;">
-  <div style="border:5px solid black;margin-right:10px;height:fit-content">
+  <div style="border-right:5px solid black;margin-right:10px;height:fit-content">
     <div *ngFor="let joueur of joueurs;let i=index" (click)="!start?clickJoueur(i):joueurSelected=joueur">
       <div *ngIf="joueur.ok" class="joueur" [ngClass]="{selected:joueurSelected==joueur}">
         <p>{{joueur.nom}}</p>
         <p *ngIf="joueurSelected!=joueur&&!start">{{joueur.score}}</p>
-        <p *ngIf="start">{{joueur.score}}</p>
+        <p *ngIf="start">Pts : {{joueur.score}}</p>
+        <div *ngIf="start" class="flex"
+          style="justify-content:space-evenly;border-top: 1px solid #505050;margin-top: 5px;">
+          <p>{{joueur.try>0?'O':'X'}}</p>
+          <p>{{joueur.try>1?'O':'X'}}</p>
+        </div>
         <p *ngIf="joueurSelected==joueur&&!start">Supprimer ?</p>
       </div>
       <div *ngIf="!joueur.ok">
@@ -18,17 +23,23 @@
   <div><button (click)="start=true;" *ngIf="!start" style="height:100%;">Commencer</button></div>
 
   <div *ngIf="start" style="width:600px;max-width:600px;">
-    <div class="flex">
+    <div class="flex" *ngIf="!found">
       <button *ngIf="indice<mot.mot.length" style="margin-right:10px;" (click)="clickIndice()">Indice</button>
       <div class="flex" style="height:fit-content;padding-top:15px;" *ngIf="indice>0">
         <p class="letter" *ngFor="let letter of ind" style="height:fit-content">{{letter | uppercase}}</p>
       </div>
     </div>
-    <div class="flex" style="height:30px;margin-top:10px;">
-      <input type="text" [(ngModel)]="guessing" />
-      <button style="padding:5px 15px;margin-left:5px;" [disabled]="!joueurSelected">Try</button>
+    <div *ngIf="found">
+      <p style="color:green;  padding: 20px;
+      font-size: 20px;font-weight:bold;">{{mot.mot | uppercase}}</p>
     </div>
-    <button *ngIf="idx>0" (click)="idx=idx-1" style="margin:10px 0px;">Definition suivante</button>
+    <div class="flex" style="height:30px;margin-top:10px;" *ngIf="!found">
+      <input type="text" [(ngModel)]="guessing" />
+      <button style="padding:5px 15px;margin-left:5px;" [disabled]="!joueurSelected||joueurSelected.try<=0"
+        (click)="check()">Try</button>
+    </div>
+    <button (click)="newWord()" *ngIf="found">Mot Suivant</button>
+    <button *ngIf="idx>0&&!found" (click)="idx=idx-1" style="margin:10px 0px;">Definition suivante</button>
     <div style="margin:10px 0px;">
       <div *ngFor="let def of mot.definitions;let i=index">
         <div class="defs flex" [ngClass]="{current:i==idx}" *ngIf="i>=idx">
@@ -37,5 +48,6 @@
         </div>
       </div>
     </div>
+    <button (click)="newWord()">Mot Suivant</button>
   </div>
 </div>
