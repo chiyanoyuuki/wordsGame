@@ -17,17 +17,18 @@
 
   <div><button (click)="start=true;" *ngIf="!start" style="height:100%;">Commencer</button></div>
 
-  <div *ngIf="start">
+  <div *ngIf="start" style="width:600px;max-width:600px;">
     <div class="flex">
       <button *ngIf="indice<mot.mot.length" style="margin-right:10px;" (click)="clickIndice()">Indice</button>
       <div class="flex" style="height:fit-content;padding-top:15px;" *ngIf="indice>0">
         <p class="letter" *ngFor="let letter of ind" style="height:fit-content">{{letter | uppercase}}</p>
       </div>
     </div>
-    <div class="flex" style="height:30px;margin-top:5px;">
+    <div class="flex" style="height:30px;margin-top:10px;">
       <input type="text" [(ngModel)]="guessing" />
       <button style="padding:5px 15px;margin-left:5px;" [disabled]="!joueurSelected">Try</button>
     </div>
+    <button *ngIf="idx>0" (click)="idx=idx-1" style="margin:10px 0px;">Definition suivante</button>
     <div style="margin:10px 0px;">
       <div *ngFor="let def of mot.definitions;let i=index">
         <div class="defs flex" [ngClass]="{current:i==idx}" *ngIf="i>=idx">
@@ -36,6 +37,5 @@
         </div>
       </div>
     </div>
-    <button *ngIf="idx>0" (click)="idx=idx-1">Definition suivante</button>
   </div>
 </div>
