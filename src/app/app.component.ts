@@ -59,7 +59,7 @@ export class AppComponent implements OnInit {
   }
 
   check() {
-    if (this.mot.mot == this.guessing) {
+    if (this.mot.mot == this.guessing.toLowerCase()) {
       if (this.indice > 2) this.joueurSelected.score += 1;
       else
         this.joueurSelected.score += this.joueurSelected.try;
