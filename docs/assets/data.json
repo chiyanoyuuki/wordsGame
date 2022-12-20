@@ -544,7 +544,7 @@
             "definitions": [
                 "(Héraldique) Métal servant à décrire la couleur blanche d’un élément des armoiries: écu, partition, pièce, meuble, etc.",
                 "Couleur ou colorant argenté.",
-                "Couleur gris neutre clair à très clair. Induit souvent une idée de brillance. #CECECE",
+                "Couleur gris neutre clair à très clair. Induit souvent une idée de brillance.",
                 "(Par extension) (Commerce) Toute valeur monétaire.",
                 "(Vieilli) Ressource monétaire sous forme de pièces de monnaie dans ce métal.",
                 "(Par extension) (Chimie) Élément chimique de ce métal.",
@@ -961,8 +961,8 @@
                 "(Sociologie) Relatif à la race blanche, au groupe social des Blancs.",
                 "(Sociologie) Qui appartient au groupe (ethnique, social ou biologique, selon le point du vue) des Blancs.",
                 "Très peu coloré, ou moins coloré que, en parlant de choses qui ne sont pas tout à fait blanches (1), pour les distinguer de celles de même espèce qui le sont moins, ou qui sont d’une autre couleur.",
-                "(Par extension) D’une couleur appartenant au champ chromatique du blanc, c’est-à-dire légèrement différente de la couleur originelle mais lié à celle-ci.#FFFFFF#FFFFD4#FDE9E0#FDE1B8#F2FFFF#EFEFEF",
-                "D’une couleur comme celle des os, de la craie ou de l’écume entre autre. — Note:  Comme l’adjectif noir ou gris, qui ne sont que des différences de ton du blanc, il implique souvent une notion d’absence de couleur, de teinte.#FFFFFF"
+                "(Par extension) D’une couleur appartenant au champ chromatique du blanc, c’est-à-dire légèrement différente de la couleur originelle mais lié à celle-ci.",
+                "D’une couleur comme celle des os, de la craie ou de l’écume entre autre. — Note:  Comme l’adjectif noir ou gris, qui ne sont que des différences de ton du blanc, il implique souvent une notion d’absence de couleur, de teinte."
             ]
         },
         {
@@ -3762,7 +3762,7 @@
             "done": false,
             "type": "Adjectif",
             "definitions": [
-                "(Spécialement) (Eaux &amp; Forêts) Qualifie un taillis, des baliveaux, d’un an.",
+                "(Spécialement) (Eaux / Forêts) Qualifie un taillis, des baliveaux, d’un an.",
                 "Qui manque d’expérience, de maturité qui est étourdi, évaporé.",
                 "Qui est nouveau, qui n’existe que depuis récemment.",
                 "(Familier) Qui ne sied qu’à des personnes jeunes.",
@@ -4028,7 +4028,7 @@
             "type": "Adverbe",
             "definitions": [
                 "Néanmoins, quoiqu’il en soit, par contre.",
-                "À partir de cet instant désormais dorénavant&#x202f;1.",
+                "À partir de cet instant désormais dorénavant",
                 "À l’instant présent ou dans la période de temps actuelle plus ou moins étendue."
             ]
         },
@@ -4887,11 +4887,11 @@
                 "(Réseaux informatiques) Ensemble de données numériques, constituant un message ou une partie de message, et d’éléments numériques de service, comprenant une adresse, organisés selon une disposition déterminée par le procédé de transmission et acheminés comme un tout.",
                 "(Imprimerie) Quantité de lignes de composition, à peu près de l’étendue d’une page ordinaire, mais sans folio ni titre courant, et liée avec une ficelle.",
                 "(Sens figuré) Masse d’eau soulevée par une lame et qui retombe sur le pont d’une embarcation.",
-                "Paquet de couenne(s): (Argot) Garde national, assemblage de maladroits&#x202f;2.",
-                "Lâcher le paquet: (Argot) Tout révéler, abandonner&#x202f;2.",
-                "Avoir son paquet: (Argot) Être ivre&#x202f;2.",
+                "Paquet de couenne(s): (Argot) Garde national, assemblage de maladroits.",
+                "Lâcher le paquet: (Argot) Tout révéler, abandonner.",
+                "Avoir son paquet: (Argot) Être ivre.",
                 "(Sens figuré) (Familier) Personne qui a pris beaucoup d’embonpoint et qui se remue difficilement.",
-                "Faire des paquets: (Argot) Commérer, médire&#x202f;2.",
+                "Faire des paquets: (Argot) Commérer, médire.",
                 "(Par extension) Propos généralement désobligeants ou désagréables pour la personne à qui ils sont adressés.",
                 "(Par extension) Chose encombrante.",
                 "Emballage conditionné pour la vente.",
@@ -6148,7 +6148,7 @@
                 "(Religion) Se faire donner des sacrements.",
                 "Se faire transmettre pour exécution, pour indication.",
                 "Se faire transmettre, communiquer.",
-                "(Au sens physique &amp; au sens moral) Subir, éprouver des impressions, des modifications, etc.",
+                "(Au sens physique / au sens moral) Subir, éprouver des impressions, des modifications, etc.",
                 "Subir, éprouver des maux, quelque chose de fâcheux, soit par hasard, soit par la volonté d’autrui.",
                 "(Sens figuré) Être nommé dans une fonction.",
                 "Accepter en parlant des biens qui arrivent, des choses qui sont données, accordées, comme grâce, faveur, récompense, etc., soit par Dieu, soit par les hommes.",
@@ -6297,7 +6297,7 @@
                 "(Pronominal) Recommencer, se mettre à nouveau.",
                 "(Belgique) Rendre, vomir.",
                 "(Sports hippiques) Dans une course de trot, faire courir de nouveau au trot régulier un cheval qui a commis un écart dans ses allures.",
-                "(Jeu de paume &amp; Tennis) Recommencer.",
+                "(Jeu de paume / Tennis) Recommencer.",
                 "Obliger à recommencer une étude, un apprentissage, un exercice.",
                 "Différer, renvoyer à un autre temps.",
                 "(Religion) Pardonner.",
@@ -6772,7 +6772,7 @@
                 "(En particulier) Dont la température est telle que la couleur est rouge.",
                 "(Par extension) Dont le sentiment est à son paroxysme. — Note:  Le sentiment est indiqué à la suite de la préposition de.   Rouge de honte",
                 "(En particulier) Fortement irrigué de sang, en parlant de la peau humaine.",
-                "Qui est d’une couleur semblable à celle du sang, du coquelicot, de la fraise, etc., dont la longueur d’onde dominante est comprise entre environ 625 et 740 nm. — #E01010 #FF0000 #FF0040 #FF2000 #850606"
+                "Qui est d’une couleur semblable à celle du sang, du coquelicot, de la fraise, etc., dont la longueur d’onde dominante est comprise entre environ 625 et 740 nm."
             ]
         },
         {
@@ -7282,7 +7282,6 @@
             "done": false,
             "type": "Nom commun",
             "definitions": [
-                "(Imprimerie) # Définition manquante ou à compléter. (Ajouter)…",
                 "Façon, manière de faire une chose.",
                 "Espèce genre."
             ]

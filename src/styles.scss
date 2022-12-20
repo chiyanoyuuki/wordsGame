@@ -60,3 +60,21 @@ p {
 .defs p {
     color: #aaa;
 }
+
+.first {
+    color: yellow !important;
+    border-color: yellow !important;
+    font-weight: bold;
+}
+
+.second {
+    color: rgb(243, 243, 243) !important;
+    border-color: rgb(243, 243, 243) !important;
+    font-weight: bold;
+}
+
+.third {
+    color: rgb(163, 88, 44) !important;
+    border-color: rgb(163, 88, 44) !important;
+    font-weight: bold;
+}

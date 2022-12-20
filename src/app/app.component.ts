@@ -8,16 +8,16 @@ import DATA from '../assets/data.json';
 })
 export class AppComponent implements OnInit {
   public start: boolean = false;
-  public joueurSelected!: { nom: string, score: number, ok: boolean, try: number };
-  public data: { data: { definitions: string[], done: boolean, mot: string, type: string }[] } = DATA;
-  public mot!: { definitions: string[]; done: boolean; mot: string; type: string; };
-  public joueurs: { nom: string, score: number, ok: boolean, try: number }[] = [
-    { nom: "Dad", score: 0, ok: true, try: 2 },
-    { nom: "Mum", score: 0, ok: true, try: 2 },
-    { nom: "Alexandre", score: 0, ok: true, try: 2 },
-    { nom: "Antoine", score: 0, ok: true, try: 2 },
-    { nom: "Arthur", score: 0, ok: true, try: 2 },
-    { nom: "Cesar", score: 0, ok: true, try: 2 }
+  public joueurSelected!: { nom: string, score: number, ok: boolean, try: number, place: number };
+  public data: { data: { definitions: string[], done: boolean, mot: string, type: string, idx?: number }[] } = DATA;
+  public mot!: { definitions: string[], done: boolean, mot: string, type: string, idx?: number };
+  public joueurs: { nom: string, score: number, ok: boolean, try: number, place: number }[] = [
+    { nom: "Dad", score: 0, ok: true, try: 2, place: 1 },
+    { nom: "Mum", score: 0, ok: true, try: 2, place: 1 },
+    { nom: "Alexandre", score: 0, ok: true, try: 2, place: 1 },
+    { nom: "Antoine", score: 0, ok: true, try: 2, place: 1 },
+    { nom: "Arthur", score: 0, ok: true, try: 2, place: 1 },
+    { nom: "Cesar", score: 0, ok: true, try: 2, place: 1 }
   ];
   public nomJoueurTemp: string = "";
   public guessing: string = "";
@@ -25,16 +25,34 @@ export class AppComponent implements OnInit {
   public indice!: number;
   public ind!: string[];
   public found: boolean = false;
+  public buzz: any;
+  public timer: any;
+  public valid: any;
+  public max!: number;
+  public setmax!: boolean;
 
   ngOnInit() {
+    this.buzz = new Audio();
+    this.buzz.src = "./assets/audio/buzz.wav";
+    this.timer = new Audio();
+    this.timer.src = "./assets/audio/timer.wav";
+    this.timer.loop = true;
+    this.valid = new Audio();
+    this.valid.src = "./assets/audio/valid.wav";
     this.newWord();
   }
 
   newWord() {
+    this.setmax = false;
     this.found = false;
     let rdm = Math.floor(Math.random() * this.data.data.length);
     this.mot = this.data.data[rdm];
     this.idx = this.mot.definitions.length - 1;
+    if (this.mot.idx) {
+      this.idx = this.mot.idx;
+      this.max = this.idx;
+      this.setmax = true;
+    }
     this.ind = new Array(this.mot.mot.length).fill("_");
     this.indice = 0;
     for (let p of this.joueurs) {
@@ -42,6 +60,7 @@ export class AppComponent implements OnInit {
     }
     this.guessing = "";
     console.log(this.idx);
+    this.timer.play();
   }
 
   clickIndice() {
@@ -60,19 +79,37 @@ export class AppComponent implements OnInit {
 
   check() {
     if (this.mot.mot == this.guessing.toLowerCase()) {
+      this.valid.play();
+      this.timer.pause();
       if (this.indice > 2) this.joueurSelected.score += 1;
       else
         this.joueurSelected.score += this.joueurSelected.try;
       this.found = true;
+      this.joueurs.sort(function (a, b) {
+        return b.score - a.score;
+      });
+
+      let pos = 0;
+      let max = 200000;
+      for (let i = 0; i < this.joueurs.length; i++) {
+        let score = this.joueurs[i].score;
+        if (score < max) {
+          max = score;
+          pos++;
+        }
+        this.joueurs[i].place = pos;
+      }
+      this.mot.idx = this.idx - 1;
     }
     else {
+      this.buzz.play();
       this.joueurSelected.try--;
       this.guessing = "";
     }
   }
 
   addPlayer() {
-    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false, try: 2 }
+    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false, try: 2, place: 1 }
   }
 
   clickJoueur(i: number) {
