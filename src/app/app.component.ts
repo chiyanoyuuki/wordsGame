@@ -8,17 +8,18 @@ import DATA from '../assets/data.json';
 })
 export class AppComponent implements OnInit {
   public start: boolean = false;
-  public joueurSelected!: { nom: string, score: number, ok: boolean, try: number, place: number };
+  public joueurSelected!: { nom: string, score: number, ok: boolean, try: string[], place: number };
   public data: { data: { definitions: string[], done: boolean, mot: string, type: string, idx?: number }[] } = DATA;
   public mot!: { definitions: string[], done: boolean, mot: string, type: string, idx?: number };
-  public joueurs: { nom: string, score: number, ok: boolean, try: number, place: number }[] = [
-    { nom: "Dad", score: 0, ok: true, try: 2, place: 1 },
-    { nom: "Mum", score: 0, ok: true, try: 2, place: 1 },
-    { nom: "Alexandre", score: 0, ok: true, try: 2, place: 1 },
-    { nom: "Antoine", score: 0, ok: true, try: 2, place: 1 },
-    { nom: "Arthur", score: 0, ok: true, try: 2, place: 1 },
-    { nom: "Cesar", score: 0, ok: true, try: 2, place: 1 }
+  public joueurs: { nom: string, score: number, ok: boolean, try: string[], place: number }[] = [
+    { nom: "Dad", score: 0, ok: true, try: [], place: 1 },
+    { nom: "Mum", score: 0, ok: true, try: [], place: 1 },
+    { nom: "Alexandre", score: 0, ok: true, try: [], place: 1 },
+    { nom: "Antoine", score: 0, ok: true, try: [], place: 1 },
+    { nom: "Arthur", score: 0, ok: true, try: [], place: 1 },
+    { nom: "Cesar", score: 0, ok: true, try: [], place: 1 }
   ];
+  public taille!: number;
   public nomJoueurTemp: string = "";
   public guessing: string = "";
   public idx!: number;
@@ -30,6 +31,10 @@ export class AppComponent implements OnInit {
   public valid: any;
   public max!: number;
   public setmax!: boolean;
+  public width!: number;
+  public points!: number;
+  public startidx!: number;
+  public playerWhoFound: any;
 
   ngOnInit() {
     this.buzz = new Audio();
@@ -47,20 +52,28 @@ export class AppComponent implements OnInit {
     this.found = false;
     let rdm = Math.floor(Math.random() * this.data.data.length);
     this.mot = this.data.data[rdm];
+    this.taille = this.mot.mot.length;
     this.idx = this.mot.definitions.length - 1;
     if (this.mot.idx) {
       this.idx = this.mot.idx;
       this.max = this.idx;
       this.setmax = true;
     }
+    this.startidx = this.idx;
     this.ind = new Array(this.mot.mot.length).fill("_");
     this.indice = 0;
     for (let p of this.joueurs) {
-      p.try = 2;
+      p.try = [];
     }
     this.guessing = "";
     console.log(this.idx);
     this.timer.play();
+  }
+
+  clickBegin() {
+    this.start = true;
+    this.timer.play();
+    this.width = this.joueurs.length * 103 + 50;
   }
 
   clickIndice() {
@@ -81,13 +94,18 @@ export class AppComponent implements OnInit {
     if (this.mot.mot == this.guessing.toLowerCase()) {
       this.valid.play();
       this.timer.pause();
-      if (this.indice > 2) this.joueurSelected.score += 1;
+      if (this.indice == 0 && this.startidx == this.idx) this.points = 4;
+      else if (this.indice > 2) this.points = 1;
       else
-        this.joueurSelected.score += this.joueurSelected.try;
+        this.points += 2 - this.joueurSelected.try.length;
+
+      this.joueurSelected.score += this.points;
       this.found = true;
       this.joueurs.sort(function (a, b) {
         return b.score - a.score;
       });
+      this.playerWhoFound = this.joueurSelected;
+
 
       let pos = 0;
       let max = 200000;
@@ -103,13 +121,13 @@ export class AppComponent implements OnInit {
     }
     else {
       this.buzz.play();
-      this.joueurSelected.try--;
+      this.joueurSelected.try[this.joueurSelected.try.length] = this.guessing.toUpperCase();
       this.guessing = "";
     }
   }
 
   addPlayer() {
-    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false, try: 2, place: 1 }
+    this.joueurs[this.joueurs.length] = { nom: "", score: 0, ok: false, try: [], place: 1 }
   }
 
   clickJoueur(i: number) {
