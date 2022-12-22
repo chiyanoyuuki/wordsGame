@@ -1,5 +1,5 @@
-<div style="width:fit-content">
-  <div style="border-bottom:5px solid black;margin-bottom:10px;height:fit-content;padding-left:25px;padding-right:25px;" class="flex">
+<div style="width:1200px">
+  <div style="border-bottom:5px solid black;margin-bottom:10px;height:fit-content;padding-left:25px;padding-right:25px;justify-content:center" class="flex">
     <div *ngFor="let joueur of joueurs;let i=index" (click)="!start?clickJoueur(i):joueurSelected=joueur" style="width:100px;margin-right:3px;">
       <p *ngIf="start" [ngClass]="{first:joueur.place==1,second:joueur.place==2,third:joueur.place==3}" style="margin: auto; 
       border: 1px solid darkgray;
@@ -28,7 +28,7 @@
 
   <div style="display:flex;justify-content: center;"><button (click)="clickBegin()" *ngIf="!start" style="height:100%;width:50%;">Commencer</button></div>
 
-  <div *ngIf="start" [style.max-width]="width+'px'">
+  <div *ngIf="start" style="max-width:1200px;width:1200px;">
     <div class="flex" *ngIf="!found" style="justify-content:center;">
       <button *ngIf="indice<mot.mot.length" style="margin-right:10px;width:80px;"
         (click)="clickIndice()">Indice</button>
