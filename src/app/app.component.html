@@ -35,6 +35,7 @@
     <div class="flex" *ngIf="!found" style="justify-content:center;">
       <button *ngIf="indice<mot.mot.length" style="margin-right:10px;width:80px;"
         (click)="clickIndice()">Indice</button>
+        <p>{{mot.mot}}</p>
       <div class="flex" style="height:fit-content;padding-top:10px;" *ngIf="indice>0">
         <p>({{taille}})&nbsp;</p>
         <p>{{mot.type}} :&nbsp;&nbsp;</p>
