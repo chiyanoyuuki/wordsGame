@@ -97,7 +97,7 @@ export class AppComponent implements OnInit {
       this.points = 0;
       if (this.indice == 0 && this.startidx == this.idx) { this.points = 4; }
       else if (this.indice > 2) { this.points = 1; }
-      else { this.points += 2 - this.joueurSelected.try.length; }
+      else { this.points = 2 - this.joueurSelected.try.length; }
 
       this.joueurSelected.score += this.points;
       this.found = true;
