@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Mysterious_Idol_X_Alter_Sprite.png/revision/latest?cb=20210428022907" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Mysterious_Idol_X_Alter_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428022907" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Mysterious_Idol_X_Alter_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428022907 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Mysterious_Idol_X_Alter_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210428022907 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Mysterious Idol X Alter Sprite.png" data-image-name="Mysterious Idol X Alter Sprite.png">
+						
+					</a>
+				</figure>

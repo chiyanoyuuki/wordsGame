@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/60/Lanling_Wang_1.png/revision/latest?cb=20181203060235" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/60/Lanling_Wang_1.png/revision/latest/scale-to-width-down/350?cb=20181203060235" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/60/Lanling_Wang_1.png/revision/latest/scale-to-width-down/350?cb=20181203060235 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/60/Lanling_Wang_1.png/revision/latest/scale-to-width-down/700?cb=20181203060235 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Lanling Wang 1.png" data-image-name="Lanling Wang 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/51/Lanling_Wang_2.png/revision/latest?cb=20181203060235" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/51/Lanling_Wang_2.png/revision/latest/scale-to-width-down/350?cb=20181203060235" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/51/Lanling_Wang_2.png/revision/latest/scale-to-width-down/350?cb=20181203060235 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/51/Lanling_Wang_2.png/revision/latest/scale-to-width-down/700?cb=20181203060235 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Lanling Wang 2.png" data-image-name="Lanling Wang 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Lanling_Wang_3.png/revision/latest?cb=20181203060235" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Lanling_Wang_3.png/revision/latest/scale-to-width-down/350?cb=20181203060235" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Lanling_Wang_3.png/revision/latest/scale-to-width-down/350?cb=20181203060235 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Lanling_Wang_3.png/revision/latest/scale-to-width-down/700?cb=20181203060235 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Lanling Wang 3.png" data-image-name="Lanling Wang 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

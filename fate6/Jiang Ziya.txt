@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S331_Stage1.webp/revision/latest?cb=20220925062932" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S331_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062932" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S331_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062932 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S331_Stage1.webp/revision/latest?cb=20220925062932 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S331 Stage1.webp" data-image-name="S331 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/S331_Stage2.webp/revision/latest?cb=20220925062920" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/S331_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925062920" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/S331_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925062920 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1b/S331_Stage2.webp/revision/latest?cb=20220925062920 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S331 Stage2.webp" data-image-name="S331 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S331_Stage3.webp/revision/latest?cb=20220925062908" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S331_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925062908" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S331_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925062908 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S331_Stage3.webp/revision/latest?cb=20220925062908 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S331 Stage3.webp" data-image-name="S331 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S331_Stage4.webp/revision/latest?cb=20220925062855" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S331_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925062855" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S331_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925062855 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S331_Stage4.webp/revision/latest?cb=20220925062855 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S331 Stage4.webp" data-image-name="S331 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S331_AprilFool.webp/revision/latest?cb=20230402083930" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S331_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083930" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S331_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083930 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S331_AprilFool.webp/revision/latest?cb=20230402083930 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S331 AprilFool.webp" data-image-name="S331 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Tai_Gong_Wang_Sprite_1.png/revision/latest?cb=20211222192506" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Tai_Gong_Wang_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20211222192506" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Tai_Gong_Wang_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20211222192506 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Tai_Gong_Wang_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20211222192506 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Tai Gong Wang Sprite 1.png" data-image-name="Tai Gong Wang Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/Tai_Gong_Wang_Sprite_2.png/revision/latest?cb=20211222192508" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/Tai_Gong_Wang_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20211222192508" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/Tai_Gong_Wang_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20211222192508 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/Tai_Gong_Wang_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20211222192508 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Tai Gong Wang Sprite 2.png" data-image-name="Tai Gong Wang Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/24/Tai_Gong_Wang_Sprite_3.png/revision/latest?cb=20211222192510" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/24/Tai_Gong_Wang_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20211222192510" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/24/Tai_Gong_Wang_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20211222192510 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/24/Tai_Gong_Wang_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20211222192510 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Tai Gong Wang Sprite 3.png" data-image-name="Tai Gong Wang Sprite 3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,11 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Beast_III_kama.png/revision/latest?cb=20190403080501" class="image image-thumbnail" title="Kama/Mara Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Beast_III_kama.png/revision/latest/scale-to-width-down/350?cb=20190403080501" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Beast_III_kama.png/revision/latest/scale-to-width-down/350?cb=20190403080501 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Beast_III_kama.png/revision/latest/scale-to-width-down/700?cb=20190403080501 2x" class="pi-image-thumbnail" alt="Kama/Mara Sprite" width="270" height="260" data-image-key="Beast III kama.png" data-image-name="Beast III kama.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/KamaBeastSprite2.png/revision/latest?cb=20210331104757" class="image image-thumbnail" title="Demon Lord Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/KamaBeastSprite2.png/revision/latest/scale-to-width-down/350?cb=20210331104757" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/KamaBeastSprite2.png/revision/latest/scale-to-width-down/350?cb=20210331104757 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e3/KamaBeastSprite2.png/revision/latest/scale-to-width-down/700?cb=20210331104757 2x" class="pi-image-thumbnail" alt="Demon Lord Sprite" width="270" height="270" data-image-key="KamaBeastSprite2.png" data-image-name="KamaBeastSprite2.png">
+						
+					</a>
+				</figure>

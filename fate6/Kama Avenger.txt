@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S321_Stage1.webp/revision/latest?cb=20220925061225" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S321_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061225" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S321_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061225 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S321_Stage1.webp/revision/latest?cb=20220925061225 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S321 Stage1.webp" data-image-name="S321 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S321_Stage2.webp/revision/latest?cb=20220925061220" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S321_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925061220" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S321_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925061220 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S321_Stage2.webp/revision/latest?cb=20220925061220 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S321 Stage2.webp" data-image-name="S321 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S321_Stage3.webp/revision/latest?cb=20220925061214" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S321_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925061214" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S321_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925061214 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/43/S321_Stage3.webp/revision/latest?cb=20220925061214 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S321 Stage3.webp" data-image-name="S321 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S321_Stage4.webp/revision/latest?cb=20220925061208" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S321_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061208" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S321_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061208 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S321_Stage4.webp/revision/latest?cb=20220925061208 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S321 Stage4.webp" data-image-name="S321 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/S321_AprilFool.webp/revision/latest?cb=20230402083730" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/S321_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083730" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/S321_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083730 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fb/S321_AprilFool.webp/revision/latest?cb=20230402083730 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S321 AprilFool.webp" data-image-name="S321 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Kama_Avenger_1_Sprite.png/revision/latest?cb=20210915110124" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Kama_Avenger_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915110124" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Kama_Avenger_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915110124 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/64/Kama_Avenger_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210915110124 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kama Avenger 1 Sprite.png" data-image-name="Kama Avenger 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Kama_Avenger_2_Sprite.png/revision/latest?cb=20210915110127" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Kama_Avenger_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915110127" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Kama_Avenger_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915110127 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/Kama_Avenger_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210915110127 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kama Avenger 2 Sprite.png" data-image-name="Kama Avenger 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/73/Kama_Avenger_3_Sprite.png/revision/latest?cb=20210915110122" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/73/Kama_Avenger_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915110122" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/73/Kama_Avenger_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915110122 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/73/Kama_Avenger_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210915110122 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kama Avenger 3 Sprite.png" data-image-name="Kama Avenger 3 Sprite.png">
+						
+					</a>
+				</figure>

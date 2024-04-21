@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Artorialancersprite1.png/revision/latest?cb=20220428073417" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Artorialancersprite1.png/revision/latest/scale-to-width-down/350?cb=20220428073417" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Artorialancersprite1.png/revision/latest/scale-to-width-down/350?cb=20220428073417 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Artorialancersprite1.png/revision/latest/scale-to-width-down/700?cb=20220428073417 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Artorialancersprite1.png" data-image-name="Artorialancersprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6c/ArtoriaLancerAlterSprite2.png/revision/latest?cb=20220428073441" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6c/ArtoriaLancerAlterSprite2.png/revision/latest/scale-to-width-down/350?cb=20220428073441" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6c/ArtoriaLancerAlterSprite2.png/revision/latest/scale-to-width-down/350?cb=20220428073441 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6c/ArtoriaLancerAlterSprite2.png/revision/latest/scale-to-width-down/700?cb=20220428073441 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="ArtoriaLancerAlterSprite2.png" data-image-name="ArtoriaLancerAlterSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/ArtoriaLancerAlterSprite3.png/revision/latest?cb=20220428073610" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/ArtoriaLancerAlterSprite3.png/revision/latest/scale-to-width-down/350?cb=20220428073610" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/ArtoriaLancerAlterSprite3.png/revision/latest/scale-to-width-down/350?cb=20220428073610 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5b/ArtoriaLancerAlterSprite3.png/revision/latest/scale-to-width-down/700?cb=20220428073610 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="194" data-image-key="ArtoriaLancerAlterSprite3.png" data-image-name="ArtoriaLancerAlterSprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest?cb=20200417152506" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest/scale-to-width-down/350?cb=20200417152506" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest/scale-to-width-down/350?cb=20200417152506 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest/scale-to-width-down/700?cb=20200417152506 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Nezhasprite1.png" data-image-name="Nezhasprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest?cb=20200417152511" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest/scale-to-width-down/350?cb=20200417152511" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest/scale-to-width-down/350?cb=20200417152511 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest/scale-to-width-down/700?cb=20200417152511 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Nezha2.png" data-image-name="Nezha2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest?cb=20200417152523" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest/scale-to-width-down/350?cb=20200417152523" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest/scale-to-width-down/350?cb=20200417152523 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest/scale-to-width-down/700?cb=20200417152523 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Nezha3.png" data-image-name="Nezha3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

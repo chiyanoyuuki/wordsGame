@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/13/Shakespearesprite1.png/revision/latest?cb=20200216122324" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/13/Shakespearesprite1.png/revision/latest/scale-to-width-down/350?cb=20200216122324" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/13/Shakespearesprite1.png/revision/latest/scale-to-width-down/350?cb=20200216122324 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/13/Shakespearesprite1.png/revision/latest/scale-to-width-down/700?cb=20200216122324 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Shakespearesprite1.png" data-image-name="Shakespearesprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Shakespearesprite2.png/revision/latest?cb=20200216122105" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Shakespearesprite2.png/revision/latest/scale-to-width-down/350?cb=20200216122105" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Shakespearesprite2.png/revision/latest/scale-to-width-down/350?cb=20200216122105 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Shakespearesprite2.png/revision/latest/scale-to-width-down/700?cb=20200216122105 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Shakespearesprite2.png" data-image-name="Shakespearesprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Shakespearesprite3.png/revision/latest?cb=20200216122110" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Shakespearesprite3.png/revision/latest/scale-to-width-down/350?cb=20200216122110" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Shakespearesprite3.png/revision/latest/scale-to-width-down/350?cb=20200216122110 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Shakespearesprite3.png/revision/latest/scale-to-width-down/700?cb=20200216122110 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Shakespearesprite3.png" data-image-name="Shakespearesprite3.png">
+						
+					</a>
+				</figure>

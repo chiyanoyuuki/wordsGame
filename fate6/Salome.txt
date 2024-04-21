@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S260_Stage1.webp/revision/latest?cb=20220917065100" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S260_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917065100" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S260_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917065100 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S260_Stage1.webp/revision/latest?cb=20220917065100 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S260 Stage1.webp" data-image-name="S260 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S260_Stage2.webp/revision/latest?cb=20220917065048" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S260_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917065048" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S260_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917065048 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S260_Stage2.webp/revision/latest?cb=20220917065048 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S260 Stage2.webp" data-image-name="S260 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S260_Stage3.webp/revision/latest?cb=20220917065959" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S260_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917065959" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S260_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917065959 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S260_Stage3.webp/revision/latest?cb=20220917065959 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S260 Stage3.webp" data-image-name="S260 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/S260_Stage4.webp/revision/latest?cb=20220917064955" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/S260_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917064955" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/S260_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917064955 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fd/S260_Stage4.webp/revision/latest?cb=20220917064955 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S260 Stage4.webp" data-image-name="S260 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/93/AF0260.png/revision/latest?cb=20200331212851" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/93/AF0260.png/revision/latest/scale-to-width-down/350?cb=20200331212851" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/93/AF0260.png/revision/latest/scale-to-width-down/350?cb=20200331212851 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/93/AF0260.png/revision/latest?cb=20200331212851 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0260.png" data-image-name="AF0260.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest?cb=20190812165933" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165933" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165933 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest/scale-to-width-down/700?cb=20190812165933 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Salome Sprite 1 With Effects.png" data-image-name="Salome Sprite 1 With Effects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest?cb=20190812165936" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165936 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest/scale-to-width-down/700?cb=20190812165936 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Salome Sprite 2 With Effects.png" data-image-name="Salome Sprite 2 With Effects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest?cb=20190812165939" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165939" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165939 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest/scale-to-width-down/700?cb=20190812165939 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Salome Sprite 3 With Effects.png" data-image-name="Salome Sprite 3 With Effects.png">
+						
+					</a>
+				</figure>

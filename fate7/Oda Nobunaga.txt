@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/19/Odanobusprite.png/revision/latest?cb=20180925122950" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/19/Odanobusprite.png/revision/latest/scale-to-width-down/350?cb=20180925122950" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/19/Odanobusprite.png/revision/latest/scale-to-width-down/350?cb=20180925122950 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/19/Odanobusprite.png/revision/latest/scale-to-width-down/700?cb=20180925122950 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="210" data-image-key="Odanobusprite.png" data-image-name="Odanobusprite.png">
+						
+					</a>
+				</figure>

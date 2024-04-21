@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S307_Stage1.webp/revision/latest?cb=20220925054444" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S307_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925054444" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S307_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925054444 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/S307_Stage1.webp/revision/latest?cb=20220925054444 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S307 Stage1.webp" data-image-name="S307 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S307_Stage2.webp/revision/latest?cb=20220925054433" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S307_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925054433" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S307_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925054433 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/00/S307_Stage2.webp/revision/latest?cb=20220925054433 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S307 Stage2.webp" data-image-name="S307 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/S307_Stage3.webp/revision/latest?cb=20220925054424" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/S307_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925054424" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/S307_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925054424 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/S307_Stage3.webp/revision/latest?cb=20220925054424 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S307 Stage3.webp" data-image-name="S307 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S307_Stage4.webp/revision/latest?cb=20220925054414" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S307_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925054414" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S307_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925054414 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1a/S307_Stage4.webp/revision/latest?cb=20220925054414 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S307 Stage4.webp" data-image-name="S307 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5e/S307_AprilFool.webp/revision/latest?cb=20230402083316" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5e/S307_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083316" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5e/S307_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083316 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5e/S307_AprilFool.webp/revision/latest?cb=20230402083316 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S307 AprilFool.webp" data-image-name="S307 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Miss_Crane_Sprite_1.png/revision/latest?cb=20210427152347" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Miss_Crane_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210427152347" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Miss_Crane_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210427152347 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Miss_Crane_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210427152347 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Miss Crane Sprite 1.png" data-image-name="Miss Crane Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Miss_Crane_Sprite_2.png/revision/latest?cb=20210427152345" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Miss_Crane_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210427152345" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Miss_Crane_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210427152345 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Miss_Crane_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210427152345 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Miss Crane Sprite 2.png" data-image-name="Miss Crane Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Miss_Crane_Sprite_3.png/revision/latest?cb=20210427152344" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Miss_Crane_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210427152344" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Miss_Crane_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210427152344 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Miss_Crane_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210427152344 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Miss Crane Sprite 3.png" data-image-name="Miss Crane Sprite 3.png">
+						
+					</a>
+				</figure>

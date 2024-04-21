@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/S026_Stage1.webp/revision/latest?cb=20220910084119" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/S026_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910084119" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/S026_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910084119 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fc/S026_Stage1.webp/revision/latest?cb=20220910084119 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S026 Stage1.webp" data-image-name="S026 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S026_Stage2.webp/revision/latest?cb=20220910084111" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S026_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910084111" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S026_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910084111 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S026_Stage2.webp/revision/latest?cb=20220910084111 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S026 Stage2.webp" data-image-name="S026 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/83/S026_Stage3.webp/revision/latest?cb=20220910084103" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/83/S026_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910084103" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/83/S026_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910084103 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/83/S026_Stage3.webp/revision/latest?cb=20220910084103 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S026 Stage3.webp" data-image-name="S026 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/S026_Stage4.webp/revision/latest?cb=20220910084055" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/S026_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910084055" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/S026_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910084055 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a2/S026_Stage4.webp/revision/latest?cb=20220910084055 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S026 Stage4.webp" data-image-name="S026 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/AF0026.png/revision/latest?cb=20180428132400" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/AF0026.png/revision/latest/scale-to-width-down/350?cb=20180428132400" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/AF0026.png/revision/latest/scale-to-width-down/350?cb=20180428132400 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a3/AF0026.png/revision/latest?cb=20180428132400 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0026.png" data-image-name="AF0026.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Boudica_1_Sprite.png/revision/latest?cb=20210203211237" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Boudica_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211237" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Boudica_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211237 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Boudica_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211237 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Boudica 1 Sprite.png" data-image-name="Boudica 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Boudica_2_Sprite.png/revision/latest?cb=20210203211235" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Boudica_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211235" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Boudica_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211235 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/Boudica_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211235 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Boudica 2 Sprite.png" data-image-name="Boudica 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Boudica_3_Sprite.png/revision/latest?cb=20210203211233" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Boudica_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211233" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Boudica_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211233 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/97/Boudica_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211233 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Boudica 3 Sprite.png" data-image-name="Boudica 3 Sprite.png">
+						
+					</a>
+				</figure>

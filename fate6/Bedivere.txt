@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S126_Stage1.webp/revision/latest?cb=20220911070631" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S126_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911070631" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S126_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911070631 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/47/S126_Stage1.webp/revision/latest?cb=20220911070631 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S126 Stage1.webp" data-image-name="S126 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S126_Stage2.webp/revision/latest?cb=20220911070602" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S126_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911070602" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S126_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911070602 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S126_Stage2.webp/revision/latest?cb=20220911070602 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S126 Stage2.webp" data-image-name="S126 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S126_Stage3.webp/revision/latest?cb=20220911070542" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S126_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911070542" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S126_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911070542 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/71/S126_Stage3.webp/revision/latest?cb=20220911070542 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S126 Stage3.webp" data-image-name="S126 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/48/S126_Stage4.webp/revision/latest?cb=20220911070535" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/48/S126_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911070535" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/48/S126_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911070535 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/48/S126_Stage4.webp/revision/latest?cb=20220911070535 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S126 Stage4.webp" data-image-name="S126 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/11/S126_Costume1.webp/revision/latest?cb=20220911070529" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/11/S126_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911070529" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/11/S126_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911070529 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/11/S126_Costume1.webp/revision/latest?cb=20220911070529 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S126 Costume1.webp" data-image-name="S126 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/AF0126.png/revision/latest?cb=20180428122544" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/AF0126.png/revision/latest/scale-to-width-down/350?cb=20180428122544" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/AF0126.png/revision/latest/scale-to-width-down/350?cb=20180428122544 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7a/AF0126.png/revision/latest?cb=20180428122544 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0126.png" data-image-name="AF0126.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest?cb=20201208113045" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113045" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113045 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113045 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Bedivere Renewal 1 Sprite.png" data-image-name="Bedivere Renewal 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest?cb=20201208113050" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113050" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113050 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113050 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Bedivere Renewal 2 Sprite.png" data-image-name="Bedivere Renewal 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest?cb=20201208113056" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113056" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113056 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113056 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Bedivere Renewal 3 Sprite.png" data-image-name="Bedivere Renewal 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/73/Bedivere_Costume_Sprite.png/revision/latest?cb=20201208113100" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/73/Bedivere_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113100" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/73/Bedivere_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113100 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/73/Bedivere_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113100 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Bedivere Costume Sprite.png" data-image-name="Bedivere Costume Sprite.png">
+						
+					</a>
+				</figure>

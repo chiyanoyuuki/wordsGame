@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest?cb=20211119161325" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161325" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161325 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161325 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Izumo no Okuni 1 Sprite.png" data-image-name="Izumo no Okuni 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest?cb=20211119161328" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161328" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161328 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161328 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Izumo no Okuni 2 Sprite.png" data-image-name="Izumo no Okuni 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest?cb=20211119161332" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161332" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161332 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161332 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Izumo no Okuni 3 Sprite.png" data-image-name="Izumo no Okuni 3 Sprite.png">
+						
+					</a>
+				</figure>

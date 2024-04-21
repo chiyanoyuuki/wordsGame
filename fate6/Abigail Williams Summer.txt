@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S289_Stage1.webp/revision/latest?cb=20220924032830" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S289_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924032830" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S289_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924032830 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/90/S289_Stage1.webp/revision/latest?cb=20220924032830 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S289 Stage1.webp" data-image-name="S289 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/45/S289_Stage2.webp/revision/latest?cb=20220924032819" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/45/S289_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220924032819" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/45/S289_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220924032819 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/45/S289_Stage2.webp/revision/latest?cb=20220924032819 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S289 Stage2.webp" data-image-name="S289 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/84/S289_Stage3.webp/revision/latest?cb=20220924032809" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/84/S289_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220924032809" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/84/S289_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220924032809 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/84/S289_Stage3.webp/revision/latest?cb=20220924032809 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S289 Stage3.webp" data-image-name="S289 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S289_Stage4.webp/revision/latest?cb=20220924032759" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S289_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924032759" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S289_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924032759 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S289_Stage4.webp/revision/latest?cb=20220924032759 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S289 Stage4.webp" data-image-name="S289 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/AF0289.png/revision/latest?cb=20210402125914" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/AF0289.png/revision/latest/scale-to-width-down/350?cb=20210402125914" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/AF0289.png/revision/latest/scale-to-width-down/350?cb=20210402125914 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6f/AF0289.png/revision/latest?cb=20210402125914 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0289.png" data-image-name="AF0289.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest?cb=20200825014623" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014623" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014623 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200825014623 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Abigail Williams Summer Foreigner 1 Sprite.png" data-image-name="Abigail Williams Summer Foreigner 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest?cb=20200825014701" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014701" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014701 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200825014701 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Abigail Williams Summer Foreigner 2 Sprite.png" data-image-name="Abigail Williams Summer Foreigner 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest?cb=20200825014716" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014716" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014716 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200825014716 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Abigail Williams Summer Foreigner 3 Sprite.png" data-image-name="Abigail Williams Summer Foreigner 3 Sprite.png">
+						
+					</a>
+				</figure>

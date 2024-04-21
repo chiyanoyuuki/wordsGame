@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest?cb=20200306081357" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest/scale-to-width-down/350?cb=20200306081357" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest/scale-to-width-down/350?cb=20200306081357 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest/scale-to-width-down/700?cb=20200306081357 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Mandricardo Sprite Fixed 1.png" data-image-name="Mandricardo Sprite Fixed 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest?cb=20200306081358" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest/scale-to-width-down/350?cb=20200306081358" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest/scale-to-width-down/350?cb=20200306081358 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest/scale-to-width-down/700?cb=20200306081358 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Mandricardo Sprite Fixed 2.png" data-image-name="Mandricardo Sprite Fixed 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest?cb=20200306081359" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest/scale-to-width-down/350?cb=20200306081359" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest/scale-to-width-down/350?cb=20200306081359 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest/scale-to-width-down/700?cb=20200306081359 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Mandricardo Sprite Fixed 3.png" data-image-name="Mandricardo Sprite Fixed 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

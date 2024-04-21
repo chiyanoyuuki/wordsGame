@@ -1,0 +1,30 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/23/S361_Stage1.webp/revision/latest?cb=20220925065946" class="image image-thumbnail" title="Stage 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/23/S361_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925065946" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/23/S361_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925065946 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/23/S361_Stage1.webp/revision/latest?cb=20220925065946 2x" class="pi-image-thumbnail" alt="Stage 1-3" width="270" height="382" data-image-key="S361 Stage1.webp" data-image-name="S361 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S361_Stage4.webp/revision/latest?cb=20220925065934" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S361_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925065934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S361_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925065934 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/S361_Stage4.webp/revision/latest?cb=20220925065934 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S361 Stage4.webp" data-image-name="S361 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/S361_Costume1.webp/revision/latest?cb=20220925065924" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/S361_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925065924" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/S361_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925065924 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/S361_Costume1.webp/revision/latest?cb=20220925065924 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S361 Costume1.webp" data-image-name="S361 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/01/S361_Sprite_Stage1.png/revision/latest?cb=20220818144338" class="image image-thumbnail" title="Sprite 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/01/S361_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20220818144338" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/01/S361_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20220818144338 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/01/S361_Sprite_Stage1.png/revision/latest/scale-to-width-down/700?cb=20220818144338 2x" class="pi-image-thumbnail" alt="Sprite 1-3" width="270" height="270" data-image-key="S361 Sprite Stage1.png" data-image-name="S361 Sprite Stage1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/33/S361_Sprite_Costume1.png/revision/latest?cb=20220818144341" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/33/S361_Sprite_Costume1.png/revision/latest/scale-to-width-down/350?cb=20220818144341" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/33/S361_Sprite_Costume1.png/revision/latest/scale-to-width-down/350?cb=20220818144341 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/33/S361_Sprite_Costume1.png/revision/latest/scale-to-width-down/700?cb=20220818144341 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="S361 Sprite Costume1.png" data-image-name="S361 Sprite Costume1.png">
+						
+					</a>
+				</figure>

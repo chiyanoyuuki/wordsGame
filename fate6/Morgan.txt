@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/65/S309_Stage1.webp/revision/latest?cb=20220925054336" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/65/S309_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925054336" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/65/S309_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925054336 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/65/S309_Stage1.webp/revision/latest?cb=20220925054336 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S309 Stage1.webp" data-image-name="S309 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S309_Stage2.webp/revision/latest?cb=20220925054326" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S309_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925054326" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S309_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925054326 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S309_Stage2.webp/revision/latest?cb=20220925054326 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S309 Stage2.webp" data-image-name="S309 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S309_Stage3.webp/revision/latest?cb=20220925054315" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S309_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925054315" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S309_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925054315 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S309_Stage3.webp/revision/latest?cb=20220925054315 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S309 Stage3.webp" data-image-name="S309 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S309_Stage4.webp/revision/latest?cb=20220925054304" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S309_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925054304" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S309_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925054304 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/30/S309_Stage4.webp/revision/latest?cb=20220925054304 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S309 Stage4.webp" data-image-name="S309 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/76/S309_Costume1.webp/revision/latest?cb=20220925054256" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/76/S309_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925054256" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/76/S309_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925054256 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/76/S309_Costume1.webp/revision/latest?cb=20220925054256 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S309 Costume1.webp" data-image-name="S309 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S309_AprilFool.webp/revision/latest?cb=20230402083344" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S309_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083344" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S309_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083344 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S309_AprilFool.webp/revision/latest?cb=20230402083344 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S309 AprilFool.webp" data-image-name="S309 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Morgan_Sprite_1.png/revision/latest?cb=20210613022449" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Morgan_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210613022449" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Morgan_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210613022449 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Morgan_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210613022449 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Morgan Sprite 1.png" data-image-name="Morgan Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/Morgan_Sprite_2.png/revision/latest?cb=20210613022530" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/Morgan_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210613022530" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/Morgan_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210613022530 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2f/Morgan_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210613022530 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Morgan Sprite 2.png" data-image-name="Morgan Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Morgan_Sprite_3.png/revision/latest?cb=20210613022538" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Morgan_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210613022538" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Morgan_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210613022538 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Morgan_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210613022538 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Morgan Sprite 3.png" data-image-name="Morgan Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Morgan_Enemy_Version_Sprite.png/revision/latest?cb=20210714212532" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Morgan_Enemy_Version_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212532" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Morgan_Enemy_Version_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212532 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Morgan_Enemy_Version_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212532 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Morgan Enemy Version Sprite.png" data-image-name="Morgan Enemy Version Sprite.png">
+						
+					</a>
+				</figure>

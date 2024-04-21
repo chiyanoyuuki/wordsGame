@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Wusprite1.png/revision/latest?cb=20200216135427" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Wusprite1.png/revision/latest/scale-to-width-down/350?cb=20200216135427" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Wusprite1.png/revision/latest/scale-to-width-down/350?cb=20200216135427 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/21/Wusprite1.png/revision/latest/scale-to-width-down/700?cb=20200216135427 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Wusprite1.png" data-image-name="Wusprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Wusprite2.png/revision/latest?cb=20200216135432" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Wusprite2.png/revision/latest/scale-to-width-down/350?cb=20200216135432" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Wusprite2.png/revision/latest/scale-to-width-down/350?cb=20200216135432 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/Wusprite2.png/revision/latest/scale-to-width-down/700?cb=20200216135432 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Wusprite2.png" data-image-name="Wusprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/AnC_Sprite3.png/revision/latest?cb=20200216135437" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/AnC_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216135437" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/AnC_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216135437 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/AnC_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200216135437 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="AnC Sprite3.png" data-image-name="AnC Sprite3.png">
+						
+					</a>
+				</figure>

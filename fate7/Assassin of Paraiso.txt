@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Chiyome.png/revision/latest?cb=20200216103014" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Chiyome.png/revision/latest/scale-to-width-down/350?cb=20200216103014" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Chiyome.png/revision/latest/scale-to-width-down/350?cb=20200216103014 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Chiyome.png/revision/latest/scale-to-width-down/700?cb=20200216103014 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Chiyome.png" data-image-name="Chiyome.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Chiyome2.png/revision/latest?cb=20200216103018" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Chiyome2.png/revision/latest/scale-to-width-down/350?cb=20200216103018" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Chiyome2.png/revision/latest/scale-to-width-down/350?cb=20200216103018 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/Chiyome2.png/revision/latest/scale-to-width-down/700?cb=20200216103018 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Chiyome2.png" data-image-name="Chiyome2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/Chiyome3.png/revision/latest?cb=20200216103023" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/Chiyome3.png/revision/latest/scale-to-width-down/350?cb=20200216103023" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/Chiyome3.png/revision/latest/scale-to-width-down/350?cb=20200216103023 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f3/Chiyome3.png/revision/latest/scale-to-width-down/700?cb=20200216103023 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Chiyome3.png" data-image-name="Chiyome3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S168_Stage1.webp/revision/latest?cb=20220911123430" class="image image-thumbnail" title="Heaven's Hole">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S168_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911123430" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S168_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911123430 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S168_Stage1.webp/revision/latest?cb=20220911123430 2x" class="pi-image-thumbnail" alt="Heaven's Hole" width="270" height="382" data-image-key="S168 Stage1.webp" data-image-name="S168 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/Kiara_bodhisattva.png/revision/latest?cb=20190302033922" class="image image-thumbnail" title="HH Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/Kiara_bodhisattva.png/revision/latest/scale-to-width-down/350?cb=20190302033922" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/Kiara_bodhisattva.png/revision/latest/scale-to-width-down/350?cb=20190302033922 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6d/Kiara_bodhisattva.png/revision/latest/scale-to-width-down/700?cb=20190302033922 2x" class="pi-image-thumbnail" alt="HH Sprite" width="270" height="270" data-image-key="Kiara bodhisattva.png" data-image-name="Kiara bodhisattva.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/FGOQ168.png/revision/latest?cb=20190331204014" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/FGOQ168.png/revision/latest/scale-to-width-down/336?cb=20190331204014" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/FGOQ168.png/revision/latest/scale-to-width-down/336?cb=20190331204014 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/ff/FGOQ168.png/revision/latest?cb=20190331204014 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="402" data-image-key="FGOQ168.png" data-image-name="FGOQ168.png">
+						
+					</a>
+				</figure>

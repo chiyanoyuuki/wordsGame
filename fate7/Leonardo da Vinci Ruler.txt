@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest?cb=20210908151606" class="image image-thumbnail" title="Sprite 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151606" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151606 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151606 2x" class="pi-image-thumbnail" alt="Sprite 1-3" width="270" height="270" data-image-key="Leonardo Da Vinci Ruler Sprite.png" data-image-name="Leonardo Da Vinci Ruler Sprite.png">
+						
+					</a>
+				</figure>

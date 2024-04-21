@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Diarmuid_Saber_1.png/revision/latest?cb=20180905112043" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Diarmuid_Saber_1.png/revision/latest/scale-to-width-down/350?cb=20180905112043" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Diarmuid_Saber_1.png/revision/latest/scale-to-width-down/350?cb=20180905112043 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Diarmuid_Saber_1.png/revision/latest/scale-to-width-down/700?cb=20180905112043 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Diarmuid Saber 1.png" data-image-name="Diarmuid Saber 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Diarmuid_Saber_2.png/revision/latest?cb=20180905112140" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Diarmuid_Saber_2.png/revision/latest/scale-to-width-down/350?cb=20180905112140" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Diarmuid_Saber_2.png/revision/latest/scale-to-width-down/350?cb=20180905112140 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/Diarmuid_Saber_2.png/revision/latest/scale-to-width-down/700?cb=20180905112140 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Diarmuid Saber 2.png" data-image-name="Diarmuid Saber 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Diarmuid_Saber_3.png/revision/latest?cb=20180905112212" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Diarmuid_Saber_3.png/revision/latest/scale-to-width-down/350?cb=20180905112212" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Diarmuid_Saber_3.png/revision/latest/scale-to-width-down/350?cb=20180905112212 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Diarmuid_Saber_3.png/revision/latest/scale-to-width-down/700?cb=20180905112212 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Diarmuid Saber 3.png" data-image-name="Diarmuid Saber 3.png">
+						
+					</a>
+				</figure>

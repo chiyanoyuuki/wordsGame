@@ -1,0 +1,24 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S243_Stage1.webp/revision/latest?cb=20220917061053" class="image image-thumbnail" title="Stage 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S243_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917061053" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S243_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917061053 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S243_Stage1.webp/revision/latest?cb=20220917061053 2x" class="pi-image-thumbnail" alt="Stage 1-3" width="270" height="382" data-image-key="S243 Stage1.webp" data-image-name="S243 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S243_Stage4.webp/revision/latest?cb=20220917061043" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S243_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917061043" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S243_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917061043 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S243_Stage4.webp/revision/latest?cb=20220917061043 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S243 Stage4.webp" data-image-name="S243 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/85/AF0243.png/revision/latest?cb=20200401082836" class="image image-thumbnail" title="April Fools">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/85/AF0243.png/revision/latest/scale-to-width-down/350?cb=20200401082836" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/85/AF0243.png/revision/latest/scale-to-width-down/350?cb=20200401082836 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/85/AF0243.png/revision/latest?cb=20200401082836 2x" class="pi-image-thumbnail" alt="April Fools" width="270" height="382" data-image-key="AF0243.png" data-image-name="AF0243.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest?cb=20190428225629" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190428225629" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190428225629 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest/scale-to-width-down/700?cb=20190428225629 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Gray Sprite.png" data-image-name="Gray Sprite.png">
+						
+					</a>
+				</figure>

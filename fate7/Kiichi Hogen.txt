@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Kiichi_Hougen_Sprite.png/revision/latest?cb=20210120142158" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Kiichi_Hougen_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120142158" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Kiichi_Hougen_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120142158 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Kiichi_Hougen_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120142158 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Kiichi Hougen Sprite.png" data-image-name="Kiichi Hougen Sprite.png">
+						
+					</a>
+				</figure>

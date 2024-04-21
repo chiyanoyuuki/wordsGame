@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Mysterious_Alter-Ego_Lambda_Sprite1.png/revision/latest?cb=20190821203450" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Mysterious_Alter-Ego_Lambda_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190821203450" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Mysterious_Alter-Ego_Lambda_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190821203450 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Mysterious_Alter-Ego_Lambda_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20190821203450 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Mysterious Alter-Ego Lambda Sprite1.png" data-image-name="Mysterious Alter-Ego Lambda Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Mysterious_Alter-Ego_Lambda_Sprite2.png/revision/latest?cb=20190821203509" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Mysterious_Alter-Ego_Lambda_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190821203509" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Mysterious_Alter-Ego_Lambda_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190821203509 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Mysterious_Alter-Ego_Lambda_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20190821203509 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Mysterious Alter-Ego Lambda Sprite2.png" data-image-name="Mysterious Alter-Ego Lambda Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Mysterious_Alter-Ego_Lambda_Sprite3.png/revision/latest?cb=20190821203727" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Mysterious_Alter-Ego_Lambda_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190821203727" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Mysterious_Alter-Ego_Lambda_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190821203727 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Mysterious_Alter-Ego_Lambda_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20190821203727 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Mysterious Alter-Ego Lambda Sprite3.png" data-image-name="Mysterious Alter-Ego Lambda Sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

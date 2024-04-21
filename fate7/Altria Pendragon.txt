@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest?cb=20200112075303" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075303" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075303 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20200112075303 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="300" data-image-key="Artoria Sprite1 2nd Renewal.png" data-image-name="Artoria Sprite1 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest?cb=20200112075330" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075330" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075330 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20200112075330 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="300" data-image-key="Artoria Sprite2 2nd Renewal.png" data-image-name="Artoria Sprite2 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest?cb=20200112075355" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075355" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075355 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20200112075355 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="311" data-image-key="Artoria Sprite3 2nd Renewal.png" data-image-name="Artoria Sprite3 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

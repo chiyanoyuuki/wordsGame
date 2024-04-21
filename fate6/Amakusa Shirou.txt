@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/S093_Stage1.webp/revision/latest?cb=20220910155539" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/S093_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910155539" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/S093_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910155539 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c1/S093_Stage1.webp/revision/latest?cb=20220910155539 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S093 Stage1.webp" data-image-name="S093 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S093_Stage2.webp/revision/latest?cb=20220910155532" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S093_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910155532" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S093_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910155532 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S093_Stage2.webp/revision/latest?cb=20220910155532 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S093 Stage2.webp" data-image-name="S093 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S093_Stage3.webp/revision/latest?cb=20220910155525" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S093_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910155525" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S093_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910155525 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S093_Stage3.webp/revision/latest?cb=20220910155525 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S093 Stage3.webp" data-image-name="S093 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S093_Stage4.webp/revision/latest?cb=20220910155518" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S093_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910155518" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S093_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910155518 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4d/S093_Stage4.webp/revision/latest?cb=20220910155518 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S093 Stage4.webp" data-image-name="S093 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/S093_Costume1.webp/revision/latest?cb=20220910155511" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/S093_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910155511" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/S093_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910155511 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/S093_Costume1.webp/revision/latest?cb=20220910155511 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S093 Costume1.webp" data-image-name="S093 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/AF0093.png/revision/latest?cb=20180428125641" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/AF0093.png/revision/latest/scale-to-width-down/350?cb=20180428125641" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/AF0093.png/revision/latest/scale-to-width-down/350?cb=20180428125641 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c5/AF0093.png/revision/latest?cb=20180428125641 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0093.png" data-image-name="AF0093.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Amakusa_Shirou_Sprite_1.png/revision/latest?cb=20210303150749" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Amakusa_Shirou_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210303150749" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Amakusa_Shirou_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210303150749 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/67/Amakusa_Shirou_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210303150749 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Amakusa Shirou Sprite 1.png" data-image-name="Amakusa Shirou Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Amakusa_Shirou_Sprite_2.png/revision/latest?cb=20210303150748" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Amakusa_Shirou_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210303150748" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Amakusa_Shirou_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210303150748 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Amakusa_Shirou_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210303150748 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Amakusa Shirou Sprite 2.png" data-image-name="Amakusa Shirou Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/20/Amakusa_Shirou_Sprite_3.png/revision/latest?cb=20210303150746" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/20/Amakusa_Shirou_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210303150746" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/20/Amakusa_Shirou_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210303150746 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/20/Amakusa_Shirou_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210303150746 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Amakusa Shirou Sprite 3.png" data-image-name="Amakusa Shirou Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Amakusa_Shirou_Sprite_Costume.png/revision/latest?cb=20210303150744" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Amakusa_Shirou_Sprite_Costume.png/revision/latest/scale-to-width-down/350?cb=20210303150744" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Amakusa_Shirou_Sprite_Costume.png/revision/latest/scale-to-width-down/350?cb=20210303150744 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/31/Amakusa_Shirou_Sprite_Costume.png/revision/latest/scale-to-width-down/700?cb=20210303150744 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Amakusa Shirou Sprite Costume.png" data-image-name="Amakusa Shirou Sprite Costume.png">
+						
+					</a>
+				</figure>

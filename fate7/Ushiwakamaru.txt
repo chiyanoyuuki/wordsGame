@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest?cb=20210120102618" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102618" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102618 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120102618 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ushiwakamaru 1 Renewal Sprite.png" data-image-name="Ushiwakamaru 1 Renewal Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest?cb=20210120102616" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102616" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102616 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120102616 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ushiwakamaru 2 Renewal Sprite.png" data-image-name="Ushiwakamaru 2 Renewal Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest?cb=20210120102614" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102614" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102614 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120102614 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ushiwakamaru 3 Renewal Sprite.png" data-image-name="Ushiwakamaru 3 Renewal Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

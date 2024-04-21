@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/EdisonSprite1.png/revision/latest?cb=20220430122730" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/EdisonSprite1.png/revision/latest/scale-to-width-down/350?cb=20220430122730" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/EdisonSprite1.png/revision/latest/scale-to-width-down/350?cb=20220430122730 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/EdisonSprite1.png/revision/latest/scale-to-width-down/700?cb=20220430122730 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="EdisonSprite1.png" data-image-name="EdisonSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/EdisonSprite2.png/revision/latest?cb=20220430122735" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/EdisonSprite2.png/revision/latest/scale-to-width-down/350?cb=20220430122735" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/EdisonSprite2.png/revision/latest/scale-to-width-down/350?cb=20220430122735 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cb/EdisonSprite2.png/revision/latest/scale-to-width-down/700?cb=20220430122735 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="EdisonSprite2.png" data-image-name="EdisonSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Thomas_Sprite_3.png/revision/latest?cb=20220430122748" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Thomas_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20220430122748" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Thomas_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20220430122748 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/Thomas_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20220430122748 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Thomas Sprite 3.png" data-image-name="Thomas Sprite 3.png">
+						
+					</a>
+				</figure>

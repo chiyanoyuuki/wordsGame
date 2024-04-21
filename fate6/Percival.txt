@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S313_Stage1.webp/revision/latest?cb=20220925055129" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S313_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925055129" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S313_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925055129 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S313_Stage1.webp/revision/latest?cb=20220925055129 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S313 Stage1.webp" data-image-name="S313 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/62/S313_Stage2.webp/revision/latest?cb=20220925055120" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/62/S313_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925055120" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/62/S313_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925055120 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/62/S313_Stage2.webp/revision/latest?cb=20220925055120 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S313 Stage2.webp" data-image-name="S313 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/02/S313_Stage3.webp/revision/latest?cb=20220925055110" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/02/S313_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925055110" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/02/S313_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925055110 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/02/S313_Stage3.webp/revision/latest?cb=20220925055110 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S313 Stage3.webp" data-image-name="S313 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/S313_Stage4.webp/revision/latest?cb=20220925055101" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/S313_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925055101" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/S313_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925055101 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/S313_Stage4.webp/revision/latest?cb=20220925055101 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S313 Stage4.webp" data-image-name="S313 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S313_AprilFool.webp/revision/latest?cb=20230402083552" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S313_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083552" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S313_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083552 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/S313_AprilFool.webp/revision/latest?cb=20230402083552 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S313 AprilFool.webp" data-image-name="S313 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest?cb=20210714212141" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212141" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212141 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212141 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Percival 1 Sprite.png" data-image-name="Percival 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest?cb=20210714212136" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212136" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212136 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212136 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Percival 2 Sprite.png" data-image-name="Percival 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest?cb=20210714212131" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212131" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212131 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212131 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Percival 3 Sprite.png" data-image-name="Percival 3 Sprite.png">
+						
+					</a>
+				</figure>

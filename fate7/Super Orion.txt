@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Super_Orion_Sprite_1.png/revision/latest?cb=20191219013737" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Super_Orion_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191219013737" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Super_Orion_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191219013737 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f7/Super_Orion_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20191219013737 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Super Orion Sprite 1.png" data-image-name="Super Orion Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Super_Orion_Sprite_2.png/revision/latest?cb=20191219013757" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Super_Orion_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191219013757" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Super_Orion_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191219013757 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Super_Orion_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20191219013757 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Super Orion Sprite 2.png" data-image-name="Super Orion Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/82/Super_Orion_Sprite_3.png/revision/latest?cb=20191219013904" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/82/Super_Orion_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191219013904" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/82/Super_Orion_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191219013904 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/82/Super_Orion_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20191219013904 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Super Orion Sprite 3.png" data-image-name="Super Orion Sprite 3.png">
+						
+					</a>
+				</figure>

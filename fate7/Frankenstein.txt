@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Frankensteinsprite1.png/revision/latest?cb=20220430114327" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Frankensteinsprite1.png/revision/latest/scale-to-width-down/350?cb=20220430114327" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Frankensteinsprite1.png/revision/latest/scale-to-width-down/350?cb=20220430114327 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Frankensteinsprite1.png/revision/latest/scale-to-width-down/700?cb=20220430114327 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Frankensteinsprite1.png" data-image-name="Frankensteinsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Frankensteinsprite2.png/revision/latest?cb=20220430114333" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Frankensteinsprite2.png/revision/latest/scale-to-width-down/350?cb=20220430114333" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Frankensteinsprite2.png/revision/latest/scale-to-width-down/350?cb=20220430114333 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Frankensteinsprite2.png/revision/latest/scale-to-width-down/700?cb=20220430114333 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Frankensteinsprite2.png" data-image-name="Frankensteinsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/Frankensteinsprite3.png/revision/latest?cb=20220430114338" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/Frankensteinsprite3.png/revision/latest/scale-to-width-down/350?cb=20220430114338" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/Frankensteinsprite3.png/revision/latest/scale-to-width-down/350?cb=20220430114338 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8c/Frankensteinsprite3.png/revision/latest/scale-to-width-down/700?cb=20220430114338 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Frankensteinsprite3.png" data-image-name="Frankensteinsprite3.png">
+						
+					</a>
+				</figure>

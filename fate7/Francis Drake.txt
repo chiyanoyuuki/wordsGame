@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Drake_new_sprite1.png/revision/latest?cb=20200215155501" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Drake_new_sprite1.png/revision/latest/scale-to-width-down/350?cb=20200215155501" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Drake_new_sprite1.png/revision/latest/scale-to-width-down/350?cb=20200215155501 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Drake_new_sprite1.png/revision/latest/scale-to-width-down/700?cb=20200215155501 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Drake new sprite1.png" data-image-name="Drake new sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/48/Drake_new_sprite2.png/revision/latest?cb=20200215155508" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/48/Drake_new_sprite2.png/revision/latest/scale-to-width-down/350?cb=20200215155508" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/48/Drake_new_sprite2.png/revision/latest/scale-to-width-down/350?cb=20200215155508 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/48/Drake_new_sprite2.png/revision/latest/scale-to-width-down/700?cb=20200215155508 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Drake new sprite2.png" data-image-name="Drake new sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Drake_new_sprite3.png/revision/latest?cb=20200215155513" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Drake_new_sprite3.png/revision/latest/scale-to-width-down/350?cb=20200215155513" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Drake_new_sprite3.png/revision/latest/scale-to-width-down/350?cb=20200215155513 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Drake_new_sprite3.png/revision/latest/scale-to-width-down/700?cb=20200215155513 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Drake new sprite3.png" data-image-name="Drake new sprite3.png">
+						
+					</a>
+				</figure>

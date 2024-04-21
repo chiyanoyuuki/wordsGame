@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/NeroBride_NewSprite1.png/revision/latest?cb=20190113172602" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/NeroBride_NewSprite1.png/revision/latest/scale-to-width-down/350?cb=20190113172602" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/NeroBride_NewSprite1.png/revision/latest/scale-to-width-down/350?cb=20190113172602 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/NeroBride_NewSprite1.png/revision/latest?cb=20190113172602 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="315" data-image-key="NeroBride NewSprite1.png" data-image-name="NeroBride NewSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/NeroBride_NewSprite2.png/revision/latest?cb=20190113172122" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/NeroBride_NewSprite2.png/revision/latest/scale-to-width-down/350?cb=20190113172122" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/NeroBride_NewSprite2.png/revision/latest/scale-to-width-down/350?cb=20190113172122 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0c/NeroBride_NewSprite2.png/revision/latest?cb=20190113172122 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="322" data-image-key="NeroBride NewSprite2.png" data-image-name="NeroBride NewSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/75/NeroBride_NewSprite3.png/revision/latest?cb=20190113172127" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/75/NeroBride_NewSprite3.png/revision/latest/scale-to-width-down/350?cb=20190113172127" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/75/NeroBride_NewSprite3.png/revision/latest/scale-to-width-down/350?cb=20190113172127 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/75/NeroBride_NewSprite3.png/revision/latest/scale-to-width-down/700?cb=20190113172127 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="295" data-image-key="NeroBride NewSprite3.png" data-image-name="NeroBride NewSprite3.png">
+						
+					</a>
+				</figure>

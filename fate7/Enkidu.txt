@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/EnkiduSprite1.png/revision/latest?cb=20181008075656" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/EnkiduSprite1.png/revision/latest/scale-to-width-down/308?cb=20181008075656" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/EnkiduSprite1.png/revision/latest/scale-to-width-down/308?cb=20181008075656 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/EnkiduSprite1.png/revision/latest?cb=20181008075656 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="439" data-image-key="EnkiduSprite1.png" data-image-name="EnkiduSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/EnkiduSprite2.png/revision/latest?cb=20181008075703" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/EnkiduSprite2.png/revision/latest/scale-to-width-down/335?cb=20181008075703" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/EnkiduSprite2.png/revision/latest/scale-to-width-down/335?cb=20181008075703 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c2/EnkiduSprite2.png/revision/latest?cb=20181008075703 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="403" data-image-key="EnkiduSprite2.png" data-image-name="EnkiduSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/EnkiduSprite3.png/revision/latest?cb=20181008072351" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/EnkiduSprite3.png/revision/latest/scale-to-width-down/350?cb=20181008072351" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/EnkiduSprite3.png/revision/latest/scale-to-width-down/350?cb=20181008072351 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c0/EnkiduSprite3.png/revision/latest?cb=20181008072351 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="342" data-image-key="EnkiduSprite3.png" data-image-name="EnkiduSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

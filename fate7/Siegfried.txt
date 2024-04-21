@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest?cb=20220728140141" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest/scale-to-width-down/350?cb=20220728140141" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest/scale-to-width-down/350?cb=20220728140141 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest/scale-to-width-down/700?cb=20220728140141 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Siegfried new 1.png" data-image-name="Siegfried new 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest?cb=20220728140447" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest/scale-to-width-down/350?cb=20220728140447" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest/scale-to-width-down/350?cb=20220728140447 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest/scale-to-width-down/700?cb=20220728140447 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Siegfried new 2.png" data-image-name="Siegfried new 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest?cb=20220728140309" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest/scale-to-width-down/350?cb=20220728140309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest/scale-to-width-down/350?cb=20220728140309 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest/scale-to-width-down/700?cb=20220728140309 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Siegfried new 3.png" data-image-name="Siegfried new 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

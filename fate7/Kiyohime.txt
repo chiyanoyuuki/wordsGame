@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/23/KiyohimeNewSprite1.png/revision/latest?cb=20190102102305" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/23/KiyohimeNewSprite1.png/revision/latest/scale-to-width-down/350?cb=20190102102305" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/23/KiyohimeNewSprite1.png/revision/latest/scale-to-width-down/350?cb=20190102102305 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/23/KiyohimeNewSprite1.png/revision/latest/scale-to-width-down/700?cb=20190102102305 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="KiyohimeNewSprite1.png" data-image-name="KiyohimeNewSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/KiyohimeNewSprite2.png/revision/latest?cb=20190102102313" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/KiyohimeNewSprite2.png/revision/latest/scale-to-width-down/350?cb=20190102102313" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/KiyohimeNewSprite2.png/revision/latest/scale-to-width-down/350?cb=20190102102313 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d4/KiyohimeNewSprite2.png/revision/latest/scale-to-width-down/700?cb=20190102102313 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="KiyohimeNewSprite2.png" data-image-name="KiyohimeNewSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/32/KiyohimeNewSprite3.png/revision/latest?cb=20190102102319" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/32/KiyohimeNewSprite3.png/revision/latest/scale-to-width-down/350?cb=20190102102319" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/32/KiyohimeNewSprite3.png/revision/latest/scale-to-width-down/350?cb=20190102102319 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/32/KiyohimeNewSprite3.png/revision/latest/scale-to-width-down/700?cb=20190102102319 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="KiyohimeNewSprite3.png" data-image-name="KiyohimeNewSprite3.png">
+						
+					</a>
+				</figure>

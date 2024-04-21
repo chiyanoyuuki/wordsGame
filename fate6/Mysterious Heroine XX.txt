@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S222_Stage1.webp/revision/latest?cb=20220913151529" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S222_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913151529" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S222_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913151529 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/24/S222_Stage1.webp/revision/latest?cb=20220913151529 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S222 Stage1.webp" data-image-name="S222 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/25/S222_Stage2.webp/revision/latest?cb=20220913151520" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/25/S222_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913151520" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/25/S222_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913151520 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/25/S222_Stage2.webp/revision/latest?cb=20220913151520 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S222 Stage2.webp" data-image-name="S222 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/S222_Stage3.webp/revision/latest?cb=20220913151504" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/S222_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913151504" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/S222_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913151504 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c3/S222_Stage3.webp/revision/latest?cb=20220913151504 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S222 Stage3.webp" data-image-name="S222 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S222_Stage4.webp/revision/latest?cb=20220913151455" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S222_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913151455" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S222_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913151455 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/S222_Stage4.webp/revision/latest?cb=20220913151455 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S222 Stage4.webp" data-image-name="S222 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0222.png/revision/latest?cb=20200331205652" class="image image-thumbnail" title="April Fools">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0222.png/revision/latest/scale-to-width-down/350?cb=20200331205652" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0222.png/revision/latest/scale-to-width-down/350?cb=20200331205652 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0222.png/revision/latest?cb=20200331205652 2x" class="pi-image-thumbnail" alt="April Fools" width="270" height="382" data-image-key="AF0222.png" data-image-name="AF0222.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest?cb=20180811090328" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180811090328" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180811090328 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest/scale-to-width-down/699?cb=20180811090328 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="275" data-image-key="MHX Foreigner Sprite1.png" data-image-name="MHX Foreigner Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest?cb=20180814012934" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180814012934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180814012934 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20180814012934 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="159" data-image-key="MHX Foreigner Sprite2.png" data-image-name="MHX Foreigner Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest?cb=20200216142309" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216142309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216142309 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200216142309 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MHX Foreigner Sprite3.png" data-image-name="MHX Foreigner Sprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,90 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/84/S157_Stage1.webp/revision/latest?cb=20220911082909" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/84/S157_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911082909" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/84/S157_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911082909 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/84/S157_Stage1.webp/revision/latest?cb=20220911082909 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S157 Stage1.webp" data-image-name="S157 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S157_Stage2.webp/revision/latest?cb=20220911082901" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S157_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911082901" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S157_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911082901 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/82/S157_Stage2.webp/revision/latest?cb=20220911082901 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S157 Stage2.webp" data-image-name="S157 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/12/S157_Stage3.webp/revision/latest?cb=20220911082854" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/12/S157_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911082854" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/12/S157_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911082854 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/12/S157_Stage3.webp/revision/latest?cb=20220911082854 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S157 Stage3.webp" data-image-name="S157 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S157_Stage4.webp/revision/latest?cb=20220911082843" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S157_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911082843" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S157_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911082843 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S157_Stage4.webp/revision/latest?cb=20220911082843 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S157 Stage4.webp" data-image-name="S157 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/23/S157_NA_Stage1.webp/revision/latest?cb=20210131084932" class="image image-thumbnail" title="Stage 1 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/23/S157_NA_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20210131084932" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/23/S157_NA_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20210131084932 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/23/S157_NA_Stage1.webp/revision/latest?cb=20210131084932 2x" class="pi-image-thumbnail" alt="Stage 1 (NA)" width="270" height="382" data-image-key="S157 NA Stage1.webp" data-image-name="S157 NA Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S157_NA_Stage2.webp/revision/latest?cb=20210131084941" class="image image-thumbnail" title="Stage 2 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S157_NA_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20210131084941" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S157_NA_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20210131084941 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/00/S157_NA_Stage2.webp/revision/latest?cb=20210131084941 2x" class="pi-image-thumbnail" alt="Stage 2 (NA)" width="270" height="382" data-image-key="S157 NA Stage2.webp" data-image-name="S157 NA Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/50/S157_NA_Stage3.webp/revision/latest?cb=20210131084946" class="image image-thumbnail" title="Stage 3 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/50/S157_NA_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20210131084946" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/50/S157_NA_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20210131084946 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/50/S157_NA_Stage3.webp/revision/latest?cb=20210131084946 2x" class="pi-image-thumbnail" alt="Stage 3 (NA)" width="270" height="382" data-image-key="S157 NA Stage3.webp" data-image-name="S157 NA Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S157_NA_Stage4.webp/revision/latest?cb=20210131084953" class="image image-thumbnail" title="Stage 4 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S157_NA_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20210131084953" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S157_NA_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20210131084953 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e4/S157_NA_Stage4.webp/revision/latest?cb=20210131084953 2x" class="pi-image-thumbnail" alt="Stage 4 (NA)" width="270" height="382" data-image-key="S157 NA Stage4.webp" data-image-name="S157 NA Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0157.png/revision/latest?cb=20180428113530" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0157.png/revision/latest/scale-to-width-down/350?cb=20180428113530" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0157.png/revision/latest/scale-to-width-down/350?cb=20180428113530 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0157.png/revision/latest?cb=20180428113530 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0157.png" data-image-name="AF0157.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/80/EmiyaAlterSprite1.png/revision/latest?cb=20220430114646" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/80/EmiyaAlterSprite1.png/revision/latest/scale-to-width-down/350?cb=20220430114646" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/80/EmiyaAlterSprite1.png/revision/latest/scale-to-width-down/350?cb=20220430114646 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/80/EmiyaAlterSprite1.png/revision/latest/scale-to-width-down/700?cb=20220430114646 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="EmiyaAlterSprite1.png" data-image-name="EmiyaAlterSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/EmiyaAlterSprite2.png/revision/latest?cb=20220430114652" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/EmiyaAlterSprite2.png/revision/latest/scale-to-width-down/350?cb=20220430114652" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/EmiyaAlterSprite2.png/revision/latest/scale-to-width-down/350?cb=20220430114652 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b9/EmiyaAlterSprite2.png/revision/latest/scale-to-width-down/700?cb=20220430114652 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="EmiyaAlterSprite2.png" data-image-name="EmiyaAlterSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/EmiyaAlterSprite3.png/revision/latest?cb=20220430114656" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/EmiyaAlterSprite3.png/revision/latest/scale-to-width-down/350?cb=20220430114656" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/EmiyaAlterSprite3.png/revision/latest/scale-to-width-down/350?cb=20220430114656 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/EmiyaAlterSprite3.png/revision/latest/scale-to-width-down/700?cb=20220430114656 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="EmiyaAlterSprite3.png" data-image-name="EmiyaAlterSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/09/Emiya_Alter_NA_1.png/revision/latest?cb=20190306200358" class="image image-thumbnail" title="Sprite 1 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/09/Emiya_Alter_NA_1.png/revision/latest/scale-to-width-down/350?cb=20190306200358" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/09/Emiya_Alter_NA_1.png/revision/latest/scale-to-width-down/350?cb=20190306200358 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/09/Emiya_Alter_NA_1.png/revision/latest/scale-to-width-down/700?cb=20190306200358 2x" class="pi-image-thumbnail" alt="Sprite 1 (NA)" width="270" height="270" data-image-key="Emiya Alter NA 1.png" data-image-name="Emiya Alter NA 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Emiya_Alter_NA_2.png/revision/latest?cb=20190306200415" class="image image-thumbnail" title="Sprite 2 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Emiya_Alter_NA_2.png/revision/latest/scale-to-width-down/350?cb=20190306200415" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Emiya_Alter_NA_2.png/revision/latest/scale-to-width-down/350?cb=20190306200415 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Emiya_Alter_NA_2.png/revision/latest/scale-to-width-down/700?cb=20190306200415 2x" class="pi-image-thumbnail" alt="Sprite 2 (NA)" width="270" height="270" data-image-key="Emiya Alter NA 2.png" data-image-name="Emiya Alter NA 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/Emiya_Alter_NA_3.png/revision/latest?cb=20190306200428" class="image image-thumbnail" title="Sprite 3 (NA)">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/Emiya_Alter_NA_3.png/revision/latest/scale-to-width-down/350?cb=20190306200428" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/Emiya_Alter_NA_3.png/revision/latest/scale-to-width-down/350?cb=20190306200428 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d6/Emiya_Alter_NA_3.png/revision/latest/scale-to-width-down/700?cb=20190306200428 2x" class="pi-image-thumbnail" alt="Sprite 3 (NA)" width="270" height="270" data-image-key="Emiya Alter NA 3.png" data-image-name="Emiya Alter NA 3.png">
+						
+					</a>
+				</figure>

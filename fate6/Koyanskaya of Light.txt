@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/46/S314_Stage1.webp/revision/latest?cb=20220925055045" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/46/S314_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925055045" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/46/S314_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925055045 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/46/S314_Stage1.webp/revision/latest?cb=20220925055045 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S314 Stage1.webp" data-image-name="S314 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/S314_Stage2.webp/revision/latest?cb=20220925055036" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/S314_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925055036" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/S314_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925055036 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e3/S314_Stage2.webp/revision/latest?cb=20220925055036 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S314 Stage2.webp" data-image-name="S314 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S314_Stage3.webp/revision/latest?cb=20220925055027" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S314_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925055027" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S314_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925055027 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S314_Stage3.webp/revision/latest?cb=20220925055027 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S314 Stage3.webp" data-image-name="S314 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/16/S314_Stage4.webp/revision/latest?cb=20220925055017" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/16/S314_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925055017" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/16/S314_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925055017 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/16/S314_Stage4.webp/revision/latest?cb=20220925055017 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S314 Stage4.webp" data-image-name="S314 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S314_Costume1.webp/revision/latest?cb=20221226145527" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S314_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20221226145527" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S314_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20221226145527 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/S314_Costume1.webp/revision/latest?cb=20221226145527 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S314 Costume1.webp" data-image-name="S314 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S314_AprilFool.webp/revision/latest?cb=20230402083602" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S314_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083602" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S314_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083602 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/S314_AprilFool.webp/revision/latest?cb=20230402083602 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S314 AprilFool.webp" data-image-name="S314 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Koyanskaya_of_Light_Sprite_1.png/revision/latest?cb=20210802012752" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Koyanskaya_of_Light_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210802012752" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Koyanskaya_of_Light_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210802012752 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Koyanskaya_of_Light_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210802012752 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Koyanskaya of Light Sprite 1.png" data-image-name="Koyanskaya of Light Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Koyanskaya_of_Light_Sprite_2.png/revision/latest?cb=20210802012748" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Koyanskaya_of_Light_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210802012748" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Koyanskaya_of_Light_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210802012748 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Koyanskaya_of_Light_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210802012748 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Koyanskaya of Light Sprite 2.png" data-image-name="Koyanskaya of Light Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Koyanskaya_of_Light_Sprite_3.png/revision/latest?cb=20210802012742" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Koyanskaya_of_Light_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210802012742" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Koyanskaya_of_Light_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210802012742 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Koyanskaya_of_Light_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210802012742 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Koyanskaya of Light Sprite 3.png" data-image-name="Koyanskaya of Light Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Koyanskaya_of_Light_Sprite_cos1.png/revision/latest?cb=20221229062851" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Koyanskaya_of_Light_Sprite_cos1.png/revision/latest/scale-to-width-down/350?cb=20221229062851" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Koyanskaya_of_Light_Sprite_cos1.png/revision/latest/scale-to-width-down/350?cb=20221229062851 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/Koyanskaya_of_Light_Sprite_cos1.png/revision/latest/scale-to-width-down/700?cb=20221229062851 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Koyanskaya of Light Sprite cos1.png" data-image-name="Koyanskaya of Light Sprite cos1.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/61/Astolfosprite1.png/revision/latest?cb=20200216140536" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/61/Astolfosprite1.png/revision/latest/scale-to-width-down/350?cb=20200216140536" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/61/Astolfosprite1.png/revision/latest/scale-to-width-down/350?cb=20200216140536 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/61/Astolfosprite1.png/revision/latest/scale-to-width-down/700?cb=20200216140536 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Astolfosprite1.png" data-image-name="Astolfosprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5e/Astolfosprite2.png/revision/latest?cb=20200216140541" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5e/Astolfosprite2.png/revision/latest/scale-to-width-down/350?cb=20200216140541" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5e/Astolfosprite2.png/revision/latest/scale-to-width-down/350?cb=20200216140541 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5e/Astolfosprite2.png/revision/latest/scale-to-width-down/700?cb=20200216140541 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Astolfosprite2.png" data-image-name="Astolfosprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Astolfosprite3.png/revision/latest?cb=20200216140546" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Astolfosprite3.png/revision/latest/scale-to-width-down/350?cb=20200216140546" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Astolfosprite3.png/revision/latest/scale-to-width-down/350?cb=20200216140546 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Astolfosprite3.png/revision/latest/scale-to-width-down/700?cb=20200216140546 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Astolfosprite3.png" data-image-name="Astolfosprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

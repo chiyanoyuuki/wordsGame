@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Sakamoto_Ryouma_Lancer_1_Sprite.png/revision/latest?cb=20211126173447" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Sakamoto_Ryouma_Lancer_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211126173447" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Sakamoto_Ryouma_Lancer_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211126173447 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Sakamoto_Ryouma_Lancer_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211126173447 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sakamoto Ryouma Lancer 1 Sprite.png" data-image-name="Sakamoto Ryouma Lancer 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/db/Sakamoto_Ryouma_Lancer_2_Sprite.png/revision/latest?cb=20211126173450" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/db/Sakamoto_Ryouma_Lancer_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211126173450" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/db/Sakamoto_Ryouma_Lancer_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211126173450 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/db/Sakamoto_Ryouma_Lancer_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211126173450 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sakamoto Ryouma Lancer 2 Sprite.png" data-image-name="Sakamoto Ryouma Lancer 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/Sakamoto_Ryouma_Lancer_3_Sprite.png/revision/latest?cb=20211126173507" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/Sakamoto_Ryouma_Lancer_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211126173507" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/Sakamoto_Ryouma_Lancer_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211126173507 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5f/Sakamoto_Ryouma_Lancer_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211126173507 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sakamoto Ryouma Lancer 3 Sprite.png" data-image-name="Sakamoto Ryouma Lancer 3 Sprite.png">
+						
+					</a>
+				</figure>

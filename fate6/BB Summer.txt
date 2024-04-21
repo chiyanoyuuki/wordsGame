@@ -1,0 +1,72 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/16/S220_Stage1.webp/revision/latest?cb=20220913150953" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/16/S220_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913150953" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/16/S220_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913150953 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/16/S220_Stage1.webp/revision/latest?cb=20220913150953 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S220 Stage1.webp" data-image-name="S220 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S220_Stage2.webp/revision/latest?cb=20220913150944" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S220_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913150944" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S220_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913150944 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S220_Stage2.webp/revision/latest?cb=20220913150944 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S220 Stage2.webp" data-image-name="S220 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S220_Stage3.webp/revision/latest?cb=20220913151307" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S220_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913151307" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S220_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913151307 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/af/S220_Stage3.webp/revision/latest?cb=20220913151307 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S220 Stage3.webp" data-image-name="S220 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S220_Stage4.webp/revision/latest?cb=20220913151257" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S220_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913151257" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S220_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913151257 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S220_Stage4.webp/revision/latest?cb=20220913151257 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S220 Stage4.webp" data-image-name="S220 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S220_Costume1.webp/revision/latest?cb=20220913151247" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S220_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220913151247" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S220_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220913151247 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S220_Costume1.webp/revision/latest?cb=20220913151247 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S220 Costume1.webp" data-image-name="S220 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S220_Costume2.webp/revision/latest?cb=20220913151233" class="image image-thumbnail" title="Costume 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S220_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220913151233" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S220_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220913151233 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S220_Costume2.webp/revision/latest?cb=20220913151233 2x" class="pi-image-thumbnail" alt="Costume 2" width="270" height="382" data-image-key="S220 Costume2.webp" data-image-name="S220 Costume2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/54/AF0220.png/revision/latest?cb=20200401001337" class="image image-thumbnail" title="April Fools">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/54/AF0220.png/revision/latest/scale-to-width-down/350?cb=20200401001337" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/54/AF0220.png/revision/latest/scale-to-width-down/350?cb=20200401001337 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/54/AF0220.png/revision/latest?cb=20200401001337 2x" class="pi-image-thumbnail" alt="April Fools" width="270" height="382" data-image-key="AF0220.png" data-image-name="AF0220.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/BB_Summer_1_Sprite.png/revision/latest?cb=20200216142118" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/BB_Summer_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200216142118" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/BB_Summer_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200216142118 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/BB_Summer_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200216142118 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="BB Summer 1 Sprite.png" data-image-name="BB Summer 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/71/BB_Summer_Sprite2.png/revision/latest?cb=20200216142122" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/71/BB_Summer_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200216142122" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/71/BB_Summer_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200216142122 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/71/BB_Summer_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20200216142122 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="BB Summer Sprite2.png" data-image-name="BB Summer Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/BB_Summer_3_Sprite.png/revision/latest?cb=20200216142145" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/BB_Summer_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200216142145" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/BB_Summer_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200216142145 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/BB_Summer_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200216142145 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="BB Summer 3 Sprite.png" data-image-name="BB Summer 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/70/BB_Summer_Alt_1_Sprite.png/revision/latest?cb=20200216142127" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/70/BB_Summer_Alt_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200216142127" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/70/BB_Summer_Alt_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200216142127 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/70/BB_Summer_Alt_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200216142127 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="BB Summer Alt 1 Sprite.png" data-image-name="BB Summer Alt 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/87/BB_Summer_Alt_2_Sprite.png/revision/latest?cb=20180821213942" class="image image-thumbnail" title="Costume 2 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/87/BB_Summer_Alt_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20180821213942" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/87/BB_Summer_Alt_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20180821213942 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/87/BB_Summer_Alt_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20180821213942 2x" class="pi-image-thumbnail" alt="Costume 2 Sprite" width="270" height="289" data-image-key="BB Summer Alt 2 Sprite.png" data-image-name="BB Summer Alt 2 Sprite.png">
+						
+					</a>
+				</figure>

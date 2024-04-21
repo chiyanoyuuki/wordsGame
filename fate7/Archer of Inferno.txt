@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/TomoeGozenSprite1.png/revision/latest?cb=20181011130127" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/TomoeGozenSprite1.png/revision/latest/scale-to-width-down/350?cb=20181011130127" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/TomoeGozenSprite1.png/revision/latest/scale-to-width-down/350?cb=20181011130127 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/TomoeGozenSprite1.png/revision/latest/scale-to-width-down/700?cb=20181011130127 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="252" data-image-key="TomoeGozenSprite1.png" data-image-name="TomoeGozenSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/TomoeGozenSprite2.png/revision/latest?cb=20181010133307" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/TomoeGozenSprite2.png/revision/latest/scale-to-width-down/350?cb=20181010133307" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/TomoeGozenSprite2.png/revision/latest/scale-to-width-down/350?cb=20181010133307 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7f/TomoeGozenSprite2.png/revision/latest/scale-to-width-down/700?cb=20181010133307 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="246" data-image-key="TomoeGozenSprite2.png" data-image-name="TomoeGozenSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/54/TomoeGozenSprite3.png/revision/latest?cb=20181005164957" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/54/TomoeGozenSprite3.png/revision/latest/scale-to-width-down/350?cb=20181005164957" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/54/TomoeGozenSprite3.png/revision/latest/scale-to-width-down/350?cb=20181005164957 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/54/TomoeGozenSprite3.png/revision/latest/scale-to-width-down/700?cb=20181005164957 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="234" data-image-key="TomoeGozenSprite3.png" data-image-name="TomoeGozenSprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest?cb=20190812165933" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165933" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165933 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Salome_Sprite_1_With_Effects.png/revision/latest/scale-to-width-down/700?cb=20190812165933 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Salome Sprite 1 With Effects.png" data-image-name="Salome Sprite 1 With Effects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest?cb=20190812165936" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165936 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/af/Salome_Sprite_2_With_Effects.png/revision/latest/scale-to-width-down/700?cb=20190812165936 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Salome Sprite 2 With Effects.png" data-image-name="Salome Sprite 2 With Effects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest?cb=20190812165939" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165939" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest/scale-to-width-down/350?cb=20190812165939 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Salome_Sprite_3_With_Effects.png/revision/latest/scale-to-width-down/700?cb=20190812165939 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Salome Sprite 3 With Effects.png" data-image-name="Salome Sprite 3 With Effects.png">
+						
+					</a>
+				</figure>

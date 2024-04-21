@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Phantomsprite1.png/revision/latest?cb=20200216092455" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Phantomsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216092455" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Phantomsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216092455 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Phantomsprite1.png/revision/latest/scale-to-width-down/700?cb=20200216092455 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Phantomsprite1.png" data-image-name="Phantomsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/42/Phantomsprite2.png/revision/latest?cb=20200216092501" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/42/Phantomsprite2.png/revision/latest/scale-to-width-down/350?cb=20200216092501" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/42/Phantomsprite2.png/revision/latest/scale-to-width-down/350?cb=20200216092501 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/42/Phantomsprite2.png/revision/latest/scale-to-width-down/700?cb=20200216092501 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Phantomsprite2.png" data-image-name="Phantomsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Phantomsprite3.png/revision/latest?cb=20200216092506" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Phantomsprite3.png/revision/latest/scale-to-width-down/350?cb=20200216092506" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Phantomsprite3.png/revision/latest/scale-to-width-down/350?cb=20200216092506 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Phantomsprite3.png/revision/latest/scale-to-width-down/700?cb=20200216092506 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Phantomsprite3.png" data-image-name="Phantomsprite3.png">
+						
+					</a>
+				</figure>

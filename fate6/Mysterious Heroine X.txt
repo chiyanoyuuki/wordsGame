@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S086_Stage1.webp/revision/latest?cb=20220910154139" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S086_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910154139" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S086_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910154139 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/00/S086_Stage1.webp/revision/latest?cb=20220910154139 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S086 Stage1.webp" data-image-name="S086 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/86/S086_Stage2.webp/revision/latest?cb=20220910154133" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/86/S086_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910154133" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/86/S086_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910154133 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/86/S086_Stage2.webp/revision/latest?cb=20220910154133 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S086 Stage2.webp" data-image-name="S086 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S086_Stage3.webp/revision/latest?cb=20220910154126" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S086_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910154126" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S086_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910154126 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S086_Stage3.webp/revision/latest?cb=20220910154126 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S086 Stage3.webp" data-image-name="S086 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S086_Stage4.webp/revision/latest?cb=20220910154119" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S086_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910154119" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S086_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910154119 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/35/S086_Stage4.webp/revision/latest?cb=20220910154119 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S086 Stage4.webp" data-image-name="S086 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/33/S086_Costume1.webp/revision/latest?cb=20220910154113" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/33/S086_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910154113" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/33/S086_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910154113 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/33/S086_Costume1.webp/revision/latest?cb=20220910154113 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S086 Costume1.webp" data-image-name="S086 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/AF0086.png/revision/latest?cb=20180428133752" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/AF0086.png/revision/latest/scale-to-width-down/350?cb=20180428133752" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/AF0086.png/revision/latest/scale-to-width-down/350?cb=20180428133752 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/AF0086.png/revision/latest?cb=20180428133752 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0086.png" data-image-name="AF0086.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest?cb=20190922172138" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest/scale-to-width-down/350?cb=20190922172138" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest/scale-to-width-down/350?cb=20190922172138 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest/scale-to-width-down/700?cb=20190922172138 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="MHXSprite1New.png" data-image-name="MHXSprite1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest?cb=20190922172156" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest/scale-to-width-down/350?cb=20190922172156" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest/scale-to-width-down/350?cb=20190922172156 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest/scale-to-width-down/700?cb=20190922172156 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="MHXSprite2New.png" data-image-name="MHXSprite2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest?cb=20190922172202" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest/scale-to-width-down/350?cb=20190922172202" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest/scale-to-width-down/350?cb=20190922172202 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest/scale-to-width-down/700?cb=20190922172202 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MHXSprite3New.png" data-image-name="MHXSprite3New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/MHX_Costume_Sprite.png/revision/latest?cb=20191031060146" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/MHX_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20191031060146" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/MHX_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20191031060146 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f2/MHX_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20191031060146 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="MHX Costume Sprite.png" data-image-name="MHX Costume Sprite.png">
+						
+					</a>
+				</figure>

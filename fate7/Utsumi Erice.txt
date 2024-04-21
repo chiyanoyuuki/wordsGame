@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Erice_Utsumi_Sprite.png/revision/latest?cb=20200525212154" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Erice_Utsumi_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200525212154" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Erice_Utsumi_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200525212154 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Erice_Utsumi_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200525212154 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Erice Utsumi Sprite.png" data-image-name="Erice Utsumi Sprite.png">
+						
+					</a>
+				</figure>

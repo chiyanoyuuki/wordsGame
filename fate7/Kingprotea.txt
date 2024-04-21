@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Kingprotea_Boss.png/revision/latest?cb=20190302033600" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Kingprotea_Boss.png/revision/latest/scale-to-width-down/350?cb=20190302033600" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Kingprotea_Boss.png/revision/latest/scale-to-width-down/350?cb=20190302033600 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/47/Kingprotea_Boss.png/revision/latest/scale-to-width-down/700?cb=20190302033600 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kingprotea Boss.png" data-image-name="Kingprotea Boss.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/91/Kingprotea_Stage2.png/revision/latest?cb=20190302033613" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/91/Kingprotea_Stage2.png/revision/latest/scale-to-width-down/350?cb=20190302033613" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/91/Kingprotea_Stage2.png/revision/latest/scale-to-width-down/350?cb=20190302033613 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/91/Kingprotea_Stage2.png/revision/latest/scale-to-width-down/700?cb=20190302033613 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kingprotea Stage2.png" data-image-name="Kingprotea Stage2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kingprotea_Stage3.png/revision/latest?cb=20190302033618" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kingprotea_Stage3.png/revision/latest/scale-to-width-down/350?cb=20190302033618" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kingprotea_Stage3.png/revision/latest/scale-to-width-down/350?cb=20190302033618 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kingprotea_Stage3.png/revision/latest/scale-to-width-down/700?cb=20190302033618 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kingprotea Stage3.png" data-image-name="Kingprotea Stage3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

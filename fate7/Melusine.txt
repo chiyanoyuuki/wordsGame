@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest?cb=20210715154043" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154043" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154043 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210715154043 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Fairy Knight Lancelot 1 Sprite.png" data-image-name="Fairy Knight Lancelot 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest?cb=20210715154039" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154039" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154039 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210715154039 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Fairy Knight Lancelot 2 Sprite.png" data-image-name="Fairy Knight Lancelot 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest?cb=20210715154035" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154035" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154035 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210715154035 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Fairy Knight Lancelot 3 Sprite.png" data-image-name="Fairy Knight Lancelot 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

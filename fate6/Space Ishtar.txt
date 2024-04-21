@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S268_Stage1.webp/revision/latest?cb=20220919131734" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S268_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919131734" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S268_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919131734 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S268_Stage1.webp/revision/latest?cb=20220919131734 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S268 Stage1.webp" data-image-name="S268 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/67/S268_Stage2.webp/revision/latest?cb=20220919131726" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/67/S268_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919131726" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/67/S268_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919131726 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/67/S268_Stage2.webp/revision/latest?cb=20220919131726 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S268 Stage2.webp" data-image-name="S268 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage3.webp/revision/latest?cb=20220919131719" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919131719" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919131719 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage3.webp/revision/latest?cb=20220919131719 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S268 Stage3.webp" data-image-name="S268 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage4.webp/revision/latest?cb=20220919131709" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919131709" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919131709 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S268_Stage4.webp/revision/latest?cb=20220919131709 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S268 Stage4.webp" data-image-name="S268 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S268_Costume1.webp/revision/latest?cb=20220919131702" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S268_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220919131702" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S268_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220919131702 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S268_Costume1.webp/revision/latest?cb=20220919131702 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S268 Costume1.webp" data-image-name="S268 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/24/AF0268.png/revision/latest?cb=20200331215219" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/24/AF0268.png/revision/latest/scale-to-width-down/350?cb=20200331215219" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/24/AF0268.png/revision/latest/scale-to-width-down/350?cb=20200331215219 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/24/AF0268.png/revision/latest?cb=20200331215219 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0268.png" data-image-name="AF0268.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Space_Rin_Sprite_1.png/revision/latest?cb=20191031125357" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Space_Rin_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191031125357" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Space_Rin_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191031125357 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Space_Rin_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20191031125357 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Space Rin Sprite 1.png" data-image-name="Space Rin Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/85/Space_Rin_Sprite_2.png/revision/latest?cb=20191031125431" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/85/Space_Rin_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191031125431" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/85/Space_Rin_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191031125431 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/85/Space_Rin_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20191031125431 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Space Rin Sprite 2.png" data-image-name="Space Rin Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Space_Rin_Sprite_3.png/revision/latest?cb=20191031125442" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Space_Rin_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191031125442" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Space_Rin_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191031125442 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/Space_Rin_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20191031125442 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Space Rin Sprite 3.png" data-image-name="Space Rin Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Space_Rin_Sprite_Costume.png/revision/latest?cb=20191031125454" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Space_Rin_Sprite_Costume.png/revision/latest/scale-to-width-down/350?cb=20191031125454" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Space_Rin_Sprite_Costume.png/revision/latest/scale-to-width-down/350?cb=20191031125454 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/75/Space_Rin_Sprite_Costume.png/revision/latest/scale-to-width-down/700?cb=20191031125454 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Space Rin Sprite Costume.png" data-image-name="Space Rin Sprite Costume.png">
+						
+					</a>
+				</figure>

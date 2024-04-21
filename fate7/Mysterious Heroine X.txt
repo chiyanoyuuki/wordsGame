@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest?cb=20190922172138" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest/scale-to-width-down/350?cb=20190922172138" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest/scale-to-width-down/350?cb=20190922172138 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0e/MHXSprite1New.png/revision/latest/scale-to-width-down/700?cb=20190922172138 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="MHXSprite1New.png" data-image-name="MHXSprite1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest?cb=20190922172156" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest/scale-to-width-down/350?cb=20190922172156" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest/scale-to-width-down/350?cb=20190922172156 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/08/MHXSprite2New.png/revision/latest/scale-to-width-down/700?cb=20190922172156 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="MHXSprite2New.png" data-image-name="MHXSprite2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest?cb=20190922172202" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest/scale-to-width-down/350?cb=20190922172202" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest/scale-to-width-down/350?cb=20190922172202 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e4/MHXSprite3New.png/revision/latest/scale-to-width-down/700?cb=20190922172202 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MHXSprite3New.png" data-image-name="MHXSprite3New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

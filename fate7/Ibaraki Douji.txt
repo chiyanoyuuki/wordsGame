@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest?cb=20180929064137" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest/scale-to-width-down/350?cb=20180929064137" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest/scale-to-width-down/350?cb=20180929064137 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest/scale-to-width-down/699?cb=20180929064137 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="206" data-image-key="Ibarakisprite1.png" data-image-name="Ibarakisprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest?cb=20180929061701" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest/scale-to-width-down/350?cb=20180929061701" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest/scale-to-width-down/350?cb=20180929061701 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest/scale-to-width-down/699?cb=20180929061701 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="206" data-image-key="Ibarakisprite2.png" data-image-name="Ibarakisprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest?cb=20180929062309" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest/scale-to-width-down/350?cb=20180929062309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest/scale-to-width-down/350?cb=20180929062309 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest/scale-to-width-down/700?cb=20180929062309 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="236" data-image-key="Ibarakisprite3.png" data-image-name="Ibarakisprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Vritra_1_Sprite.png/revision/latest?cb=20201218035848" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Vritra_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201218035848" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Vritra_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201218035848 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Vritra_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201218035848 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Vritra 1 Sprite.png" data-image-name="Vritra 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/40/Vritra_2_Sprite.png/revision/latest?cb=20201218035855" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/40/Vritra_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201218035855" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/40/Vritra_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201218035855 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/40/Vritra_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201218035855 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Vritra 2 Sprite.png" data-image-name="Vritra 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Vritra_3_Sprite.png/revision/latest?cb=20201218035903" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Vritra_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201218035903" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Vritra_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201218035903 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Vritra_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201218035903 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Vritra 3 Sprite.png" data-image-name="Vritra 3 Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/Mataharisprite1.png/revision/latest?cb=20200216095901" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/Mataharisprite1.png/revision/latest/scale-to-width-down/350?cb=20200216095901" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/Mataharisprite1.png/revision/latest/scale-to-width-down/350?cb=20200216095901 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8a/Mataharisprite1.png/revision/latest/scale-to-width-down/700?cb=20200216095901 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Mataharisprite1.png" data-image-name="Mataharisprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/14/Mataharisprite2.png/revision/latest?cb=20200216095906" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/14/Mataharisprite2.png/revision/latest/scale-to-width-down/350?cb=20200216095906" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/14/Mataharisprite2.png/revision/latest/scale-to-width-down/350?cb=20200216095906 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/14/Mataharisprite2.png/revision/latest/scale-to-width-down/700?cb=20200216095906 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Mataharisprite2.png" data-image-name="Mataharisprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Mataharisprite3.png/revision/latest?cb=20200216095911" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Mataharisprite3.png/revision/latest/scale-to-width-down/350?cb=20200216095911" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Mataharisprite3.png/revision/latest/scale-to-width-down/350?cb=20200216095911 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Mataharisprite3.png/revision/latest/scale-to-width-down/700?cb=20200216095911 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Mataharisprite3.png" data-image-name="Mataharisprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/77/EmiyaArcher_NewSprite1.png/revision/latest?cb=20200216094150" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/77/EmiyaArcher_NewSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216094150" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/77/EmiyaArcher_NewSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216094150 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/77/EmiyaArcher_NewSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216094150 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="EmiyaArcher NewSprite1.png" data-image-name="EmiyaArcher NewSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/EmiyaArcher_NewSprite2.png/revision/latest?cb=20200216094159" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/EmiyaArcher_NewSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216094159" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/EmiyaArcher_NewSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216094159 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/EmiyaArcher_NewSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216094159 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="EmiyaArcher NewSprite2.png" data-image-name="EmiyaArcher NewSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/79/EmiyaArcher_NewSprite3.png/revision/latest?cb=20200216094217" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/79/EmiyaArcher_NewSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216094217" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/79/EmiyaArcher_NewSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216094217 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/79/EmiyaArcher_NewSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216094217 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="EmiyaArcher NewSprite3.png" data-image-name="EmiyaArcher NewSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

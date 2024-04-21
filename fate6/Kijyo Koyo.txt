@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S282_Stage1.webp/revision/latest?cb=20220924010945" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S282_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924010945" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S282_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924010945 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/be/S282_Stage1.webp/revision/latest?cb=20220924010945 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S282 Stage1.webp" data-image-name="S282 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S282_Stage2.webp/revision/latest?cb=20220924010936" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S282_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220924010936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S282_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220924010936 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/79/S282_Stage2.webp/revision/latest?cb=20220924010936 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S282 Stage2.webp" data-image-name="S282 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/02/S282_Stage3.webp/revision/latest?cb=20220924010926" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/02/S282_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220924010926" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/02/S282_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220924010926 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/02/S282_Stage3.webp/revision/latest?cb=20220924010926 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S282 Stage3.webp" data-image-name="S282 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S282_Stage4.webp/revision/latest?cb=20220924010916" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S282_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924010916" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S282_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924010916 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S282_Stage4.webp/revision/latest?cb=20220924010916 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S282 Stage4.webp" data-image-name="S282 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/AF0282.png/revision/latest?cb=20210402125735" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/AF0282.png/revision/latest/scale-to-width-down/350?cb=20210402125735" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/AF0282.png/revision/latest/scale-to-width-down/350?cb=20210402125735 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1e/AF0282.png/revision/latest?cb=20210402125735 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0282.png" data-image-name="AF0282.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Kijyo_Koyo_Sprite_1.png/revision/latest?cb=20200525204304" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Kijyo_Koyo_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200525204304" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Kijyo_Koyo_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200525204304 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Kijyo_Koyo_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20200525204304 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kijyo Koyo Sprite 1.png" data-image-name="Kijyo Koyo Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kijyo_Koyo_Sprite_2.png/revision/latest?cb=20200525204305" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kijyo_Koyo_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200525204305" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kijyo_Koyo_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200525204305 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d0/Kijyo_Koyo_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200525204305 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kijyo Koyo Sprite 2.png" data-image-name="Kijyo Koyo Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Kijyo_Koyo_Sprite_3.png/revision/latest?cb=20200525204306" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Kijyo_Koyo_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200525204306" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Kijyo_Koyo_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200525204306 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Kijyo_Koyo_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20200525204306 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kijyo Koyo Sprite 3.png" data-image-name="Kijyo Koyo Sprite 3.png">
+						
+					</a>
+				</figure>

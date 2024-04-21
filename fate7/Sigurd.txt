@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite1.png/revision/latest?cb=20200118143450" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite1.png/revision/latest/scale-to-width-down/350?cb=20200118143450" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite1.png/revision/latest/scale-to-width-down/350?cb=20200118143450 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite1.png/revision/latest/scale-to-width-down/700?cb=20200118143450 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="SigurdSprite1.png" data-image-name="SigurdSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite2.png/revision/latest?cb=20200118143456" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite2.png/revision/latest/scale-to-width-down/350?cb=20200118143456" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite2.png/revision/latest/scale-to-width-down/350?cb=20200118143456 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/SigurdSprite2.png/revision/latest/scale-to-width-down/700?cb=20200118143456 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="SigurdSprite2.png" data-image-name="SigurdSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/SigurdSprite3.png/revision/latest?cb=20200118143501" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/SigurdSprite3.png/revision/latest/scale-to-width-down/350?cb=20200118143501" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/SigurdSprite3.png/revision/latest/scale-to-width-down/350?cb=20200118143501 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6b/SigurdSprite3.png/revision/latest/scale-to-width-down/700?cb=20200118143501 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="SigurdSprite3.png" data-image-name="SigurdSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

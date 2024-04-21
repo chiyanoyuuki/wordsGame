@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5d/Heracles_new_sprite1.png/revision/latest?cb=20200222125830" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5d/Heracles_new_sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222125830" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5d/Heracles_new_sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222125830 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5d/Heracles_new_sprite1.png/revision/latest/scale-to-width-down/700?cb=20200222125830 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Heracles new sprite1.png" data-image-name="Heracles new sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/82/Heracles_new_sprite2.png/revision/latest?cb=20200222125840" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/82/Heracles_new_sprite2.png/revision/latest/scale-to-width-down/350?cb=20200222125840" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/82/Heracles_new_sprite2.png/revision/latest/scale-to-width-down/350?cb=20200222125840 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/82/Heracles_new_sprite2.png/revision/latest/scale-to-width-down/700?cb=20200222125840 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Heracles new sprite2.png" data-image-name="Heracles new sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/13/Heracles_new_sprite3.png/revision/latest?cb=20200222125845" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/13/Heracles_new_sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222125845" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/13/Heracles_new_sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222125845 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/13/Heracles_new_sprite3.png/revision/latest/scale-to-width-down/700?cb=20200222125845 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Heracles new sprite3.png" data-image-name="Heracles new sprite3.png">
+						
+					</a>
+				</figure>

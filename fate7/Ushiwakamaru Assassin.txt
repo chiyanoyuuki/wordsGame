@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Ushiwakamaru_Assassin_Sprite1.png/revision/latest?cb=20200216141718" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Ushiwakamaru_Assassin_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200216141718" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Ushiwakamaru_Assassin_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200216141718 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Ushiwakamaru_Assassin_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20200216141718 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ushiwakamaru Assassin Sprite1.png" data-image-name="Ushiwakamaru Assassin Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Ushiwakamaru_Assassin_Sprite2.png/revision/latest?cb=20200216141723" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Ushiwakamaru_Assassin_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200216141723" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Ushiwakamaru_Assassin_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200216141723 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Ushiwakamaru_Assassin_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20200216141723 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ushiwakamaru Assassin Sprite2.png" data-image-name="Ushiwakamaru Assassin Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/62/Ushiwakamaru_Assassin_Sprite3.png/revision/latest?cb=20200216141728" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/62/Ushiwakamaru_Assassin_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216141728" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/62/Ushiwakamaru_Assassin_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216141728 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/62/Ushiwakamaru_Assassin_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200216141728 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ushiwakamaru Assassin Sprite3.png" data-image-name="Ushiwakamaru Assassin Sprite3.png">
+						
+					</a>
+				</figure>

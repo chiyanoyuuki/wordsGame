@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/65/MHXAlterSprite1.png/revision/latest?cb=20190208145541" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/65/MHXAlterSprite1.png/revision/latest/scale-to-width-down/350?cb=20190208145541" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/65/MHXAlterSprite1.png/revision/latest/scale-to-width-down/350?cb=20190208145541 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/65/MHXAlterSprite1.png/revision/latest/scale-to-width-down/700?cb=20190208145541 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="MHXAlterSprite1.png" data-image-name="MHXAlterSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/MHXAlterSprite2.png/revision/latest?cb=20190208145546" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/MHXAlterSprite2.png/revision/latest/scale-to-width-down/350?cb=20190208145546" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/MHXAlterSprite2.png/revision/latest/scale-to-width-down/350?cb=20190208145546 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e9/MHXAlterSprite2.png/revision/latest/scale-to-width-down/700?cb=20190208145546 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="MHXAlterSprite2.png" data-image-name="MHXAlterSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/MHXAlterSprite3.png/revision/latest?cb=20190208145550" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/MHXAlterSprite3.png/revision/latest/scale-to-width-down/350?cb=20190208145550" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/MHXAlterSprite3.png/revision/latest/scale-to-width-down/350?cb=20190208145550 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/MHXAlterSprite3.png/revision/latest/scale-to-width-down/700?cb=20190208145550 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MHXAlterSprite3.png" data-image-name="MHXAlterSprite3.png">
+						
+					</a>
+				</figure>

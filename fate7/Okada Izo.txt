@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Okadasprite1.png/revision/latest?cb=20181018123224" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Okadasprite1.png/revision/latest/scale-to-width-down/350?cb=20181018123224" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Okadasprite1.png/revision/latest/scale-to-width-down/350?cb=20181018123224 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/67/Okadasprite1.png/revision/latest/scale-to-width-down/700?cb=20181018123224 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="239" data-image-key="Okadasprite1.png" data-image-name="Okadasprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Okadasprite2.png/revision/latest?cb=20181018123201" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Okadasprite2.png/revision/latest/scale-to-width-down/350?cb=20181018123201" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Okadasprite2.png/revision/latest/scale-to-width-down/350?cb=20181018123201 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Okadasprite2.png/revision/latest/scale-to-width-down/700?cb=20181018123201 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="191" data-image-key="Okadasprite2.png" data-image-name="Okadasprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okadasprite3.png/revision/latest?cb=20181021094503" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okadasprite3.png/revision/latest/scale-to-width-down/350?cb=20181021094503" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okadasprite3.png/revision/latest/scale-to-width-down/350?cb=20181021094503 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okadasprite3.png/revision/latest/scale-to-width-down/700?cb=20181021094503 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="211" data-image-key="Okadasprite3.png" data-image-name="Okadasprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/90/Isthar_Sprite1_New.png/revision/latest?cb=20191005075649" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/90/Isthar_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20191005075649" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/90/Isthar_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20191005075649 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/90/Isthar_Sprite1_New.png/revision/latest/scale-to-width-down/700?cb=20191005075649 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Isthar Sprite1 New.png" data-image-name="Isthar Sprite1 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Isthar_Sprite2_New.png/revision/latest?cb=20191005075727" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Isthar_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20191005075727" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Isthar_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20191005075727 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Isthar_Sprite2_New.png/revision/latest/scale-to-width-down/700?cb=20191005075727 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Isthar Sprite2 New.png" data-image-name="Isthar Sprite2 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Isthar_Sprite3_New.png/revision/latest?cb=20191005075806" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Isthar_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20191005075806" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Isthar_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20191005075806 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Isthar_Sprite3_New.png/revision/latest/scale-to-width-down/700?cb=20191005075806 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Isthar Sprite3 New.png" data-image-name="Isthar Sprite3 New.png">
+						
+					</a>
+				</figure>

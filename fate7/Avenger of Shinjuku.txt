@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/LoboSprite1.png/revision/latest?cb=20180928095027" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/LoboSprite1.png/revision/latest/scale-to-width-down/350?cb=20180928095027" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/LoboSprite1.png/revision/latest/scale-to-width-down/350?cb=20180928095027 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/LoboSprite1.png/revision/latest/scale-to-width-down/700?cb=20180928095027 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="301" data-image-key="LoboSprite1.png" data-image-name="LoboSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/LoboSprite2.png/revision/latest?cb=20180928125857" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/LoboSprite2.png/revision/latest/scale-to-width-down/350?cb=20180928125857" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/LoboSprite2.png/revision/latest/scale-to-width-down/350?cb=20180928125857 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6b/LoboSprite2.png/revision/latest/scale-to-width-down/700?cb=20180928125857 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="301" data-image-key="LoboSprite2.png" data-image-name="LoboSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/LoboSprite3.png/revision/latest?cb=20180928094215" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/LoboSprite3.png/revision/latest/scale-to-width-down/350?cb=20180928094215" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/LoboSprite3.png/revision/latest/scale-to-width-down/350?cb=20180928094215 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/LoboSprite3.png/revision/latest/scale-to-width-down/700?cb=20180928094215 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="231" data-image-key="LoboSprite3.png" data-image-name="LoboSprite3.png">
+						
+					</a>
+				</figure>

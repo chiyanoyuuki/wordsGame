@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a5/JingKeStage1New.png/revision/latest?cb=20200215154538" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a5/JingKeStage1New.png/revision/latest/scale-to-width-down/350?cb=20200215154538" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a5/JingKeStage1New.png/revision/latest/scale-to-width-down/350?cb=20200215154538 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a5/JingKeStage1New.png/revision/latest/scale-to-width-down/700?cb=20200215154538 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="JingKeStage1New.png" data-image-name="JingKeStage1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/JingKeStage2New.png/revision/latest?cb=20200215154543" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/JingKeStage2New.png/revision/latest/scale-to-width-down/350?cb=20200215154543" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/JingKeStage2New.png/revision/latest/scale-to-width-down/350?cb=20200215154543 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1a/JingKeStage2New.png/revision/latest/scale-to-width-down/700?cb=20200215154543 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="JingKeStage2New.png" data-image-name="JingKeStage2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/JingKeStage3New.png/revision/latest?cb=20200215154547" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/JingKeStage3New.png/revision/latest/scale-to-width-down/350?cb=20200215154547" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/JingKeStage3New.png/revision/latest/scale-to-width-down/350?cb=20200215154547 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6d/JingKeStage3New.png/revision/latest/scale-to-width-down/700?cb=20200215154547 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="JingKeStage3New.png" data-image-name="JingKeStage3New.png">
+						
+					</a>
+				</figure>

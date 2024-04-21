@@ -1,0 +1,24 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/S288_Stage1.webp/revision/latest?cb=20220924032857" class="image image-thumbnail" title="Stage 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/S288_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924032857" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/S288_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924032857 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/S288_Stage1.webp/revision/latest?cb=20220924032857 2x" class="pi-image-thumbnail" alt="Stage 1-3" width="270" height="382" data-image-key="S288 Stage1.webp" data-image-name="S288 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S288_Stage4.webp/revision/latest?cb=20220924032846" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S288_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924032846" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S288_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924032846 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/S288_Stage4.webp/revision/latest?cb=20220924032846 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S288 Stage4.webp" data-image-name="S288 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5d/AF0288.png/revision/latest?cb=20210402125923" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5d/AF0288.png/revision/latest/scale-to-width-down/350?cb=20210402125923" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5d/AF0288.png/revision/latest/scale-to-width-down/350?cb=20210402125923 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5d/AF0288.png/revision/latest?cb=20210402125923 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0288.png" data-image-name="AF0288.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest?cb=20200819121416" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200819121416" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200819121416 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200819121416 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Yu Miaoyi Lancer Sprite.png" data-image-name="Yu Miaoyi Lancer Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/06/MordredRiderSprite1.png/revision/latest?cb=20200216125800" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/06/MordredRiderSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216125800" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/06/MordredRiderSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216125800 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/06/MordredRiderSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216125800 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="MordredRiderSprite1.png" data-image-name="MordredRiderSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/MordredRiderSprite2.png/revision/latest?cb=20200216125805" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/MordredRiderSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216125805" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/MordredRiderSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216125805 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7d/MordredRiderSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216125805 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="MordredRiderSprite2.png" data-image-name="MordredRiderSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/MordredRiderSprite3.png/revision/latest?cb=20200216125811" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/MordredRiderSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216125811" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/MordredRiderSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216125811 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/MordredRiderSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216125811 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MordredRiderSprite3.png" data-image-name="MordredRiderSprite3.png">
+						
+					</a>
+				</figure>

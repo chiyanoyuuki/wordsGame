@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/NewChevalierSprite1.png/revision/latest?cb=20200216094411" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/NewChevalierSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216094411" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/NewChevalierSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216094411 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d4/NewChevalierSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216094411 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="NewChevalierSprite1.png" data-image-name="NewChevalierSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/NewChevalierSprite2.png/revision/latest?cb=20200216094415" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/NewChevalierSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216094415" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/NewChevalierSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216094415 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/NewChevalierSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216094415 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="NewChevalierSprite2.png" data-image-name="NewChevalierSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/NewChevalierSprite3.png/revision/latest?cb=20200216094420" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/NewChevalierSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216094420" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/NewChevalierSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216094420 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e1/NewChevalierSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216094420 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="NewChevalierSprite3.png" data-image-name="NewChevalierSprite3.png">
+						
+					</a>
+				</figure>

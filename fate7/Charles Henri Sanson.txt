@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest?cb=20200216122933" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216122933" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216122933 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest/scale-to-width-down/700?cb=20200216122933 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sansonsprite1.png" data-image-name="Sansonsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest?cb=20200216122936" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest/scale-to-width-down/350?cb=20200216122936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest/scale-to-width-down/350?cb=20200216122936 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest/scale-to-width-down/700?cb=20200216122936 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sansonsprite2.png" data-image-name="Sansonsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest?cb=20200216122939" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest/scale-to-width-down/350?cb=20200216122939" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest/scale-to-width-down/350?cb=20200216122939 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest/scale-to-width-down/700?cb=20200216122939 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sansonsprite3.png" data-image-name="Sansonsprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/S095_Stage1.webp/revision/latest?cb=20220911051912" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/S095_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911051912" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/S095_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911051912 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bf/S095_Stage1.webp/revision/latest?cb=20220911051912 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S095 Stage1.webp" data-image-name="S095 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/28/S095_Stage2.webp/revision/latest?cb=20220911051538" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/28/S095_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911051538" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/28/S095_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911051538 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/28/S095_Stage2.webp/revision/latest?cb=20220911051538 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S095 Stage2.webp" data-image-name="S095 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/31/S095_Stage3.webp/revision/latest?cb=20220911051859" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/31/S095_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911051859" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/31/S095_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911051859 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/31/S095_Stage3.webp/revision/latest?cb=20220911051859 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S095 Stage3.webp" data-image-name="S095 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S095_Stage4.webp/revision/latest?cb=20220911051402" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S095_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911051402" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S095_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911051402 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/47/S095_Stage4.webp/revision/latest?cb=20220911051402 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S095 Stage4.webp" data-image-name="S095 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/AF0095.png/revision/latest?cb=20180428131552" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/AF0095.png/revision/latest/scale-to-width-down/350?cb=20180428131552" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/AF0095.png/revision/latest/scale-to-width-down/350?cb=20180428131552 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f3/AF0095.png/revision/latest?cb=20180428131552 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0095.png" data-image-name="AF0095.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest?cb=20190302162537" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest/scale-to-width-down/350?cb=20190302162537" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest/scale-to-width-down/350?cb=20190302162537 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest?cb=20190302162537 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kogilsprite1.png" data-image-name="Kogilsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest?cb=20190302162556" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest/scale-to-width-down/350?cb=20190302162556" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest/scale-to-width-down/350?cb=20190302162556 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest?cb=20190302162556 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kogilsprite2.png" data-image-name="Kogilsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest?cb=20190302162601" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest/scale-to-width-down/350?cb=20190302162601" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest/scale-to-width-down/350?cb=20190302162601 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest?cb=20190302162601 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kogilsprite3.png" data-image-name="Kogilsprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest?cb=20210714212141" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212141" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212141 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Percival_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212141 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Percival 1 Sprite.png" data-image-name="Percival 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest?cb=20210714212136" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212136" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212136 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Percival_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212136 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Percival 2 Sprite.png" data-image-name="Percival 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest?cb=20210714212131" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212131" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210714212131 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/18/Percival_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210714212131 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Percival 3 Sprite.png" data-image-name="Percival 3 Sprite.png">
+						
+					</a>
+				</figure>

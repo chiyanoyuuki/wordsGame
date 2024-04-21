@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest?cb=20180920142229" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest/scale-to-width-down/350?cb=20180920142229" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest/scale-to-width-down/350?cb=20180920142229 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest/scale-to-width-down/700?cb=20180920142229 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="176" data-image-key="Nero Claudius sprite1.png" data-image-name="Nero Claudius sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest?cb=20180920142237" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest/scale-to-width-down/350?cb=20180920142237" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest/scale-to-width-down/350?cb=20180920142237 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest/scale-to-width-down/700?cb=20180920142237 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="195" data-image-key="NeroSprite2.png" data-image-name="NeroSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest?cb=20180920142240" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180920142240" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180920142240 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20180920142240 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="190" data-image-key="Nero Claudius Sprite3.png" data-image-name="Nero Claudius Sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

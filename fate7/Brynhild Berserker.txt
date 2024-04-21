@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_1_Sprite.png/revision/latest?cb=20200821041535" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821041535" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821041535 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200821041535 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="Brynhildr Berserker 1 Sprite.png" data-image-name="Brynhildr Berserker 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_2_Sprite.png/revision/latest?cb=20200821041536" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821041536" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821041536 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/70/Brynhildr_Berserker_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200821041536 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="Brynhildr Berserker 2 Sprite.png" data-image-name="Brynhildr Berserker 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/86/Brynhildr_Berserker_3_Sprite.png/revision/latest?cb=20200821041537" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/86/Brynhildr_Berserker_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821041537" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/86/Brynhildr_Berserker_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821041537 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/86/Brynhildr_Berserker_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200821041537 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="Brynhildr Berserker 3 Sprite.png" data-image-name="Brynhildr Berserker 3 Sprite.png">
+						
+					</a>
+				</figure>

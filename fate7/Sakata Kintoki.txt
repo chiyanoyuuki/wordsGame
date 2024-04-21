@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest?cb=20200216100042" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest/scale-to-width-down/350?cb=20200216100042" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest/scale-to-width-down/350?cb=20200216100042 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest/scale-to-width-down/700?cb=20200216100042 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kintoki new 1.png" data-image-name="Kintoki new 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest?cb=20200216100047" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest/scale-to-width-down/350?cb=20200216100047" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest/scale-to-width-down/350?cb=20200216100047 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest/scale-to-width-down/700?cb=20200216100047 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kintoki new 2.png" data-image-name="Kintoki new 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest?cb=20200216100051" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest/scale-to-width-down/350?cb=20200216100051" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest/scale-to-width-down/350?cb=20200216100051 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest/scale-to-width-down/700?cb=20200216100051 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kintoki new 3.png" data-image-name="Kintoki new 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

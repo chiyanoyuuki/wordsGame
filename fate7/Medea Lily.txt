@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/30/Medea%28Lily%29Sprite1.png/revision/latest?cb=20190807024847" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/30/Medea%28Lily%29Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190807024847" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/30/Medea%28Lily%29Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190807024847 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/30/Medea%28Lily%29Sprite1.png/revision/latest/scale-to-width-down/700?cb=20190807024847 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Medea(Lily)Sprite1.png" data-image-name="Medea(Lily)Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/84/Medea%28Lily%29Sprite2.png/revision/latest?cb=20190807024901" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/84/Medea%28Lily%29Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190807024901" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/84/Medea%28Lily%29Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190807024901 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/84/Medea%28Lily%29Sprite2.png/revision/latest/scale-to-width-down/700?cb=20190807024901 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Medea(Lily)Sprite2.png" data-image-name="Medea(Lily)Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/69/Medea%28Lily%29Sprite3.png/revision/latest?cb=20190807024921" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/69/Medea%28Lily%29Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190807024921" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/69/Medea%28Lily%29Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190807024921 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/69/Medea%28Lily%29Sprite3.png/revision/latest/scale-to-width-down/700?cb=20190807024921 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Medea(Lily)Sprite3.png" data-image-name="Medea(Lily)Sprite3.png">
+						
+					</a>
+				</figure>

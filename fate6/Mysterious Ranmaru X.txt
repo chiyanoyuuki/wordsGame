@@ -1,0 +1,24 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S328_Stage1.webp/revision/latest?cb=20220925062005" class="image image-thumbnail" title="Stage 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S328_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062005" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S328_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062005 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S328_Stage1.webp/revision/latest?cb=20220925062005 2x" class="pi-image-thumbnail" alt="Stage 1-3" width="270" height="382" data-image-key="S328 Stage1.webp" data-image-name="S328 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/S328_Stage4.webp/revision/latest?cb=20220925061953" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/S328_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061953" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/S328_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061953 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f2/S328_Stage4.webp/revision/latest?cb=20220925061953 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S328 Stage4.webp" data-image-name="S328 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/83/S328_AprilFool.webp/revision/latest?cb=20230402083900" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/83/S328_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083900" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/83/S328_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083900 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/83/S328_AprilFool.webp/revision/latest?cb=20230402083900 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S328 AprilFool.webp" data-image-name="S328 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest?cb=20211119161342" class="image image-thumbnail" title="Sprite 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161342" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161342 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161342 2x" class="pi-image-thumbnail" alt="Sprite 1-3" width="270" height="270" data-image-key="Mysterious Ranmaru X Sprite.png" data-image-name="Mysterious Ranmaru X Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okita_Souji_Alter_Saber_1_Sprite.png/revision/latest?cb=20210908162635" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okita_Souji_Alter_Saber_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908162635" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okita_Souji_Alter_Saber_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908162635 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/Okita_Souji_Alter_Saber_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908162635 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Okita Souji Alter Saber 1 Sprite.png" data-image-name="Okita Souji Alter Saber 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/db/Okita_Souji_Alter_Saber_2_Sprite.png/revision/latest?cb=20210908162641" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/db/Okita_Souji_Alter_Saber_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908162641" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/db/Okita_Souji_Alter_Saber_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908162641 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/db/Okita_Souji_Alter_Saber_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908162641 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Okita Souji Alter Saber 2 Sprite.png" data-image-name="Okita Souji Alter Saber 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Okita_Souji_Alter_Saber_3_Sprite.png/revision/latest?cb=20210908162644" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Okita_Souji_Alter_Saber_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908162644" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Okita_Souji_Alter_Saber_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908162644 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Okita_Souji_Alter_Saber_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908162644 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Okita Souji Alter Saber 3 Sprite.png" data-image-name="Okita Souji Alter Saber 3 Sprite.png">
+						
+					</a>
+				</figure>

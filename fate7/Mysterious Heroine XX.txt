@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest?cb=20180811090328" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180811090328" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180811090328 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/22/MHX_Foreigner_Sprite1.png/revision/latest/scale-to-width-down/699?cb=20180811090328 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="275" data-image-key="MHX Foreigner Sprite1.png" data-image-name="MHX Foreigner Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest?cb=20180814012934" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180814012934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180814012934 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/MHX_Foreigner_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20180814012934 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="159" data-image-key="MHX Foreigner Sprite2.png" data-image-name="MHX Foreigner Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest?cb=20200216142309" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216142309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216142309 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/MHX_Foreigner_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200216142309 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MHX Foreigner Sprite3.png" data-image-name="MHX Foreigner Sprite3.png">
+						
+					</a>
+				</figure>

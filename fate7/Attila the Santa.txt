@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Alterasanta.png/revision/latest?cb=20181008082030" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Alterasanta.png/revision/latest/scale-to-width-down/350?cb=20181008082030" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Alterasanta.png/revision/latest/scale-to-width-down/350?cb=20181008082030 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Alterasanta.png/revision/latest/scale-to-width-down/700?cb=20181008082030 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="226" data-image-key="Alterasanta.png" data-image-name="Alterasanta.png">
+						
+					</a>
+				</figure>

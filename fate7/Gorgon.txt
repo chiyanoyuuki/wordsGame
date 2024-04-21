@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/80/GorgonSprite1.png/revision/latest?cb=20180927142803" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/80/GorgonSprite1.png/revision/latest/scale-to-width-down/350?cb=20180927142803" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/80/GorgonSprite1.png/revision/latest/scale-to-width-down/350?cb=20180927142803 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/80/GorgonSprite1.png/revision/latest/scale-to-width-down/700?cb=20180927142803 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="323" data-image-key="GorgonSprite1.png" data-image-name="GorgonSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/GorgonSprite2.png/revision/latest?cb=20180929064333" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/GorgonSprite2.png/revision/latest/scale-to-width-down/350?cb=20180929064333" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/GorgonSprite2.png/revision/latest/scale-to-width-down/350?cb=20180929064333 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7f/GorgonSprite2.png/revision/latest/scale-to-width-down/700?cb=20180929064333 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="323" data-image-key="GorgonSprite2.png" data-image-name="GorgonSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/71/GorgonSprite3.png/revision/latest?cb=20180929123051" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/71/GorgonSprite3.png/revision/latest/scale-to-width-down/350?cb=20180929123051" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/71/GorgonSprite3.png/revision/latest/scale-to-width-down/350?cb=20180929123051 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/71/GorgonSprite3.png/revision/latest/scale-to-width-down/700?cb=20180929123051 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="261" data-image-key="GorgonSprite3.png" data-image-name="GorgonSprite3.png">
+						
+					</a>
+				</figure>

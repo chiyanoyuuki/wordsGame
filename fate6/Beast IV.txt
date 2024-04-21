@@ -1,0 +1,12 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S333_Stage1.webp/revision/latest?cb=20220925062754" class="image image-thumbnail" title="Saint Graph">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S333_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062754" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/S333_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062754 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/S333_Stage1.webp/revision/latest?cb=20220925062754 2x" class="pi-image-thumbnail" alt="Saint Graph" width="270" height="382" data-image-key="S333 Stage1.webp" data-image-name="S333 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest?cb=20211226101745" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211226101745" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211226101745 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest/scale-to-width-down/699?cb=20211226101745 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="238" data-image-key="Lostbelt Beast IV Sprite.png" data-image-name="Lostbelt Beast IV Sprite.png">
+						
+					</a>
+				</figure>

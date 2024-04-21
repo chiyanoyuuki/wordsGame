@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/14/Shuten_Caster_Sprite1-3.png/revision/latest?cb=20181025064806" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/14/Shuten_Caster_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20181025064806" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/14/Shuten_Caster_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20181025064806 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/14/Shuten_Caster_Sprite1-3.png/revision/latest/scale-to-width-down/700?cb=20181025064806 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Shuten Caster Sprite1-3.png" data-image-name="Shuten Caster Sprite1-3.png">
+						
+					</a>
+				</figure>

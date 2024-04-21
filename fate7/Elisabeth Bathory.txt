@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/08/Liznew1.png/revision/latest?cb=20180927145743" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/08/Liznew1.png/revision/latest/scale-to-width-down/350?cb=20180927145743" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/08/Liznew1.png/revision/latest/scale-to-width-down/350?cb=20180927145743 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/08/Liznew1.png/revision/latest/scale-to-width-down/700?cb=20180927145743 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="211" data-image-key="Liznew1.png" data-image-name="Liznew1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Liznew2.png/revision/latest?cb=20180927145806" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Liznew2.png/revision/latest/scale-to-width-down/350?cb=20180927145806" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Liznew2.png/revision/latest/scale-to-width-down/350?cb=20180927145806 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Liznew2.png/revision/latest/scale-to-width-down/700?cb=20180927145806 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="211" data-image-key="Liznew2.png" data-image-name="Liznew2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Liznew3.png/revision/latest?cb=20180927145934" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Liznew3.png/revision/latest/scale-to-width-down/350?cb=20180927145934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Liznew3.png/revision/latest/scale-to-width-down/350?cb=20180927145934 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/Liznew3.png/revision/latest/scale-to-width-down/700?cb=20180927145934 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="209" data-image-key="Liznew3.png" data-image-name="Liznew3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S326_Sprite_Stage1-3.png/revision/latest?cb=20211021134746" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S326_Sprite_Stage1-3.png/revision/latest/scale-to-width-down/350?cb=20211021134746" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S326_Sprite_Stage1-3.png/revision/latest/scale-to-width-down/350?cb=20211021134746 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S326_Sprite_Stage1-3.png/revision/latest/scale-to-width-down/700?cb=20211021134746 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="S326 Sprite Stage1-3.png" data-image-name="S326 Sprite Stage1-3.png">
+						
+					</a>
+				</figure>

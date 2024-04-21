@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/ChloeVonEinzbern_Sprite1-3.png/revision/latest?cb=20200216130505" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/ChloeVonEinzbern_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20200216130505" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/ChloeVonEinzbern_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20200216130505 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a3/ChloeVonEinzbern_Sprite1-3.png/revision/latest/scale-to-width-down/700?cb=20200216130505 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="ChloeVonEinzbern Sprite1-3.png" data-image-name="ChloeVonEinzbern Sprite1-3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/Santasprite.png/revision/latest?cb=20200216123655" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/Santasprite.png/revision/latest/scale-to-width-down/350?cb=20200216123655" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/Santasprite.png/revision/latest/scale-to-width-down/350?cb=20200216123655 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1e/Santasprite.png/revision/latest/scale-to-width-down/700?cb=20200216123655 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Santasprite.png" data-image-name="Santasprite.png">
+						
+					</a>
+				</figure>

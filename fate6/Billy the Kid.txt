@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S105_Stage1.webp/revision/latest?cb=20220911055351" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S105_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911055351" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S105_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911055351 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/S105_Stage1.webp/revision/latest?cb=20220911055351 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S105 Stage1.webp" data-image-name="S105 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/S105_Stage2.webp/revision/latest?cb=20220911055306" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/S105_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911055306" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/S105_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911055306 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ae/S105_Stage2.webp/revision/latest?cb=20220911055306 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S105 Stage2.webp" data-image-name="S105 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S105_Stage3.webp/revision/latest?cb=20220911055222" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S105_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911055222" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S105_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911055222 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S105_Stage3.webp/revision/latest?cb=20220911055222 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S105 Stage3.webp" data-image-name="S105 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S105_Stage4.webp/revision/latest?cb=20220911055145" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S105_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911055145" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S105_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911055145 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S105_Stage4.webp/revision/latest?cb=20220911055145 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S105 Stage4.webp" data-image-name="S105 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/AF0105.png/revision/latest?cb=20180428131555" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/AF0105.png/revision/latest/scale-to-width-down/350?cb=20180428131555" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/AF0105.png/revision/latest/scale-to-width-down/350?cb=20180428131555 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f4/AF0105.png/revision/latest?cb=20180428131555 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0105.png" data-image-name="AF0105.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Billysprite1.png/revision/latest?cb=20200216101843" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Billysprite1.png/revision/latest/scale-to-width-down/350?cb=20200216101843" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Billysprite1.png/revision/latest/scale-to-width-down/350?cb=20200216101843 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Billysprite1.png/revision/latest/scale-to-width-down/700?cb=20200216101843 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Billysprite1.png" data-image-name="Billysprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Billysprite2.png/revision/latest?cb=20200216101848" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Billysprite2.png/revision/latest/scale-to-width-down/350?cb=20200216101848" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Billysprite2.png/revision/latest/scale-to-width-down/350?cb=20200216101848 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Billysprite2.png/revision/latest/scale-to-width-down/700?cb=20200216101848 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Billysprite2.png" data-image-name="Billysprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/Billysprite3.png/revision/latest?cb=20200216101853" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/Billysprite3.png/revision/latest/scale-to-width-down/350?cb=20200216101853" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/Billysprite3.png/revision/latest/scale-to-width-down/350?cb=20200216101853 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0b/Billysprite3.png/revision/latest/scale-to-width-down/700?cb=20200216101853 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Billysprite3.png" data-image-name="Billysprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S285_Stage1.webp/revision/latest?cb=20220924025623" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S285_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924025623" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S285_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220924025623 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S285_Stage1.webp/revision/latest?cb=20220924025623 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S285 Stage1.webp" data-image-name="S285 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/S285_Stage2.webp/revision/latest?cb=20220924025610" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/S285_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220924025610" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/S285_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220924025610 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5f/S285_Stage2.webp/revision/latest?cb=20220924025610 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S285 Stage2.webp" data-image-name="S285 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/54/S285_Stage3.webp/revision/latest?cb=20220924025555" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/54/S285_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220924025555" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/54/S285_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220924025555 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/54/S285_Stage3.webp/revision/latest?cb=20220924025555 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S285 Stage3.webp" data-image-name="S285 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S285_Stage4.webp/revision/latest?cb=20220924025540" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S285_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924025540" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S285_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220924025540 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/S285_Stage4.webp/revision/latest?cb=20220924025540 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S285 Stage4.webp" data-image-name="S285 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/25/AF0285.png/revision/latest?cb=20210402125805" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/25/AF0285.png/revision/latest/scale-to-width-down/350?cb=20210402125805" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/25/AF0285.png/revision/latest/scale-to-width-down/350?cb=20210402125805 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/25/AF0285.png/revision/latest?cb=20210402125805 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0285.png" data-image-name="AF0285.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_1.png/revision/latest?cb=20200819122256" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200819122256" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200819122256 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20200819122256 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="SesshÅ?in Kiara Moon Cancer Sprite 1.png" data-image-name="SesshÅ?in Kiara Moon Cancer Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_2.png/revision/latest?cb=20200819122300" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200819122300" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200819122300 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4f/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200819122300 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="SesshÅ?in Kiara Moon Cancer Sprite 2.png" data-image-name="SesshÅ?in Kiara Moon Cancer Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/48/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_3.png/revision/latest?cb=20200819122304" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/48/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200819122304" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/48/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200819122304 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/48/Sessh%C5%8Din_Kiara_Moon_Cancer_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20200819122304 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="SesshÅ?in Kiara Moon Cancer Sprite 3.png" data-image-name="SesshÅ?in Kiara Moon Cancer Sprite 3.png">
+						
+					</a>
+				</figure>

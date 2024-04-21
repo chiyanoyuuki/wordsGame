@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Yorimitsusprite1.png/revision/latest?cb=20200216113049" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Yorimitsusprite1.png/revision/latest/scale-to-width-down/350?cb=20200216113049" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Yorimitsusprite1.png/revision/latest/scale-to-width-down/350?cb=20200216113049 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Yorimitsusprite1.png/revision/latest/scale-to-width-down/700?cb=20200216113049 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Yorimitsusprite1.png" data-image-name="Yorimitsusprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/Yorimitsusprite2.png/revision/latest?cb=20200216113053" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/Yorimitsusprite2.png/revision/latest/scale-to-width-down/350?cb=20200216113053" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/Yorimitsusprite2.png/revision/latest/scale-to-width-down/350?cb=20200216113053 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e9/Yorimitsusprite2.png/revision/latest/scale-to-width-down/700?cb=20200216113053 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Yorimitsusprite2.png" data-image-name="Yorimitsusprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Yorimitsusprite3.png/revision/latest?cb=20200216113056" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Yorimitsusprite3.png/revision/latest/scale-to-width-down/350?cb=20200216113056" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Yorimitsusprite3.png/revision/latest/scale-to-width-down/350?cb=20200216113056 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Yorimitsusprite3.png/revision/latest/scale-to-width-down/700?cb=20200216113056 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Yorimitsusprite3.png" data-image-name="Yorimitsusprite3.png">
+						
+					</a>
+				</figure>

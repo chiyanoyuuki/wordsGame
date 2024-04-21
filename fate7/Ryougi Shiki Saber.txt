@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/51/Void_new_1.png/revision/latest?cb=20181013100556" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/51/Void_new_1.png/revision/latest/scale-to-width-down/350?cb=20181013100556" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/51/Void_new_1.png/revision/latest/scale-to-width-down/350?cb=20181013100556 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/51/Void_new_1.png/revision/latest?cb=20181013100556 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="310" data-image-key="Void new 1.png" data-image-name="Void new 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/42/Void_new_2.png/revision/latest?cb=20181013100600" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/42/Void_new_2.png/revision/latest/scale-to-width-down/350?cb=20181013100600" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/42/Void_new_2.png/revision/latest/scale-to-width-down/350?cb=20181013100600 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/42/Void_new_2.png/revision/latest?cb=20181013100600 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="296" data-image-key="Void new 2.png" data-image-name="Void new 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Void_new_3.png/revision/latest?cb=20181013100605" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Void_new_3.png/revision/latest/scale-to-width-down/350?cb=20181013100605" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Void_new_3.png/revision/latest/scale-to-width-down/350?cb=20181013100605 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Void_new_3.png/revision/latest/scale-to-width-down/700?cb=20181013100605 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="251" data-image-key="Void new 3.png" data-image-name="Void new 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

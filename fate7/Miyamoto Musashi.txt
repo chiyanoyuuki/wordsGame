@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/MusashiSprite1.png/revision/latest?cb=20200216140026" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/MusashiSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216140026" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/MusashiSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216140026 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5c/MusashiSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216140026 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="MusashiSprite1.png" data-image-name="MusashiSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/17/MusashiSprite2.png/revision/latest?cb=20200216140032" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/17/MusashiSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216140032" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/17/MusashiSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216140032 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/17/MusashiSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216140032 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="MusashiSprite2.png" data-image-name="MusashiSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/MusashiSprite3.png/revision/latest?cb=20200216140036" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/MusashiSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216140036" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/MusashiSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216140036 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/MusashiSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216140036 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MusashiSprite3.png" data-image-name="MusashiSprite3.png">
+						
+					</a>
+				</figure>

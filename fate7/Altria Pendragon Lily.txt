@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Saber_Lily_Redone_Sprite_1.png/revision/latest?cb=20200108005716" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Saber_Lily_Redone_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200108005716" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Saber_Lily_Redone_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200108005716 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/Saber_Lily_Redone_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20200108005716 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="281" data-image-key="Saber Lily Redone Sprite 1.png" data-image-name="Saber Lily Redone Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/Saber_Lily_Redone_Sprite_2.png/revision/latest?cb=20200108005730" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/Saber_Lily_Redone_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200108005730" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/Saber_Lily_Redone_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200108005730 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cb/Saber_Lily_Redone_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200108005730 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="281" data-image-key="Saber Lily Redone Sprite 2.png" data-image-name="Saber Lily Redone Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Saber_Lily_Redone_Sprite_3.png/revision/latest?cb=20200108005740" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Saber_Lily_Redone_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200108005740" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Saber_Lily_Redone_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200108005740 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Saber_Lily_Redone_Sprite_3.png/revision/latest/scale-to-width-down/699?cb=20200108005740 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="283" data-image-key="Saber Lily Redone Sprite 3.png" data-image-name="Saber Lily Redone Sprite 3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/39/S263_Stage1.webp/revision/latest?cb=20220919130805" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/39/S263_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919130805" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/39/S263_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919130805 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/39/S263_Stage1.webp/revision/latest?cb=20220919130805 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S263 Stage1.webp" data-image-name="S263 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S263_Stage2.webp/revision/latest?cb=20220919130757" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S263_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919130757" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S263_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919130757 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S263_Stage2.webp/revision/latest?cb=20220919130757 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S263 Stage2.webp" data-image-name="S263 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S263_Stage3.webp/revision/latest?cb=20220919130749" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S263_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919130749" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S263_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919130749 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b1/S263_Stage3.webp/revision/latest?cb=20220919130749 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S263 Stage3.webp" data-image-name="S263 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S263_Stage4.webp/revision/latest?cb=20220919130741" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S263_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919130741" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S263_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919130741 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/79/S263_Stage4.webp/revision/latest?cb=20220919130741 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S263 Stage4.webp" data-image-name="S263 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/AF0263.png/revision/latest?cb=20200331213543" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/AF0263.png/revision/latest/scale-to-width-down/350?cb=20200331213543" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/AF0263.png/revision/latest/scale-to-width-down/350?cb=20200331213543 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/AF0263.png/revision/latest?cb=20200331213543 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0263.png" data-image-name="AF0263.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Carmilla_Rider_Sprite1.png/revision/latest?cb=20190814220622" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Carmilla_Rider_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190814220622" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Carmilla_Rider_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190814220622 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Carmilla_Rider_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20190814220622 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Carmilla Rider Sprite1.png" data-image-name="Carmilla Rider Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Carmilla_Rider_Sprite2.png/revision/latest?cb=20190814220639" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Carmilla_Rider_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190814220639" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Carmilla_Rider_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190814220639 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Carmilla_Rider_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20190814220639 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Carmilla Rider Sprite2.png" data-image-name="Carmilla Rider Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Carmilla_Rider_Sprite3.png/revision/latest?cb=20190814220658" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Carmilla_Rider_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190814220658" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Carmilla_Rider_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190814220658 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Carmilla_Rider_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20190814220658 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Carmilla Rider Sprite3.png" data-image-name="Carmilla Rider Sprite3.png">
+						
+					</a>
+				</figure>

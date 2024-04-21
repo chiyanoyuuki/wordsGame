@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Kato1.png/revision/latest?cb=20200216134650" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Kato1.png/revision/latest/scale-to-width-down/350?cb=20200216134650" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Kato1.png/revision/latest/scale-to-width-down/350?cb=20200216134650 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Kato1.png/revision/latest/scale-to-width-down/700?cb=20200216134650 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kato1.png" data-image-name="Kato1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Kato2.png/revision/latest?cb=20200216134654" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Kato2.png/revision/latest/scale-to-width-down/350?cb=20200216134654" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Kato2.png/revision/latest/scale-to-width-down/350?cb=20200216134654 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1c/Kato2.png/revision/latest/scale-to-width-down/700?cb=20200216134654 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kato2.png" data-image-name="Kato2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Kato3.png/revision/latest?cb=20200216134659" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Kato3.png/revision/latest/scale-to-width-down/350?cb=20200216134659" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Kato3.png/revision/latest/scale-to-width-down/350?cb=20200216134659 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Kato3.png/revision/latest/scale-to-width-down/700?cb=20200216134659 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kato3.png" data-image-name="Kato3.png">
+						
+					</a>
+				</figure>

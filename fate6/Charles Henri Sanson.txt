@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S043_Stage1.webp/revision/latest?cb=20220910101434" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S043_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910101434" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S043_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910101434 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S043_Stage1.webp/revision/latest?cb=20220910101434 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S043 Stage1.webp" data-image-name="S043 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/64/S043_Stage2.webp/revision/latest?cb=20220910101423" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/64/S043_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910101423" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/64/S043_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910101423 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/64/S043_Stage2.webp/revision/latest?cb=20220910101423 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S043 Stage2.webp" data-image-name="S043 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/S043_Stage3.webp/revision/latest?cb=20220910101415" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/S043_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910101415" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/S043_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910101415 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c7/S043_Stage3.webp/revision/latest?cb=20220910101415 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S043 Stage3.webp" data-image-name="S043 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/S043_Stage4.webp/revision/latest?cb=20220910101409" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/S043_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910101409" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/S043_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910101409 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e1/S043_Stage4.webp/revision/latest?cb=20220910101409 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S043 Stage4.webp" data-image-name="S043 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f5/S043_Costume1.webp/revision/latest?cb=20220910101402" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f5/S043_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910101402" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f5/S043_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910101402 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f5/S043_Costume1.webp/revision/latest?cb=20220910101402 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S043 Costume1.webp" data-image-name="S043 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/AF0043.png/revision/latest?cb=20200404150613" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/AF0043.png/revision/latest/scale-to-width-down/350?cb=20200404150613" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/AF0043.png/revision/latest/scale-to-width-down/350?cb=20200404150613 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/AF0043.png/revision/latest?cb=20200404150613 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0043.png" data-image-name="AF0043.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest?cb=20200216122933" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216122933" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216122933 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Sansonsprite1.png/revision/latest/scale-to-width-down/700?cb=20200216122933 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sansonsprite1.png" data-image-name="Sansonsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest?cb=20200216122936" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest/scale-to-width-down/350?cb=20200216122936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest/scale-to-width-down/350?cb=20200216122936 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/83/Sansonsprite2.png/revision/latest/scale-to-width-down/700?cb=20200216122936 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sansonsprite2.png" data-image-name="Sansonsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest?cb=20200216122939" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest/scale-to-width-down/350?cb=20200216122939" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest/scale-to-width-down/350?cb=20200216122939 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/Sansonsprite3.png/revision/latest/scale-to-width-down/700?cb=20200216122939 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sansonsprite3.png" data-image-name="Sansonsprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4b/S043_Costume_1_Sprite.png/revision/latest?cb=20220303062539" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4b/S043_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220303062539" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4b/S043_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220303062539 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4b/S043_Costume_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20220303062539 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="S043 Costume 1 Sprite.png" data-image-name="S043 Costume 1 Sprite.png">
+						
+					</a>
+				</figure>

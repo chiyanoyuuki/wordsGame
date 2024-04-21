@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S145_Stage1.webp/revision/latest?cb=20220911080718" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S145_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911080718" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S145_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911080718 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d6/S145_Stage1.webp/revision/latest?cb=20220911080718 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S145 Stage1.webp" data-image-name="S145 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S145_Stage2.webp/revision/latest?cb=20220911080710" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S145_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911080710" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S145_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911080710 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S145_Stage2.webp/revision/latest?cb=20220911080710 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S145 Stage2.webp" data-image-name="S145 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/S145_Stage3.webp/revision/latest?cb=20220911080656" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/S145_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911080656" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/S145_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911080656 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/S145_Stage3.webp/revision/latest?cb=20220911080656 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S145 Stage3.webp" data-image-name="S145 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S145_Stage4.webp/revision/latest?cb=20220911080647" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S145_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911080647" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S145_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911080647 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d9/S145_Stage4.webp/revision/latest?cb=20220911080647 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S145 Stage4.webp" data-image-name="S145 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/S145_Costume1.webp/revision/latest?cb=20220911080638" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/S145_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911080638" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/S145_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911080638 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/S145_Costume1.webp/revision/latest?cb=20220911080638 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S145 Costume1.webp" data-image-name="S145 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0145.png/revision/latest?cb=20180428124544" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0145.png/revision/latest/scale-to-width-down/350?cb=20180428124544" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0145.png/revision/latest/scale-to-width-down/350?cb=20180428124544 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0145.png/revision/latest?cb=20180428124544 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0145.png" data-image-name="AF0145.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest?cb=20200216130713" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216130713" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216130713 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest/scale-to-width-down/700?cb=20200216130713 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Gilcastersprite1.png" data-image-name="Gilcastersprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest?cb=20200216130717" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216130717" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216130717 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216130717 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="GilCasterSprite2.png" data-image-name="GilCasterSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest?cb=20200216130724" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216130724" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216130724 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216130724 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="GilCasterSprite3.png" data-image-name="GilCasterSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Gilgamesh_Caster_Establishment.png/revision/latest?cb=20200216130729" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Gilgamesh_Caster_Establishment.png/revision/latest/scale-to-width-down/350?cb=20200216130729" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Gilgamesh_Caster_Establishment.png/revision/latest/scale-to-width-down/350?cb=20200216130729 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/97/Gilgamesh_Caster_Establishment.png/revision/latest/scale-to-width-down/700?cb=20200216130729 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Gilgamesh Caster Establishment.png" data-image-name="Gilgamesh Caster Establishment.png">
+						
+					</a>
+				</figure>

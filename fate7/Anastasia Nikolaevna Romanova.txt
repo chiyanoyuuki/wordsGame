@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite1.png/revision/latest?cb=20190303121429" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite1.png/revision/latest/scale-to-width-down/350?cb=20190303121429" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite1.png/revision/latest/scale-to-width-down/350?cb=20190303121429 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite1.png/revision/latest/scale-to-width-down/700?cb=20190303121429 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Anyasprite1.png" data-image-name="Anyasprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite2.png/revision/latest?cb=20190303121434" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite2.png/revision/latest/scale-to-width-down/350?cb=20190303121434" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite2.png/revision/latest/scale-to-width-down/350?cb=20190303121434 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Anyasprite2.png/revision/latest/scale-to-width-down/700?cb=20190303121434 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Anyasprite2.png" data-image-name="Anyasprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Anyasprite3.png/revision/latest?cb=20190303121439" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Anyasprite3.png/revision/latest/scale-to-width-down/350?cb=20190303121439" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/Anyasprite3.png/revision/latest/scale-to-width-down/350?cb=20190303121439 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/Anyasprite3.png/revision/latest/scale-to-width-down/700?cb=20190303121439 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Anyasprite3.png" data-image-name="Anyasprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/JeanneDArcAlterSprite1New.png/revision/latest?cb=20220430122504" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/JeanneDArcAlterSprite1New.png/revision/latest/scale-to-width-down/350?cb=20220430122504" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/JeanneDArcAlterSprite1New.png/revision/latest/scale-to-width-down/350?cb=20220430122504 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cf/JeanneDArcAlterSprite1New.png/revision/latest/scale-to-width-down/700?cb=20220430122504 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="JeanneDArcAlterSprite1New.png" data-image-name="JeanneDArcAlterSprite1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/JeanneDArcAlterSprite2New.png/revision/latest?cb=20220430122509" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/JeanneDArcAlterSprite2New.png/revision/latest/scale-to-width-down/350?cb=20220430122509" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/JeanneDArcAlterSprite2New.png/revision/latest/scale-to-width-down/350?cb=20220430122509 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/JeanneDArcAlterSprite2New.png/revision/latest/scale-to-width-down/700?cb=20220430122509 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="JeanneDArcAlterSprite2New.png" data-image-name="JeanneDArcAlterSprite2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/JeanneDArcAlterSprite3New.png/revision/latest?cb=20220430122514" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/JeanneDArcAlterSprite3New.png/revision/latest/scale-to-width-down/350?cb=20220430122514" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/JeanneDArcAlterSprite3New.png/revision/latest/scale-to-width-down/350?cb=20220430122514 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8b/JeanneDArcAlterSprite3New.png/revision/latest/scale-to-width-down/700?cb=20220430122514 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="JeanneDArcAlterSprite3New.png" data-image-name="JeanneDArcAlterSprite3New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

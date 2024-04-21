@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S293_Stage1.webp/revision/latest?cb=20220925050918" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S293_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925050918" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S293_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925050918 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/S293_Stage1.webp/revision/latest?cb=20220925050918 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S293 Stage1.webp" data-image-name="S293 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/S293_Stage2.webp/revision/latest?cb=20220925050909" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/S293_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925050909" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/S293_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925050909 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b0/S293_Stage2.webp/revision/latest?cb=20220925050909 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S293 Stage2.webp" data-image-name="S293 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/S293_Stage3.webp/revision/latest?cb=20220925050858" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/S293_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925050858" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/S293_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925050858 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9c/S293_Stage3.webp/revision/latest?cb=20220925050858 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S293 Stage3.webp" data-image-name="S293 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S293_Stage4.webp/revision/latest?cb=20220925050848" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S293_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925050848" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S293_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925050848 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/71/S293_Stage4.webp/revision/latest?cb=20220925050848 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S293 Stage4.webp" data-image-name="S293 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/S293_Costume1.webp/revision/latest?cb=20220925050838" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/S293_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925050838" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/S293_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925050838 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a9/S293_Costume1.webp/revision/latest?cb=20220925050838 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S293 Costume1.webp" data-image-name="S293 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0293.png/revision/latest?cb=20210402130512" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0293.png/revision/latest/scale-to-width-down/350?cb=20210402130512" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0293.png/revision/latest/scale-to-width-down/350?cb=20210402130512 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4f/AF0293.png/revision/latest?cb=20210402130512 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0293.png" data-image-name="AF0293.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest?cb=20201010015041" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201010015041" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201010015041 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20201010015041 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Saito Hajime Sprite 1.png" data-image-name="Saito Hajime Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest?cb=20201010015049" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201010015049" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201010015049 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20201010015049 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Saito Hajime Sprite 2.png" data-image-name="Saito Hajime Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest?cb=20201010015058" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201010015058" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201010015058 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20201010015058 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Saito Hajime Sprite 3.png" data-image-name="Saito Hajime Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S293_Costume_1_Sprite.png/revision/latest?cb=20220303062601" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S293_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220303062601" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S293_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220303062601 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/af/S293_Costume_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20220303062601 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="S293 Costume 1 Sprite.png" data-image-name="S293 Costume 1 Sprite.png">
+						
+					</a>
+				</figure>

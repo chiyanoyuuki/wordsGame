@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sitonai_Sprite_1.png/revision/latest?cb=20200216143006" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sitonai_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200216143006" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sitonai_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200216143006 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sitonai_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20200216143006 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sitonai Sprite 1.png" data-image-name="Sitonai Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Sitonai_Sprite_2.png/revision/latest?cb=20200216143011" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Sitonai_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200216143011" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Sitonai_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200216143011 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Sitonai_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200216143011 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sitonai Sprite 2.png" data-image-name="Sitonai Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Sitonai_Sprite_3.png/revision/latest?cb=20181024164736" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Sitonai_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20181024164736" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Sitonai_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20181024164736 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/18/Sitonai_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20181024164736 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sitonai Sprite 3.png" data-image-name="Sitonai Sprite 3.png">
+						
+					</a>
+				</figure>

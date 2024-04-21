@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S124_Stage1.webp/revision/latest?cb=20220911070830" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S124_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911070830" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S124_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911070830 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/S124_Stage1.webp/revision/latest?cb=20220911070830 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S124 Stage1.webp" data-image-name="S124 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S124_Stage2.webp/revision/latest?cb=20220911070821" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S124_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911070821" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S124_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911070821 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/S124_Stage2.webp/revision/latest?cb=20220911070821 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S124 Stage2.webp" data-image-name="S124 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S124_Stage3.webp/revision/latest?cb=20220911070814" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S124_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911070814" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S124_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911070814 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S124_Stage3.webp/revision/latest?cb=20220911070814 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S124 Stage3.webp" data-image-name="S124 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S124_Stage4.webp/revision/latest?cb=20220911070803" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S124_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911070803" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S124_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911070803 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/43/S124_Stage4.webp/revision/latest?cb=20220911070803 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S124 Stage4.webp" data-image-name="S124 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S124_Costume1.webp/revision/latest?cb=20220911070754" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S124_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911070754" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S124_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911070754 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/S124_Costume1.webp/revision/latest?cb=20220911070754 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S124 Costume1.webp" data-image-name="S124 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/45/AF0124.png/revision/latest?cb=20180428125024" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/45/AF0124.png/revision/latest/scale-to-width-down/350?cb=20180428125024" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/45/AF0124.png/revision/latest/scale-to-width-down/350?cb=20180428125024 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/45/AF0124.png/revision/latest?cb=20180428125024 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0124.png" data-image-name="AF0124.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/HassanSerenity_Sprite1.png/revision/latest?cb=20220428070732" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/HassanSerenity_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20220428070732" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/HassanSerenity_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20220428070732 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8d/HassanSerenity_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20220428070732 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="HassanSerenity Sprite1.png" data-image-name="HassanSerenity Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7b/HassanSerenity_Sprite2.png/revision/latest?cb=20220428070826" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7b/HassanSerenity_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20220428070826" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7b/HassanSerenity_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20220428070826 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7b/HassanSerenity_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20220428070826 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="HassanSerenity Sprite2.png" data-image-name="HassanSerenity Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/39/HassanSerenity_Sprite3.png/revision/latest?cb=20220428070844" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/39/HassanSerenity_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20220428070844" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/39/HassanSerenity_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20220428070844 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/39/HassanSerenity_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20220428070844 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="HassanSerenity Sprite3.png" data-image-name="HassanSerenity Sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Hassan_of_the_Serenity_Costume_Sprite.png/revision/latest?cb=20210428023422" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Hassan_of_the_Serenity_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428023422" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Hassan_of_the_Serenity_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428023422 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Hassan_of_the_Serenity_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210428023422 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Hassan of the Serenity Costume Sprite.png" data-image-name="Hassan of the Serenity Costume Sprite.png">
+						
+					</a>
+				</figure>

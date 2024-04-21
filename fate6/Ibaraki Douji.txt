@@ -1,0 +1,54 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S116_Stage1.webp/revision/latest?cb=20220911062920" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S116_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911062920" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S116_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911062920 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S116_Stage1.webp/revision/latest?cb=20220911062920 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S116 Stage1.webp" data-image-name="S116 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S116_Stage2.webp/revision/latest?cb=20220911062912" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S116_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911062912" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S116_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911062912 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6d/S116_Stage2.webp/revision/latest?cb=20220911062912 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S116 Stage2.webp" data-image-name="S116 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S116_Stage3.webp/revision/latest?cb=20220911062901" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S116_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911062901" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S116_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911062901 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0a/S116_Stage3.webp/revision/latest?cb=20220911062901 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S116 Stage3.webp" data-image-name="S116 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S116_Stage4.webp/revision/latest?cb=20220911062849" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S116_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911062849" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S116_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911062849 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S116_Stage4.webp/revision/latest?cb=20220911062849 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S116 Stage4.webp" data-image-name="S116 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/AF0116.png/revision/latest?cb=20180428112954" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/AF0116.png/revision/latest/scale-to-width-down/350?cb=20180428112954" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/AF0116.png/revision/latest/scale-to-width-down/350?cb=20180428112954 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c7/AF0116.png/revision/latest?cb=20180428112954 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0116.png" data-image-name="AF0116.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest?cb=20180929064137" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest/scale-to-width-down/350?cb=20180929064137" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest/scale-to-width-down/350?cb=20180929064137 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Ibarakisprite1.png/revision/latest/scale-to-width-down/699?cb=20180929064137 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="206" data-image-key="Ibarakisprite1.png" data-image-name="Ibarakisprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest?cb=20180929061701" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest/scale-to-width-down/350?cb=20180929061701" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest/scale-to-width-down/350?cb=20180929061701 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Ibarakisprite2.png/revision/latest/scale-to-width-down/699?cb=20180929061701 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="206" data-image-key="Ibarakisprite2.png" data-image-name="Ibarakisprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest?cb=20180929062309" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest/scale-to-width-down/350?cb=20180929062309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest/scale-to-width-down/350?cb=20180929062309 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9d/Ibarakisprite3.png/revision/latest/scale-to-width-down/700?cb=20180929062309 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="236" data-image-key="Ibarakisprite3.png" data-image-name="Ibarakisprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/57/Ibaraki_Doji_Boss_Raid.png/revision/latest?cb=20190602063510" class="image image-thumbnail" title="Rashomon Raid">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/57/Ibaraki_Doji_Boss_Raid.png/revision/latest/scale-to-width-down/350?cb=20190602063510" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/57/Ibaraki_Doji_Boss_Raid.png/revision/latest/scale-to-width-down/350?cb=20190602063510 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/57/Ibaraki_Doji_Boss_Raid.png/revision/latest/scale-to-width-down/700?cb=20190602063510 2x" class="pi-image-thumbnail" alt="Rashomon Raid" width="270" height="270" data-image-key="Ibaraki Doji Boss Raid.png" data-image-name="Ibaraki Doji Boss Raid.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S237_Stage1.webp/revision/latest?cb=20220917051323" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S237_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917051323" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S237_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917051323 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/S237_Stage1.webp/revision/latest?cb=20220917051323 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S237 Stage1.webp" data-image-name="S237 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/68/S237_Stage2.webp/revision/latest?cb=20220917051939" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/68/S237_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917051939" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/68/S237_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917051939 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/68/S237_Stage2.webp/revision/latest?cb=20220917051939 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S237 Stage2.webp" data-image-name="S237 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/S237_Stage3.webp/revision/latest?cb=20220917051148" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/S237_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917051148" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/S237_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917051148 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/S237_Stage3.webp/revision/latest?cb=20220917051148 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S237 Stage3.webp" data-image-name="S237 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S237_Stage4.webp/revision/latest?cb=20220917051111" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S237_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917051111" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S237_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917051111 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/61/S237_Stage4.webp/revision/latest?cb=20220917051111 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S237 Stage4.webp" data-image-name="S237 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/19/AF0237.png/revision/latest?cb=20200401080716" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/19/AF0237.png/revision/latest/scale-to-width-down/350?cb=20200401080716" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/19/AF0237.png/revision/latest/scale-to-width-down/350?cb=20200401080716 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/19/AF0237.png/revision/latest?cb=20200401080716 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0237.png" data-image-name="AF0237.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest?cb=20191119193555" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest/scale-to-width-down/350?cb=20191119193555" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest/scale-to-width-down/350?cb=20191119193555 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest/scale-to-width-down/700?cb=20191119193555 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Murasaki Shikibu 1.png" data-image-name="Murasaki Shikibu 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest?cb=20191119193604" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest/scale-to-width-down/350?cb=20191119193604" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest/scale-to-width-down/350?cb=20191119193604 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest/scale-to-width-down/700?cb=20191119193604 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Murasaki Shikibu 2.png" data-image-name="Murasaki Shikibu 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest?cb=20191119211607" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest/scale-to-width-down/350?cb=20191119211607" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest/scale-to-width-down/350?cb=20191119211607 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest/scale-to-width-down/700?cb=20191119211607 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Murasaki Shikibu 3.png" data-image-name="Murasaki Shikibu 3.png">
+						
+					</a>
+				</figure>

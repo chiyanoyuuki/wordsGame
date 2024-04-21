@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Andersen_Sprite1_New.png/revision/latest?cb=20200818141012" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Andersen_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20200818141012" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Andersen_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20200818141012 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/de/Andersen_Sprite1_New.png/revision/latest/scale-to-width-down/700?cb=20200818141012 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Andersen Sprite1 New.png" data-image-name="Andersen Sprite1 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Andersen_Sprite2_New.png/revision/latest?cb=20200818141015" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Andersen_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20200818141015" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Andersen_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20200818141015 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/Andersen_Sprite2_New.png/revision/latest/scale-to-width-down/700?cb=20200818141015 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Andersen Sprite2 New.png" data-image-name="Andersen Sprite2 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Andersen_Sprite3_New.png/revision/latest?cb=20200818141019" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Andersen_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20200818141019" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Andersen_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20200818141019 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/Andersen_Sprite3_New.png/revision/latest/scale-to-width-down/700?cb=20200818141019 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Andersen Sprite3 New.png" data-image-name="Andersen Sprite3 New.png">
+						
+					</a>
+				</figure>

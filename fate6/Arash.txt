@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/80/S016_Stage1.webp/revision/latest?cb=20220910081659" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/80/S016_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910081659" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/80/S016_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910081659 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/80/S016_Stage1.webp/revision/latest?cb=20220910081659 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S016 Stage1.webp" data-image-name="S016 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S016_Stage2.webp/revision/latest?cb=20220910081643" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S016_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910081643" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S016_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910081643 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/89/S016_Stage2.webp/revision/latest?cb=20220910081643 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S016 Stage2.webp" data-image-name="S016 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S016_Stage3.webp/revision/latest?cb=20220910081631" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S016_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910081631" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S016_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910081631 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S016_Stage3.webp/revision/latest?cb=20220910081631 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S016 Stage3.webp" data-image-name="S016 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/45/S016_Stage4.webp/revision/latest?cb=20220910081620" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/45/S016_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910081620" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/45/S016_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910081620 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/45/S016_Stage4.webp/revision/latest?cb=20220910081620 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S016 Stage4.webp" data-image-name="S016 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/66/AF0016.png/revision/latest?cb=20200404150619" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/66/AF0016.png/revision/latest/scale-to-width-down/350?cb=20200404150619" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/66/AF0016.png/revision/latest/scale-to-width-down/350?cb=20200404150619 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/66/AF0016.png/revision/latest?cb=20200404150619 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0016.png" data-image-name="AF0016.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/90/Arash_Renewal_Sprite_1.png/revision/latest?cb=20201204172658" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/90/Arash_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201204172658" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/90/Arash_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201204172658 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/90/Arash_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20201204172658 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Arash Renewal Sprite 1.png" data-image-name="Arash Renewal Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Arash_Renewal_Sprite_2.png/revision/latest?cb=20201204172652" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Arash_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201204172652" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Arash_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201204172652 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Arash_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20201204172652 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Arash Renewal Sprite 2.png" data-image-name="Arash Renewal Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ed/Arash_Renewal_Sprite_3.png/revision/latest?cb=20201204172643" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ed/Arash_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201204172643" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ed/Arash_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201204172643 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ed/Arash_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20201204172643 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Arash Renewal Sprite 3.png" data-image-name="Arash Renewal Sprite 3.png">
+						
+					</a>
+				</figure>

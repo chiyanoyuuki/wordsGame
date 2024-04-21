@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Hassan_new_sprite1.png/revision/latest?cb=20180919144304" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Hassan_new_sprite1.png/revision/latest/scale-to-width-down/350?cb=20180919144304" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Hassan_new_sprite1.png/revision/latest/scale-to-width-down/350?cb=20180919144304 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2e/Hassan_new_sprite1.png/revision/latest/scale-to-width-down/699?cb=20180919144304 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="245" data-image-key="Hassan new sprite1.png" data-image-name="Hassan new sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Hassan_new_sprite2.png/revision/latest?cb=20180921135730" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Hassan_new_sprite2.png/revision/latest/scale-to-width-down/350?cb=20180921135730" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Hassan_new_sprite2.png/revision/latest/scale-to-width-down/350?cb=20180921135730 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/18/Hassan_new_sprite2.png/revision/latest/scale-to-width-down/700?cb=20180921135730 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="247" data-image-key="Hassan new sprite2.png" data-image-name="Hassan new sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Hassan_new_sprite3.png/revision/latest?cb=20180924160319" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Hassan_new_sprite3.png/revision/latest/scale-to-width-down/350?cb=20180924160319" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Hassan_new_sprite3.png/revision/latest/scale-to-width-down/350?cb=20180924160319 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Hassan_new_sprite3.png/revision/latest/scale-to-width-down/700?cb=20180924160319 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="246" data-image-key="Hassan new sprite3.png" data-image-name="Hassan new sprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest?cb=20181207073157" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest/scale-to-width-down/350?cb=20181207073157" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest/scale-to-width-down/350?cb=20181207073157 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest/scale-to-width-down/700?cb=20181207073157 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Qin Shi Huang Di 1.png" data-image-name="Qin Shi Huang Di 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest?cb=20181207072427" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest/scale-to-width-down/350?cb=20181207072427" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest/scale-to-width-down/350?cb=20181207072427 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest/scale-to-width-down/699?cb=20181207072427 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="341" data-image-key="Qin Shi Huang Di 2.png" data-image-name="Qin Shi Huang Di 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest?cb=20181207072427" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest/scale-to-width-down/350?cb=20181207072427" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest/scale-to-width-down/350?cb=20181207072427 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest/scale-to-width-down/700?cb=20181207072427 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="296" data-image-key="Qin Shi Huang Di 3.png" data-image-name="Qin Shi Huang Di 3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/R8zyygo.png/revision/latest?cb=20200216112619" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/R8zyygo.png/revision/latest/scale-to-width-down/350?cb=20200216112619" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/R8zyygo.png/revision/latest/scale-to-width-down/350?cb=20200216112619 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/R8zyygo.png/revision/latest/scale-to-width-down/700?cb=20200216112619 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="R8zyygo.png" data-image-name="R8zyygo.png">
+						
+					</a>
+				</figure>

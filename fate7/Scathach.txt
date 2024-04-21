@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Scathach_Renewal_Sprite_1.png/revision/latest?cb=20200918195857" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Scathach_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200918195857" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Scathach_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200918195857 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Scathach_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20200918195857 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Scathach Renewal Sprite 1.png" data-image-name="Scathach Renewal Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Scathach_Renewal_Sprite_2.png/revision/latest?cb=20200918195859" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Scathach_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200918195859" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Scathach_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200918195859 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f8/Scathach_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200918195859 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Scathach Renewal Sprite 2.png" data-image-name="Scathach Renewal Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/40/Scathach_Renewal_Sprite_3.png/revision/latest?cb=20200918195900" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/40/Scathach_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200918195900" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/40/Scathach_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200918195900 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/40/Scathach_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20200918195900 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Scathach Renewal Sprite 3.png" data-image-name="Scathach Renewal Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

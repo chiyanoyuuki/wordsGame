@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/00/SolomonGrandCasterSprite.png/revision/latest?cb=20180625203406" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/00/SolomonGrandCasterSprite.png/revision/latest/scale-to-width-down/350?cb=20180625203406" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/00/SolomonGrandCasterSprite.png/revision/latest/scale-to-width-down/350?cb=20180625203406 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/00/SolomonGrandCasterSprite.png/revision/latest/scale-to-width-down/700?cb=20180625203406 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="272" data-image-key="SolomonGrandCasterSprite.png" data-image-name="SolomonGrandCasterSprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/be/Shiki_new.png/revision/latest?cb=20181011140138" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/be/Shiki_new.png/revision/latest/scale-to-width-down/228?cb=20181011140138" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/be/Shiki_new.png/revision/latest/scale-to-width-down/228?cb=20181011140138 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/be/Shiki_new.png/revision/latest?cb=20181011140138 2x" class="pi-image-thumbnail" alt="Sprite" width="229" height="500" data-image-key="Shiki new.png" data-image-name="Shiki new.png">
+						
+					</a>
+				</figure>

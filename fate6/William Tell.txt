@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/19/S246_Stage1.webp/revision/latest?cb=20220917061611" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/19/S246_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917061611" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/19/S246_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917061611 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/19/S246_Stage1.webp/revision/latest?cb=20220917061611 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S246 Stage1.webp" data-image-name="S246 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S246_Stage2.webp/revision/latest?cb=20220917061557" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S246_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917061557" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S246_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917061557 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1f/S246_Stage2.webp/revision/latest?cb=20220917061557 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S246 Stage2.webp" data-image-name="S246 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/32/S246_Stage3.webp/revision/latest?cb=20220917061546" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/32/S246_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917061546" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/32/S246_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917061546 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/32/S246_Stage3.webp/revision/latest?cb=20220917061546 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S246 Stage3.webp" data-image-name="S246 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/S246_Stage4.webp/revision/latest?cb=20220917061533" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/S246_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917061533" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/S246_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917061533 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8f/S246_Stage4.webp/revision/latest?cb=20220917061533 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S246 Stage4.webp" data-image-name="S246 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/AF0246.png/revision/latest?cb=20200331210801" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/AF0246.png/revision/latest/scale-to-width-down/350?cb=20200331210801" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/AF0246.png/revision/latest/scale-to-width-down/350?cb=20200331210801 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8f/AF0246.png/revision/latest?cb=20200331210801 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0246.png" data-image-name="AF0246.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b5/William_Tell_Sprite1.png/revision/latest?cb=20190616013217" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b5/William_Tell_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190616013217" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b5/William_Tell_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190616013217 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b5/William_Tell_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20190616013217 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="William Tell Sprite1.png" data-image-name="William Tell Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/76/William_Tell_Sprite2.png/revision/latest?cb=20190616013219" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/76/William_Tell_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190616013219" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/76/William_Tell_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190616013219 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/76/William_Tell_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20190616013219 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="William Tell Sprite2.png" data-image-name="William Tell Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/William_Tell_Sprite3.png/revision/latest?cb=20190616013220" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/William_Tell_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190616013220" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/William_Tell_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190616013220 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4c/William_Tell_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20190616013220 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="William Tell Sprite3.png" data-image-name="William Tell Sprite3.png">
+						
+					</a>
+				</figure>

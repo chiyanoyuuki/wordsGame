@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c8/Sprite-Stage1-Charles_Babbage.png/revision/latest?cb=20181014081704" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c8/Sprite-Stage1-Charles_Babbage.png/revision/latest/scale-to-width-down/350?cb=20181014081704" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c8/Sprite-Stage1-Charles_Babbage.png/revision/latest/scale-to-width-down/350?cb=20181014081704 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c8/Sprite-Stage1-Charles_Babbage.png/revision/latest/scale-to-width-down/700?cb=20181014081704 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="232" data-image-key="Sprite-Stage1-Charles Babbage.png" data-image-name="Sprite-Stage1-Charles Babbage.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/CharlesBabbageSprite2.png/revision/latest?cb=20181014081700" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/CharlesBabbageSprite2.png/revision/latest/scale-to-width-down/350?cb=20181014081700" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/CharlesBabbageSprite2.png/revision/latest/scale-to-width-down/350?cb=20181014081700 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/aa/CharlesBabbageSprite2.png/revision/latest/scale-to-width-down/700?cb=20181014081700 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="249" data-image-key="CharlesBabbageSprite2.png" data-image-name="CharlesBabbageSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/CharlesBabbageSprite3.png/revision/latest?cb=20181014081655" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/CharlesBabbageSprite3.png/revision/latest/scale-to-width-down/350?cb=20181014081655" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/CharlesBabbageSprite3.png/revision/latest/scale-to-width-down/350?cb=20181014081655 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2a/CharlesBabbageSprite3.png/revision/latest/scale-to-width-down/700?cb=20181014081655 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="219" data-image-key="CharlesBabbageSprite3.png" data-image-name="CharlesBabbageSprite3.png">
+						
+					</a>
+				</figure>

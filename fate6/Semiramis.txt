@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/S199_Stage1.webp/revision/latest?cb=20220911142100" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/S199_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911142100" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/S199_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911142100 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/S199_Stage1.webp/revision/latest?cb=20220911142100 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S199 Stage1.webp" data-image-name="S199 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S199_Stage2.webp/revision/latest?cb=20220911142053" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S199_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911142053" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S199_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911142053 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/S199_Stage2.webp/revision/latest?cb=20220911142053 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S199 Stage2.webp" data-image-name="S199 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/S199_Stage3.webp/revision/latest?cb=20220911142046" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/S199_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911142046" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/S199_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911142046 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cc/S199_Stage3.webp/revision/latest?cb=20220911142046 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S199 Stage3.webp" data-image-name="S199 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S199_Stage4.webp/revision/latest?cb=20220911142039" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S199_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911142039" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S199_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911142039 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a6/S199_Stage4.webp/revision/latest?cb=20220911142039 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S199 Stage4.webp" data-image-name="S199 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0f/AF0199.png/revision/latest?cb=20180428125241" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0f/AF0199.png/revision/latest/scale-to-width-down/350?cb=20180428125241" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0f/AF0199.png/revision/latest/scale-to-width-down/350?cb=20180428125241 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0f/AF0199.png/revision/latest?cb=20180428125241 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0199.png" data-image-name="AF0199.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest?cb=20200216134342" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest/scale-to-width-down/350?cb=20200216134342" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest/scale-to-width-down/350?cb=20200216134342 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest/scale-to-width-down/700?cb=20200216134342 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Semi 1.png" data-image-name="Semi 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest?cb=20200216134348" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest/scale-to-width-down/350?cb=20200216134348" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest/scale-to-width-down/350?cb=20200216134348 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest/scale-to-width-down/700?cb=20200216134348 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Semi 2.png" data-image-name="Semi 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest?cb=20200216134353" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest/scale-to-width-down/350?cb=20200216134353" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest/scale-to-width-down/350?cb=20200216134353 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest/scale-to-width-down/700?cb=20200216134353 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Semi 3.png" data-image-name="Semi 3.png">
+						
+					</a>
+				</figure>

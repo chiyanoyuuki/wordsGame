@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest?cb=20200825014623" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014623" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014623 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e3/Abigail_Williams_Summer_Foreigner_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200825014623 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Abigail Williams Summer Foreigner 1 Sprite.png" data-image-name="Abigail Williams Summer Foreigner 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest?cb=20200825014701" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014701" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014701 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Abigail_Williams_Summer_Foreigner_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200825014701 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Abigail Williams Summer Foreigner 2 Sprite.png" data-image-name="Abigail Williams Summer Foreigner 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest?cb=20200825014716" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014716" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200825014716 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ac/Abigail_Williams_Summer_Foreigner_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200825014716 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Abigail Williams Summer Foreigner 3 Sprite.png" data-image-name="Abigail Williams Summer Foreigner 3 Sprite.png">
+						
+					</a>
+				</figure>

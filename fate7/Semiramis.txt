@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest?cb=20200216134342" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest/scale-to-width-down/350?cb=20200216134342" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest/scale-to-width-down/350?cb=20200216134342 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Semi_1.png/revision/latest/scale-to-width-down/700?cb=20200216134342 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Semi 1.png" data-image-name="Semi 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest?cb=20200216134348" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest/scale-to-width-down/350?cb=20200216134348" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest/scale-to-width-down/350?cb=20200216134348 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Semi_2.png/revision/latest/scale-to-width-down/700?cb=20200216134348 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Semi 2.png" data-image-name="Semi 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest?cb=20200216134353" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest/scale-to-width-down/350?cb=20200216134353" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest/scale-to-width-down/350?cb=20200216134353 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Semi_3.png/revision/latest/scale-to-width-down/700?cb=20200216134353 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Semi 3.png" data-image-name="Semi 3.png">
+						
+					</a>
+				</figure>

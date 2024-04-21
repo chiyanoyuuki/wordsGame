@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S273_Stage1.webp/revision/latest?cb=20220919133831" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S273_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919133831" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S273_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919133831 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S273_Stage1.webp/revision/latest?cb=20220919133831 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S273 Stage1.webp" data-image-name="S273 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/50/S273_Stage2.webp/revision/latest?cb=20220919133823" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/50/S273_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919133823" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/50/S273_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919133823 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/50/S273_Stage2.webp/revision/latest?cb=20220919133823 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S273 Stage2.webp" data-image-name="S273 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S273_Stage3.webp/revision/latest?cb=20220919133817" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S273_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919133817" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S273_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919133817 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/S273_Stage3.webp/revision/latest?cb=20220919133817 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S273 Stage3.webp" data-image-name="S273 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/17/S273_Stage4.webp/revision/latest?cb=20220919133808" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/17/S273_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919133808" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/17/S273_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919133808 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/17/S273_Stage4.webp/revision/latest?cb=20220919133808 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S273 Stage4.webp" data-image-name="S273 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/31/S273_Costume1.webp/revision/latest?cb=20220919133804" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/31/S273_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220919133804" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/31/S273_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220919133804 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/31/S273_Costume1.webp/revision/latest?cb=20220919133804 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S273 Costume1.webp" data-image-name="S273 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0273.png/revision/latest?cb=20200331215852" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0273.png/revision/latest/scale-to-width-down/350?cb=20200331215852" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0273.png/revision/latest/scale-to-width-down/350?cb=20200331215852 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0273.png/revision/latest?cb=20200331215852 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0273.png" data-image-name="AF0273.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest?cb=20200306081357" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest/scale-to-width-down/350?cb=20200306081357" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest/scale-to-width-down/350?cb=20200306081357 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Mandricardo_Sprite_Fixed_1.png/revision/latest/scale-to-width-down/700?cb=20200306081357 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Mandricardo Sprite Fixed 1.png" data-image-name="Mandricardo Sprite Fixed 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest?cb=20200306081358" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest/scale-to-width-down/350?cb=20200306081358" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest/scale-to-width-down/350?cb=20200306081358 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/Mandricardo_Sprite_Fixed_2.png/revision/latest/scale-to-width-down/700?cb=20200306081358 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Mandricardo Sprite Fixed 2.png" data-image-name="Mandricardo Sprite Fixed 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest?cb=20200306081359" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest/scale-to-width-down/350?cb=20200306081359" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest/scale-to-width-down/350?cb=20200306081359 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Mandricardo_Sprite_Fixed_3.png/revision/latest/scale-to-width-down/700?cb=20200306081359 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Mandricardo Sprite Fixed 3.png" data-image-name="Mandricardo Sprite Fixed 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Mandricardo_Costume_Sprite.png/revision/latest?cb=20210908151121" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Mandricardo_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151121" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Mandricardo_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151121 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/Mandricardo_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151121 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Mandricardo Costume Sprite.png" data-image-name="Mandricardo Costume Sprite.png">
+						
+					</a>
+				</figure>

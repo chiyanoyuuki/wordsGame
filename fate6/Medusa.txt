@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S023_Stage1.webp/revision/latest?cb=20220910083245" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S023_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910083245" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S023_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910083245 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S023_Stage1.webp/revision/latest?cb=20220910083245 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S023 Stage1.webp" data-image-name="S023 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S023_Stage2.webp/revision/latest?cb=20220910083232" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S023_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910083232" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S023_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910083232 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S023_Stage2.webp/revision/latest?cb=20220910083232 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S023 Stage2.webp" data-image-name="S023 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S023_Stage3.webp/revision/latest?cb=20220910083217" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S023_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910083217" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S023_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910083217 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/89/S023_Stage3.webp/revision/latest?cb=20220910083217 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S023 Stage3.webp" data-image-name="S023 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S023_Stage4.webp/revision/latest?cb=20220910083204" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S023_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910083204" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/S023_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910083204 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/S023_Stage4.webp/revision/latest?cb=20220910083204 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S023 Stage4.webp" data-image-name="S023 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/S023_Costume1.webp/revision/latest?cb=20220910083148" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/S023_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910083148" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/S023_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910083148 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/S023_Costume1.webp/revision/latest?cb=20220910083148 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S023 Costume1.webp" data-image-name="S023 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b5/AF0023.png/revision/latest?cb=20180428132344" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b5/AF0023.png/revision/latest/scale-to-width-down/350?cb=20180428132344" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b5/AF0023.png/revision/latest/scale-to-width-down/350?cb=20180428132344 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b5/AF0023.png/revision/latest?cb=20180428132344 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0023.png" data-image-name="AF0023.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest?cb=20180929105429" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180929105429" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180929105429 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20180929105429 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="228" data-image-key="MedusaRiderNew Sprite1.png" data-image-name="MedusaRiderNew Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest?cb=20180929105440" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180929105440" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180929105440 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20180929105440 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="228" data-image-key="MedusaRiderNew Sprite2.png" data-image-name="MedusaRiderNew Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest?cb=20180929105445" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180929105445" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180929105445 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20180929105445 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="227" data-image-key="MedusaRiderNew Sprite3.png" data-image-name="MedusaRiderNew Sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/57/S023_Costume_1_Sprite.png/revision/latest?cb=20220303062536" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/57/S023_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220303062536" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/57/S023_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220303062536 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/57/S023_Costume_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20220303062536 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="S023 Costume 1 Sprite.png" data-image-name="S023 Costume 1 Sprite.png">
+						
+					</a>
+				</figure>

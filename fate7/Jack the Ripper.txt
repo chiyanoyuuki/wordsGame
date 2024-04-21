@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1d/Jack_Renewal_1_Sprite.png/revision/latest?cb=20200325132437" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1d/Jack_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200325132437" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1d/Jack_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200325132437 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1d/Jack_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200325132437 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="Jack Renewal 1 Sprite.png" data-image-name="Jack Renewal 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Jack_Renewal_2_Sprite.png/revision/latest?cb=20200325132443" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Jack_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200325132443" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Jack_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200325132443 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/21/Jack_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200325132443 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="Jack Renewal 2 Sprite.png" data-image-name="Jack Renewal 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/Jack_Renewal_3_Sprite.png/revision/latest?cb=20200325132449" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/Jack_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200325132449" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/Jack_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200325132449 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3c/Jack_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200325132449 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="Jack Renewal 3 Sprite.png" data-image-name="Jack Renewal 3 Sprite.png">
+						
+					</a>
+				</figure>

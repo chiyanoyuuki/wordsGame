@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/12/Tamamo1_new.png/revision/latest?cb=20220514121756" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/12/Tamamo1_new.png/revision/latest/scale-to-width-down/350?cb=20220514121756" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/12/Tamamo1_new.png/revision/latest/scale-to-width-down/350?cb=20220514121756 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/12/Tamamo1_new.png/revision/latest/scale-to-width-down/700?cb=20220514121756 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Tamamo1 new.png" data-image-name="Tamamo1 new.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Tamamo2_new.png/revision/latest?cb=20220514121844" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Tamamo2_new.png/revision/latest/scale-to-width-down/350?cb=20220514121844" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Tamamo2_new.png/revision/latest/scale-to-width-down/350?cb=20220514121844 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/Tamamo2_new.png/revision/latest/scale-to-width-down/700?cb=20220514121844 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Tamamo2 new.png" data-image-name="Tamamo2 new.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Tamamo3_new.png/revision/latest?cb=20220514121905" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Tamamo3_new.png/revision/latest/scale-to-width-down/350?cb=20220514121905" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Tamamo3_new.png/revision/latest/scale-to-width-down/350?cb=20220514121905 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f0/Tamamo3_new.png/revision/latest/scale-to-width-down/700?cb=20220514121905 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Tamamo3 new.png" data-image-name="Tamamo3 new.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,385 @@
+/mash-kyrielight:Mash Kyrielight:4
+/mash-ortinax:Mash Ortinax:4
+/altria-pendragon:Altria Pendragon:5
+/altria-pendragon-alter:Altria Pendragon Alter:4
+/altria-pendragon-lily:Altria Pendragon Lily:4
+/nero-claudius:Nero Claudius:4
+/siegfried:Siegfried:4
+/gaius-julius-caesar:Gaius Julius Caesar:3
+/altera:Altera:5
+/gilles-de-rais:Gilles de Rais:3
+/chevalier-deon:Chevalier d Eon:4
+/emiya:EMIYA:4
+/gilgamesh:Gilgamesh:5
+/robin-hood:Robin Hood:3
+/atalante:Atalante:4
+/euryale:Euryale:3
+/arash:Arash:1
+/cu-chulainn:Cu Chulainn:3
+/elisabeth-bathory:Elisabeth Bathory:4
+/musashibou-benkei:Musashibou Benkei:2
+/cu-chulainn-prototype:Cu Chulainn Prototype:3
+/leonidas:Leonidas:2
+/romulus:Romulus:3
+/medusa:Medusa:3
+/georgios:Georgios:2
+/edward-teach:Edward Teach:2
+/boudica:Boudica:3
+/ushiwakamaru:Ushiwakamaru:3
+/alexander:Alexander:3
+/marie-antoinette:Marie Antoinette:4
+/saint-martha:Saint Martha:4
+/medea:Medea:3
+/gilles-de-rais-caster:Gilles de Rais Caster:3
+/hans-christian-andersen:Hans Christian Andersen:2
+/william-shakespeare:William Shakespeare:2
+/mephistopheles:Mephistopheles:3
+/wolfgang-amadeus-mozart:Wolfgang Amadeus Mozart:1
+/zhuge-liang-el-melloi-ii:Zhuge Liang El Melloi II:5
+/cu-chulainn-caster:Cu Chulainn Caster:3
+/sasaki-kojirou:Sasaki Kojirou:1
+/hassan-cursed-arm:Hassan of the Cursed Arm:2
+/stheno:Stheno:4
+/jing-ke:Jing Ke:3
+/charles-henri-sanson:Charles Henri Sanson:2
+/phantom-opera:Phantom of the Opera:2
+/mata-hari:Mata Hari:1
+/carmilla:Carmilla:4
+/heracles:Heracles:4
+/lancelot:Lancelot:4
+/lu-bu-fengxian:Lu Bu Fengxian:3
+/spartacus:Spartacus:1
+/sakata-kintoki:Sakata Kintoki:5
+/vlad-iii:Vlad III:5
+/asterios:Asterios:1
+/caligula:Caligula:2
+/darius-iii:Darius III:3
+/kiyohime:Kiyohime:3
+/eric-bloodaxe:Eric Bloodaxe:2
+/tamamo-cat:Tamamo Cat:4
+/jeanne-darc:Jeanne d Arc:5
+/orion:Orion:5
+/elisabeth-bathory-halloween:Elisabeth Bathory Halloween:4
+/tamamo-no-mae:Tamamo no Mae:5
+/david:David:3
+/hektor:Hektor:3
+/francis-drake:Francis Drake:5
+/anne-bonny-mary-read:Anne Bonny amp Mary Read:4
+/medea-lily:Medea Lily:4
+/okita-souji:Okita Souji:5
+/oda-nobunaga:Oda Nobunaga:4
+/scathach:Scathach:5
+/diarmuid-ua-duibhne:Diarmuid ua Duibhne:3
+/fergus-mac-roich:Fergus mac Roich:3
+/altria-pendragon-santa-alter:Altria Pendragon Santa Alter:4
+/nursery-rhyme:Nursery Rhyme:4
+/jack-ripper:Jack the Ripper:5
+/mordred:Mordred:5
+/nikola-tesla:Nikola Tesla:5
+/altria-pendragon-lancer-alter:Altria Pendragon Lancer Alter:4
+/paracelsus-von-hohenheim:Paracelsus von Hohenheim:3
+/charles-babbage:Charles Babbage:3
+/henry-jekyll-hyde:Henry Jekyll amp Hyde:3
+/frankenstein:Frankenstein:4
+/solomon-grand-caster:Solomon Grand Caster:5
+/arjuna:Arjuna:5
+/karna:Karna:5
+/mysterious-heroine-x:Mysterious Heroine X:5
+/fionn-mac-cumhaill:Fionn mac Cumhaill:4
+/brynhild:Brynhild:5
+/beowulf:Beowulf:4
+/nero-claudius-bride:Nero Claudius Bride:5
+/ryougi-shiki-saber:Ryougi Shiki Saber:5
+/ryougi-shiki-assassin:Ryougi Shiki Assassin:4
+/amakusa-shirou:Amakusa Shirou:5
+/astolfo:Astolfo:4
+/kid-gilgamesh:Kid Gilgamesh:3
+/edmond-dantes:Edmond Dantes:5
+/nightingale:Nightingale:5
+/cu-chulainn-alter:Cu Chulainn Alter:5
+/queen-medb:Queen Medb:5
+/helena-blavatsky:Helena Blavatsky:4
+/rama:Rama:4
+/li-shuwen:Li Shuwen:4
+/thomas-edison:Thomas Edison:4
+/geronimo:Geronimo:3
+/billy-kid:Billy the Kid: 3
+/jeanne-darc-alter:Jeanne d Arc Alter:5
+/anra-mainiiu:Anra Mainiiu:0
+/iskandar:Iskandar:5
+/emiya-assassin:EMIYA Assassin:4
+/hassan-hundred-personas:Hassan of the Hundred Personas:3
+/irisviel-holy-grail:Irisviel Holy Grail:4
+/shuten-douji:Shuten Douji:5
+/xuanzang-sanzang:Xuanzang Sanzang:5
+/minamoto-no-raikou:Minamoto no Raikou:5
+/sakata-kintoki-rider:Sakata Kintoki Rider:4
+/ibaraki-douji:Ibaraki Douji:4
+/fuuma-kotarou:Fuuma Kotarou:3
+/ozymandias:Ozymandias:5
+/altria-pendragon-lancer:Altria Pendragon Lancer:5
+/nitocris:Nitocris:4
+/lancelot-saber:Lancelot Saber:4
+/tristan:Tristan:4
+/gawain:Gawain:4
+/hassan-serenity:Hassan of the Serenity:3
+/tawara-touta:Tawara Touta:3
+/bedivere:Bedivere:3
+/leonardo-da-vinci:Leonardo da Vinci:5
+/tamamo-no-mae-lancer:Tamamo no Mae Lancer:5
+/altria-pendragon-archer:Altria Pendragon Archer:5
+/marie-antoinette-caster:Marie Antoinette Caster:4
+/anne-bonny-mary-read-archer:Anne Bonny amp Mary Read Archer:4
+/mordred-rider:Mordred Rider:4
+/scathach-assassin:Scathach Assassin:4
+/kiyohime-lancer:Kiyohime Lancer:4
+/saint-martha-ruler:Saint Martha Ruler:4
+/illyasviel-von-einzbern:Illyasviel von Einzbern:5
+/chloe-von-einzbern:Chloe von Einzbern:4
+/elisabeth-bathory-brave:Elisabeth Bathory Brave:4
+/cleopatra:Cleopatra:5
+/vlad-iii-extra:Vlad III EXTRA:4
+/jeanne-darc-alter-santa-lily:Jeanne d Arc Alter Santa Lily:4
+/ishtar:Ishtar:5
+/enkidu:Enkidu:5
+/quetzalcoatl:Quetzalcoatl:5
+/gilgamesh-caster:Gilgamesh Caster:4
+/medusa-lancer:Medusa Lancer:4
+/gorgon:Gorgon:4
+/jaguar-warrior:Jaguar Warrior:3
+/tiamat:Tiamat:5
+/merlin:Merlin:5
+/goetia:Goetia:5
+/solomon-true:Solomon True:5
+/miyamoto-musashi:Miyamoto Musashi:5
+/first-hassan:First Hassan:5
+/mysterious-heroine-x-alter:Mysterious Heroine X Alter:5
+/archer-shinjuku:Archer of Shinjuku:5
+/emiya-alter:EMIYA Alter:4
+/avenger-shinjuku:Avenger of Shinjuku:4
+/assassin-shinjuku:Assassin of Shinjuku:4
+/arthur-pendragon-prototype: Arthur Pendragon Prototype:5
+/hijikata-toshizo:Hijikata Toshizo:5
+/chacha:Chacha:4
+/meltryllis:Meltryllis:5
+/passionlip:Passionlip:4
+/suzuka-gozen:Suzuka Gozen:4
+/bb:BB:4
+/sessyoin-kiara:Sessyoin Kiara:5
+/beast-iiir:Beast IIIR:5
+/caster-nightless-city:Caster of the Nightless City:5
+/assassin-nightless-city:Assassin of the Nightless City:4
+/berserker-el-dorado:Berserker of El Dorado:4
+/rider-resistance:Rider of Resistance:3
+/sherlock-holmes:Sherlock Holmes:5
+/paul-bunyan:Paul Bunyan:1
+/nero-claudius-caster:Nero Claudius Caster:5
+/frankenstein-saber:Frankenstein Saber:4
+/nitocris-assassin:Nitocris Assassin:4
+/oda-nobunaga-berserker:Oda Nobunaga Berserker:4
+/altria-pendragon-rider-alter:Altria Pendragon Rider Alter:5
+/helena-blavatsky-archer:Helena Blavatsky Archer:4
+/minamoto-no-raikou-lancer:Minamoto no Raikou Lancer:4
+/ishtar-rider:Ishtar Rider:4
+/parvati:Parvati:4
+/archer-inferno:Archer of Inferno:4
+/assassin-paraiso:Assassin of Paraiso:4
+/houzouin-inshun:Houzouin Inshun:3
+/yagyu-munenori:Yagyu Munenori:4
+/katou-danzo:Katou Danzo:4
+/osakabehime:Osakabehime:5
+/mecha-eli-chan:Mecha Eli chan:4
+/mecha-eli-chan-mkii:Mecha Eli chan MkII:4
+/caster-okeanos:Caster of Okeanos:4
+/nezha:Nezha:4
+/caster-midrash:Caster of Midrash:4
+/abigail-williams:Abigail Williams:5
+/ereshkigal:Ereshkigal:5
+/attila-santa:Attila the Santa:4
+/katsushika-hokusai:Katsushika Hokusai:5
+/semiramis:Semiramis:5
+/asagami-fujino:Asagami Fujino:4
+/anastasia-nikolaevna-romanova:Anastasia Nikolaevna Romanova:5
+/atalante-alter:Atalante Alter:4
+/avicebron:Avicebron:3
+/antonio-salieri:Antonio Salieri:3
+/ivan-terrible:Ivan the Terrible:5
+/achilles:Achilles:5
+/chiron:Chiron:4
+/sieg:Sieg:4
+/okita-souji-alter:Okita Souji Alter:5
+/okada-izo:Okada Izo:3
+/sakamoto-ryouma:Sakamoto Ryouma:4
+/napoleon:Napoleon:5
+/sigurd:Sigurd:5
+/valkyrie:Valkyrie:4
+/scathach-skadi:Scathach Skadi:5
+/jeanne-darc-archer:Jeanne d Arc Archer:5
+/ibaraki-douji-lancer:Ibaraki Douji Lancer:4
+/ushiwakamaru-assassin:Ushiwakamaru Assassin:4
+/jeanne-darc-berserker-alter:Jeanne d Arc Berserker Alter:4
+/bb-summer:BB Summer:5
+/queen-medb-saber:Queen Medb Saber:4
+/mysterious-heroine-xx:Mysterious Heroine XX:4
+/diarmuid-ua-duibhne-saber:Diarmuid Ua Duibhne Saber:4
+/sitonai:Sitonai:5
+/shuten-douji-caster:Shuten Douji Caster:4
+/xiang-yu:Xiang Yu:5
+/prince-lan-ling:Prince of Lan Ling:4
+/qin-liangyu:Qin Liangyu:4
+/qin-shi-huang:Qin Shi Huang:5
+/yu-mei-ren:Yu Mei ren:4
+/red-hare:Red Hare:3
+/bradamante:Bradamante:5
+/quetzalcoatl-sambasanta:Quetzalcoatl SambaSanta:4
+/beni-enma:Beni Enma:5
+/li-shuwen-assassin:Li Shuwen Assassin:5
+/miyu-edelfelt:Miyu Edelfelt:4
+/murasaki-shikibu:Murasaki Shikibu:5
+/kingprotea:Kingprotea:5
+/kama:Kama:5
+/beast-iiil:Beast IIIL:5
+/sima-yi-reines:Sima Yi Reines:5
+/astraea:Astraea:4
+/gray:Gray:4
+/ganesha-jinako:Ganesha Jinako:5
+/lakshmi-bai:Lakshmi Bai:4
+/william-tell:William Tell:3
+/arjuna-alter:Arjuna Alter:5
+/asvatthaman:Asvatthaman:4
+/asclepius:Asclepius:3
+/demon-king-nobunaga-oda-nobunaga:Demon King Nobunaga Oda Nobunaga:5
+/mori-nagayoshi:Mori Nagayoshi:3
+/nagao-kagetora:Nagao Kagetora:4
+/leonardo-da-vinci-rider:Leonardo da Vinci Rider:5
+/jason:Jason:1
+/paris:Paris:2
+/gareth:Gareth:2
+/bartholomew-roberts:Bartholomew Roberts:1
+/chen-gong:Chen Gong:2
+/charlotte-corday:Charlotte Corday:1
+/salome:Salome:2
+/miyamoto-musashi-berserker:Miyamoto Musashi Berserker:5
+/osakabehime-archer:Osakabehime Archer:4
+/carmilla-rider:Carmilla Rider:4
+/katsushika-hokusai-saber:Katsushika Hokusai Saber:4
+/altria-pendragon-ruler:Altria Pendragon Ruler:5
+/mysterious-alter-ego-l:Mysterious Alter Ego :4
+/okita-j-souji:Okita J Souji:4
+/space-ishtar:Space Ishtar:5
+/calamity-jane:Calamity Jane:4
+/astolfo-saber:Astolfo Saber:5
+/nightingale-santa:Nightingale Santa:4
+/super-orion:Super Orion:5
+/mandricardo:Mandricardo:3
+/europa:Europa:5
+/yang-guifei:Yang Guifei:5
+/sei-shounagon:Sei Shounagon:5
+/odysseus:Odysseus:5
+/dioscuri:Dioscuri:5
+/caenis:Caenis:4
+/romulusquirinus:RomulusQuirinus:5
+/voyager:Voyager:5
+/kijyo-koyo:Kijyo Koyo:4
+/utsumi-erice:Utsumi Erice:4
+/altria-caster:Altria Caster:5
+/sessyoin-kiara-moon-cancer:Sessyoin Kiara Moon Cancer:5
+/illyasviel-von-einzbern-archer:Illyasviel von Einzbern Archer:4
+/brynhild-berserker:Brynhild Berserker:4
+/yu-mei-ren-lancer:Yu Mei ren Lancer:4
+/abigail-williams-summer:Abigail Williams Summer:5
+/archer-inferno-saber:Archer of Inferno Saber:4
+/murasaki-shikibu-rider:Murasaki Shikibu Rider:4
+/himiko:Himiko:5
+/saito-hajime:Saito Hajime:4
+/oda-nobukatsu:Oda Nobukatsu:1
+/van-gogh:Van Gogh:5
+/nemo:Nemo:5
+/ashiya-douman:Ashiya Douman:5
+/watanabe-no-tsuna:Watanabe no Tsuna:4
+/ibuki-douji:Ibuki Douji:5
+/vritra:Vritra:5
+/karna-santa:Karna Santa:4
+/senji-muramasa:Senji Muramasa:5
+/taira-no-kagekiyo:Taira no Kagekiyo:5
+/kiichi-hogen:Kiichi Hogen:4
+/amor-caren:Amor Caren:5
+/galatea:Galatea:5
+/miss-crane:Miss Crane:5
+/mysterious-idol-x-alter:Mysterious Idol X Alter:4
+/morgan:Morgan:5
+/barghest:Barghest:4
+/baobhan-sith:Baobhan Sith:4
+/melusine:Melusine:5
+/percival:Percival:4
+/koyanskaya-of-the-light:Koyanskaya of Light:5
+/habetrot:Habetrot:4
+/oberon:Oberon:5
+/okita-souji-saber-alter:Okita Souji Saber Alter:5
+/anastasia-viy-archer:Anastasia amp Viy Archer:4
+/charlotte-corday-caster:Charlotte Corday Caster:4
+/leonardo-da-vinci-ruler:Leonardo da Vinci Ruler:4
+/kama-avenger:Kama Avenger:5
+/caenis-rider:Caenis Rider:4
+/sei-shounagon-berserker:Sei Shounagon Berserker:4
+/jacques-de-molay:Jacques de Molay:5
+/zenobia:Zenobia:4
+/elisabeth-bathory-cinderella:Elisabeth Bathory Cinderella:4
+/izumo-no-okuni:Izumo no Okuni:5
+/mysterious-ranmaru-x:Mysterious Ranmaru X:4
+/sakamoto-ryouma-lancer:Sakamoto Ryouma Lancer:5
+/saint-martha-santa:Saint Martha Santa:4
+/jiang-ziya:Jiang Ziya:5
+/dobrynya-nikitich:Dobrynya Nikitich:4
+/beast-iv:Beast IV:5
+/koyanskaya-darkness:Koyanskaya of Darkness:5
+/hephaestion:Hephaestion:4
+/manannan-mac-lir-bazett:Manannan mac Lir Bazett:5
+/trung-sisters:Trung Sisters:5
+/taisui-xingjun:Taisui Xingjun:4
+/super-bunyan:Super Bunyan:5
+/daikokuten:Daikokuten:4
+/mary-anning:Mary Anning:1
+/constantine-xi:Constantine XI:5
+/charlemagne:Charlemagne:5
+/roland:Roland:4
+/kriemhild:Kriemhild:4
+/james-moriarty-ruler:James Moriarty Ruler:5
+/don-quixote:Don Quixote:4
+/zhang-jiao:Zhang Jiao:3
+/kyokutei-bakin:Kyokutei Bakin:5
+/minamoto-no-tametomo:Minamoto no Tametomo:5
+/archetype-earth:Archetype Earth:5
+/xu-fu:Xu Fu:3
+/lady-avalon:Lady Avalon:5
+/gareth-saber:Gareth Saber:4
+/ibuki-douji-berserker:Ibuki Douji Berserker:5
+/utsumi-erice-avenger:Utsumi Erice Avenger:4
+/scathach-skadi-ruler:Scathach Skadi Ruler:5
+/assassin-nightless-city-caster:Assassin of the Nightless City Caster:4
+/thrud-assassin:Thrud Assassin:4
+/hildr-assassin:Hildr Assassin:4
+/ortlinde-assassin:Ortlinde Assassin:4
+/sen-no-rikyu:Sen no Rikyu:5
+/yamanami-keisuke:Yamanami Keisuke:4
+/iyo:Iyo:4
+/huyan-zhuo:Huyan Zhuo:5
+/huang-feihu:Huang Feihu:4
+/elisabeth-bathory-kumonryu:Elisabeth Bathory Kumonryu:4
+/britomart:Britomart:5
+/grigori-rasputin:Grigori Rasputin:5
+/nitocris-alter:Nitocris Alter:5
+/tezcatlipoca:Tezcatlipoca:5
+/tlaloc:Tlaloc:4
+/kukulkan:Kukulkan:5
+/pope-johanna:Pope Johanna:5
+/takasugi-shinsaku:Takasugi Shinsaku:5
+/larva-tiamat:Larva Tiamat:5
+/sodoms-beast-draco:Sodom s Beast Draco:5
+/locusta:Locusta:4
+/setanta:Setanta:4
+/kashin-koji:Kashin Koji:5
+/bhima:Bhima:5
+/duryodhana:Duryodhana:4
+/durga:Durga:5
+/medusa-saber:Medusa Saber:5

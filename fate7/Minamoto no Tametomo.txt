@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest?cb=20220706070155" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070155" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070155 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220706070155 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="S350 Sprite Stage1 NoEffects.png" data-image-name="S350 Sprite Stage1 NoEffects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest?cb=20220706070207" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070207" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070207 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220706070207 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="S350 Sprite Stage2 NoEffects.png" data-image-name="S350 Sprite Stage2 NoEffects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest?cb=20220706070206" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070206" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070206 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220706070206 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="S350 Sprite Stage3 NoEffects.png" data-image-name="S350 Sprite Stage3 NoEffects.png">
+						
+					</a>
+				</figure>

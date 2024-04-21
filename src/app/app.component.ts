@@ -61,7 +61,7 @@ export class AppComponent implements OnInit {
     }
     this.startidx = this.idx;
     this.ind = new Array(this.mot.mot.length).fill("_");
-    this.indice = 0;
+    this.indice = 1;
     for (let p of this.joueurs) {
       p.try = [];
     }

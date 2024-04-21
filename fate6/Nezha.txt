@@ -1,0 +1,54 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/51/S193_Stage1.webp/revision/latest?cb=20220911135804" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/51/S193_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911135804" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/51/S193_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911135804 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/51/S193_Stage1.webp/revision/latest?cb=20220911135804 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S193 Stage1.webp" data-image-name="S193 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S193_Stage2.webp/revision/latest?cb=20220911135756" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S193_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911135756" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S193_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911135756 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/24/S193_Stage2.webp/revision/latest?cb=20220911135756 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S193 Stage2.webp" data-image-name="S193 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S193_Stage3.webp/revision/latest?cb=20220911135750" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S193_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911135750" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S193_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911135750 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S193_Stage3.webp/revision/latest?cb=20220911135750 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S193 Stage3.webp" data-image-name="S193 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S193_Stage4.webp/revision/latest?cb=20220911135742" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S193_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911135742" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S193_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911135742 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S193_Stage4.webp/revision/latest?cb=20220911135742 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S193 Stage4.webp" data-image-name="S193 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/58/AF0193.png/revision/latest?cb=20180428123941" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/58/AF0193.png/revision/latest/scale-to-width-down/350?cb=20180428123941" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/58/AF0193.png/revision/latest/scale-to-width-down/350?cb=20180428123941 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/58/AF0193.png/revision/latest?cb=20180428123941 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0193.png" data-image-name="AF0193.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest?cb=20200417152506" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest/scale-to-width-down/350?cb=20200417152506" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest/scale-to-width-down/350?cb=20200417152506 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/Nezhasprite1.png/revision/latest/scale-to-width-down/700?cb=20200417152506 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Nezhasprite1.png" data-image-name="Nezhasprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest?cb=20200417152511" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest/scale-to-width-down/350?cb=20200417152511" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest/scale-to-width-down/350?cb=20200417152511 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Nezha2.png/revision/latest/scale-to-width-down/700?cb=20200417152511 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Nezha2.png" data-image-name="Nezha2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest?cb=20200417152523" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest/scale-to-width-down/350?cb=20200417152523" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest/scale-to-width-down/350?cb=20200417152523 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/Nezha3.png/revision/latest/scale-to-width-down/700?cb=20200417152523 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Nezha3.png" data-image-name="Nezha3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Corrupted_Nezha.png/revision/latest?cb=20190623153435" class="image image-thumbnail" title="Corrupted Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Corrupted_Nezha.png/revision/latest/scale-to-width-down/350?cb=20190623153435" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Corrupted_Nezha.png/revision/latest/scale-to-width-down/350?cb=20190623153435 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Corrupted_Nezha.png/revision/latest/scale-to-width-down/700?cb=20190623153435 2x" class="pi-image-thumbnail" alt="Corrupted Sprite" width="270" height="270" data-image-key="Corrupted Nezha.png" data-image-name="Corrupted Nezha.png">
+						
+					</a>
+				</figure>

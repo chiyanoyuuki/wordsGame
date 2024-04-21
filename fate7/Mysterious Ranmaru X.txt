@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest?cb=20211119161342" class="image image-thumbnail" title="Sprite 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161342" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161342 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Mysterious_Ranmaru_X_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161342 2x" class="pi-image-thumbnail" alt="Sprite 1-3" width="270" height="270" data-image-key="Mysterious Ranmaru X Sprite.png" data-image-name="Mysterious Ranmaru X Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Antonio1.png/revision/latest?cb=20200222134327" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Antonio1.png/revision/latest/scale-to-width-down/350?cb=20200222134327" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Antonio1.png/revision/latest/scale-to-width-down/350?cb=20200222134327 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b1/Antonio1.png/revision/latest/scale-to-width-down/700?cb=20200222134327 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Antonio1.png" data-image-name="Antonio1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Antonio2.png/revision/latest?cb=20200216103231" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Antonio2.png/revision/latest/scale-to-width-down/350?cb=20200216103231" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Antonio2.png/revision/latest/scale-to-width-down/350?cb=20200216103231 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/05/Antonio2.png/revision/latest/scale-to-width-down/700?cb=20200216103231 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Antonio2.png" data-image-name="Antonio2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Antonio3.png/revision/latest?cb=20181102135110" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Antonio3.png/revision/latest/scale-to-width-down/350?cb=20181102135110" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Antonio3.png/revision/latest/scale-to-width-down/350?cb=20181102135110 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a7/Antonio3.png/revision/latest/scale-to-width-down/700?cb=20181102135110 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="177" data-image-key="Antonio3.png" data-image-name="Antonio3.png">
+						
+					</a>
+				</figure>

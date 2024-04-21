@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/39/S186_Stage1.webp/revision/latest?cb=20220911133014" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/39/S186_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911133014" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/39/S186_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911133014 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/39/S186_Stage1.webp/revision/latest?cb=20220911133014 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S186 Stage1.webp" data-image-name="S186 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S186_Stage2.webp/revision/latest?cb=20220911133006" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S186_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911133006" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S186_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911133006 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/30/S186_Stage2.webp/revision/latest?cb=20220911133006 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S186 Stage2.webp" data-image-name="S186 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/25/S186_Stage3.webp/revision/latest?cb=20220911132958" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/25/S186_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911132958" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/25/S186_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911132958 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/25/S186_Stage3.webp/revision/latest?cb=20220911132958 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S186 Stage3.webp" data-image-name="S186 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S186_Stage4.webp/revision/latest?cb=20220911132951" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S186_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911132951" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S186_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911132951 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/af/S186_Stage4.webp/revision/latest?cb=20220911132951 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S186 Stage4.webp" data-image-name="S186 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0186.png/revision/latest?cb=20180428123934" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0186.png/revision/latest/scale-to-width-down/350?cb=20180428123934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0186.png/revision/latest/scale-to-width-down/350?cb=20180428123934 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/38/AF0186.png/revision/latest?cb=20180428123934 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0186.png" data-image-name="AF0186.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest?cb=20200222130746" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222130746" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222130746 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20200222130746 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="HouzouinInshun Sprite1.png" data-image-name="HouzouinInshun Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest?cb=20200222130759" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200222130759" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200222130759 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20200222130759 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="HouzouinInshun Sprite2.png" data-image-name="HouzouinInshun Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest?cb=20200222130808" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222130808" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222130808 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200222130808 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="HouzouinInshun Sprite3.png" data-image-name="HouzouinInshun Sprite3.png">
+						
+					</a>
+				</figure>

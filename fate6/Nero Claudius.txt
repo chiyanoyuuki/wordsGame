@@ -1,0 +1,84 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest?cb=20220910072246" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910072246" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910072246 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S005_Stage1.webp/revision/latest?cb=20220910072246 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S005 Stage1.webp" data-image-name="S005 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S005_Stage2.webp/revision/latest?cb=20220910072306" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S005_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910072306" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S005_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910072306 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S005_Stage2.webp/revision/latest?cb=20220910072306 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S005 Stage2.webp" data-image-name="S005 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/S005_Stage3.webp/revision/latest?cb=20220910072321" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/S005_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910072321" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/S005_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910072321 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/S005_Stage3.webp/revision/latest?cb=20220910072321 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S005 Stage3.webp" data-image-name="S005 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S005_Stage4.webp/revision/latest?cb=20220910072603" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S005_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910072603" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S005_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910072603 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S005_Stage4.webp/revision/latest?cb=20220910072603 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S005 Stage4.webp" data-image-name="S005 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S005_Costume1.webp/revision/latest?cb=20220910072210" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S005_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910072210" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S005_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910072210 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S005_Costume1.webp/revision/latest?cb=20220910072210 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S005 Costume1.webp" data-image-name="S005 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/S005_Costume2.webp/revision/latest?cb=20220910072225" class="image image-thumbnail" title="Costume 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/S005_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220910072225" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d0/S005_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220910072225 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d0/S005_Costume2.webp/revision/latest?cb=20220910072225 2x" class="pi-image-thumbnail" alt="Costume 2" width="270" height="382" data-image-key="S005 Costume2.webp" data-image-name="S005 Costume2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/99/S005_Costume3.webp/revision/latest?cb=20220910072235" class="image image-thumbnail" title="Costume 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/99/S005_Costume3.webp/revision/latest/scale-to-width-down/350?cb=20220910072235" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/99/S005_Costume3.webp/revision/latest/scale-to-width-down/350?cb=20220910072235 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/99/S005_Costume3.webp/revision/latest?cb=20220910072235 2x" class="pi-image-thumbnail" alt="Costume 3" width="270" height="382" data-image-key="S005 Costume3.webp" data-image-name="S005 Costume3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/16/AF0005.png/revision/latest?cb=20200401130008" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/16/AF0005.png/revision/latest/scale-to-width-down/350?cb=20200401130008" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/16/AF0005.png/revision/latest/scale-to-width-down/350?cb=20200401130008 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/16/AF0005.png/revision/latest?cb=20200401130008 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0005.png" data-image-name="AF0005.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest?cb=20180920142229" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest/scale-to-width-down/350?cb=20180920142229" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest/scale-to-width-down/350?cb=20180920142229 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/31/Nero_Claudius_sprite1.png/revision/latest/scale-to-width-down/700?cb=20180920142229 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="176" data-image-key="Nero Claudius sprite1.png" data-image-name="Nero Claudius sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest?cb=20180920142237" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest/scale-to-width-down/350?cb=20180920142237" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest/scale-to-width-down/350?cb=20180920142237 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/ff/NeroSprite2.png/revision/latest/scale-to-width-down/700?cb=20180920142237 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="195" data-image-key="NeroSprite2.png" data-image-name="NeroSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest?cb=20180920142240" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180920142240" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180920142240 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Nero_Claudius_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20180920142240 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="190" data-image-key="Nero Claudius Sprite3.png" data-image-name="Nero Claudius Sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Nerobloomers.png/revision/latest?cb=20220107044607" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Nerobloomers.png/revision/latest/scale-to-width-down/350?cb=20220107044607" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/97/Nerobloomers.png/revision/latest/scale-to-width-down/350?cb=20220107044607 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/97/Nerobloomers.png/revision/latest?cb=20220107044607 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Nerobloomers.png" data-image-name="Nerobloomers.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/NeroCostume02Sprite.png/revision/latest?cb=20200811122047" class="image image-thumbnail" title="Costume 2 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/NeroCostume02Sprite.png/revision/latest/scale-to-width-down/350?cb=20200811122047" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/NeroCostume02Sprite.png/revision/latest/scale-to-width-down/350?cb=20200811122047 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6f/NeroCostume02Sprite.png/revision/latest/scale-to-width-down/700?cb=20200811122047 2x" class="pi-image-thumbnail" alt="Costume 2 Sprite" width="270" height="270" data-image-key="NeroCostume02Sprite.png" data-image-name="NeroCostume02Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Nero_Claudius_Costume_Sprite_3.png/revision/latest?cb=20210428140756" class="image image-thumbnail" title="Costume 3 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Nero_Claudius_Costume_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210428140756" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Nero_Claudius_Costume_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210428140756 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Nero_Claudius_Costume_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210428140756 2x" class="pi-image-thumbnail" alt="Costume 3 Sprite" width="270" height="270" data-image-key="Nero Claudius Costume Sprite 3.png" data-image-name="Nero Claudius Costume Sprite 3.png">
+						
+					</a>
+				</figure>

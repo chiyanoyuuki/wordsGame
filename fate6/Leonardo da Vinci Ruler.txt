@@ -1,0 +1,24 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S320_Stage1.webp/revision/latest?cb=20220925061257" class="image image-thumbnail" title="Stage 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S320_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061257" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S320_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061257 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S320_Stage1.webp/revision/latest?cb=20220925061257 2x" class="pi-image-thumbnail" alt="Stage 1-3" width="270" height="382" data-image-key="S320 Stage1.webp" data-image-name="S320 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S320_Stage4.webp/revision/latest?cb=20220925061242" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S320_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061242" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S320_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061242 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f7/S320_Stage4.webp/revision/latest?cb=20220925061242 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S320 Stage4.webp" data-image-name="S320 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S320_AprilFool.webp/revision/latest?cb=20230402083718" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S320_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083718" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S320_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083718 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/ff/S320_AprilFool.webp/revision/latest?cb=20230402083718 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S320 AprilFool.webp" data-image-name="S320 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest?cb=20210908151606" class="image image-thumbnail" title="Sprite 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151606" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151606 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Leonardo_Da_Vinci_Ruler_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151606 2x" class="pi-image-thumbnail" alt="Sprite 1-3" width="270" height="270" data-image-key="Leonardo Da Vinci Ruler Sprite.png" data-image-name="Leonardo Da Vinci Ruler Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/RobinNew1.png/revision/latest?cb=20200216095344" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/RobinNew1.png/revision/latest/scale-to-width-down/350?cb=20200216095344" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f7/RobinNew1.png/revision/latest/scale-to-width-down/350?cb=20200216095344 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f7/RobinNew1.png/revision/latest/scale-to-width-down/700?cb=20200216095344 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="RobinNew1.png" data-image-name="RobinNew1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/RobinNew2.png/revision/latest?cb=20200216095352" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/RobinNew2.png/revision/latest/scale-to-width-down/350?cb=20200216095352" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/RobinNew2.png/revision/latest/scale-to-width-down/350?cb=20200216095352 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/aa/RobinNew2.png/revision/latest/scale-to-width-down/700?cb=20200216095352 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="RobinNew2.png" data-image-name="RobinNew2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/RobinNew3.png/revision/latest?cb=20200216095358" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/RobinNew3.png/revision/latest/scale-to-width-down/350?cb=20200216095358" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/RobinNew3.png/revision/latest/scale-to-width-down/350?cb=20200216095358 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/RobinNew3.png/revision/latest/scale-to-width-down/700?cb=20200216095358 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="RobinNew3.png" data-image-name="RobinNew3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

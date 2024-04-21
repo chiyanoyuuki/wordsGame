@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest?cb=20200222130746" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222130746" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222130746 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/17/HouzouinInshun_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20200222130746 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="HouzouinInshun Sprite1.png" data-image-name="HouzouinInshun Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest?cb=20200222130759" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200222130759" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200222130759 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/02/HouzouinInshun_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20200222130759 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="HouzouinInshun Sprite2.png" data-image-name="HouzouinInshun Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest?cb=20200222130808" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222130808" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222130808 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/da/HouzouinInshun_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200222130808 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="HouzouinInshun Sprite3.png" data-image-name="HouzouinInshun Sprite3.png">
+						
+					</a>
+				</figure>

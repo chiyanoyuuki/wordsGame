@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S215_Stage1.webp/revision/latest?cb=20220913145145" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S215_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913145145" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S215_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913145145 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S215_Stage1.webp/revision/latest?cb=20220913145145 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S215 Stage1.webp" data-image-name="S215 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/S215_Stage2.webp/revision/latest?cb=20220913145127" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/S215_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913145127" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e9/S215_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913145127 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e9/S215_Stage2.webp/revision/latest?cb=20220913145127 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S215 Stage2.webp" data-image-name="S215 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/05/S215_Stage3.webp/revision/latest?cb=20220913145114" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/05/S215_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913145114" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/05/S215_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913145114 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/05/S215_Stage3.webp/revision/latest?cb=20220913145114 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S215 Stage3.webp" data-image-name="S215 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S215_Stage4.webp/revision/latest?cb=20220913145107" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S215_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913145107" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S215_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913145107 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/91/S215_Stage4.webp/revision/latest?cb=20220913145107 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S215 Stage4.webp" data-image-name="S215 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/39/AF0215.png/revision/latest?cb=20200401001121" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/39/AF0215.png/revision/latest/scale-to-width-down/350?cb=20200401001121" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/39/AF0215.png/revision/latest/scale-to-width-down/350?cb=20200401001121 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/39/AF0215.png/revision/latest?cb=20200401001121 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0215.png" data-image-name="AF0215.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/ScathachSkadiSprite1.png/revision/latest?cb=20200216143508" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/ScathachSkadiSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216143508" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/ScathachSkadiSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216143508 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d5/ScathachSkadiSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216143508 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="ScathachSkadiSprite1.png" data-image-name="ScathachSkadiSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/86/ScathachSkadiSprite2.png/revision/latest?cb=20200216143512" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/86/ScathachSkadiSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216143512" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/86/ScathachSkadiSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216143512 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/86/ScathachSkadiSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216143512 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="ScathachSkadiSprite2.png" data-image-name="ScathachSkadiSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/65/ScathachSkadiSprite3.png/revision/latest?cb=20200216143517" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/65/ScathachSkadiSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216143517" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/65/ScathachSkadiSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216143517 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/65/ScathachSkadiSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216143517 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="ScathachSkadiSprite3.png" data-image-name="ScathachSkadiSprite3.png">
+						
+					</a>
+				</figure>

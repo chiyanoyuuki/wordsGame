@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S236_Stage1.webp/revision/latest?cb=20220917052644" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S236_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917052644" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S236_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917052644 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S236_Stage1.webp/revision/latest?cb=20220917052644 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S236 Stage1.webp" data-image-name="S236 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S236_Stage2.webp/revision/latest?cb=20220917051510" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S236_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917051510" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S236_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917051510 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7d/S236_Stage2.webp/revision/latest?cb=20220917051510 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S236 Stage2.webp" data-image-name="S236 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S236_Stage3.webp/revision/latest?cb=20220917050413" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S236_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917050413" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/89/S236_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917050413 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/89/S236_Stage3.webp/revision/latest?cb=20220917050413 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S236 Stage3.webp" data-image-name="S236 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S236_Stage4.webp/revision/latest?cb=20220917050405" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S236_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917050405" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S236_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917050405 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/82/S236_Stage4.webp/revision/latest?cb=20220917050405 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S236 Stage4.webp" data-image-name="S236 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0236.png/revision/latest?cb=20200401080526" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0236.png/revision/latest/scale-to-width-down/350?cb=20200401080526" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0236.png/revision/latest/scale-to-width-down/350?cb=20200401080526 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0236.png/revision/latest?cb=20200401080526 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0236.png" data-image-name="AF0236.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Miyu_Sprite1.png/revision/latest?cb=20190128130225" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Miyu_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190128130225" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Miyu_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190128130225 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/65/Miyu_Sprite1.png/revision/latest/scale-to-width-down/699?cb=20190128130225 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="280" data-image-key="Miyu Sprite1.png" data-image-name="Miyu Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Miyu_Sprite2.png/revision/latest?cb=20190123154434" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Miyu_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190123154434" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/83/Miyu_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20190123154434 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/83/Miyu_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20190123154434 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="347" data-image-key="Miyu Sprite2.png" data-image-name="Miyu Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/Miyu_Sprite3.png/revision/latest?cb=20190123154429" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/Miyu_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190123154429" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/Miyu_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20190123154429 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fb/Miyu_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20190123154429 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="335" data-image-key="Miyu Sprite3.png" data-image-name="Miyu Sprite3.png">
+						
+					</a>
+				</figure>

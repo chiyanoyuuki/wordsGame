@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Artoria_Caster_Sprite_1.png/revision/latest?cb=20200812064728" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Artoria_Caster_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200812064728" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/Artoria_Caster_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20200812064728 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/Artoria_Caster_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20200812064728 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Artoria Caster Sprite 1.png" data-image-name="Artoria Caster Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Artoria_Caster_Sprite_2.png/revision/latest?cb=20200812064736" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Artoria_Caster_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200812064736" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Artoria_Caster_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200812064736 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/Artoria_Caster_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200812064736 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Artoria Caster Sprite 2.png" data-image-name="Artoria Caster Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/15/Artoria_Caster_Sprite_3.png/revision/latest?cb=20200812064749" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/15/Artoria_Caster_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200812064749" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/15/Artoria_Caster_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200812064749 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/15/Artoria_Caster_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20200812064749 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Artoria Caster Sprite 3.png" data-image-name="Artoria Caster Sprite 3.png">
+						
+					</a>
+				</figure>

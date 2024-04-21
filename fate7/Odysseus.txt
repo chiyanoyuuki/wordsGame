@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Odysseus_1_Sprite.png/revision/latest?cb=20200306145559" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Odysseus_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200306145559" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Odysseus_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200306145559 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Odysseus_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200306145559 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Odysseus 1 Sprite.png" data-image-name="Odysseus 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Odysseus_2_Sprite.png/revision/latest?cb=20200306145614" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Odysseus_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200306145614" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Odysseus_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200306145614 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Odysseus_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200306145614 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Odysseus 2 Sprite.png" data-image-name="Odysseus 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Odysseus_3_Sprite.png/revision/latest?cb=20200306145625" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Odysseus_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200306145625" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/21/Odysseus_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200306145625 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/21/Odysseus_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200306145625 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Odysseus 3 Sprite.png" data-image-name="Odysseus 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

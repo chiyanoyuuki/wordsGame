@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/98/ScatachSummerAssassin_Sprite1-3.png/revision/latest?cb=20200216130102" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/98/ScatachSummerAssassin_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20200216130102" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/98/ScatachSummerAssassin_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20200216130102 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/98/ScatachSummerAssassin_Sprite1-3.png/revision/latest/scale-to-width-down/700?cb=20200216130102 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="ScatachSummerAssassin Sprite1-3.png" data-image-name="ScatachSummerAssassin Sprite1-3.png">
+						
+					</a>
+				</figure>

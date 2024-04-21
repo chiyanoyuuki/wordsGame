@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/SpartacusStage1New.png/revision/latest?cb=20200328082109" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/SpartacusStage1New.png/revision/latest/scale-to-width-down/350?cb=20200328082109" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/SpartacusStage1New.png/revision/latest/scale-to-width-down/350?cb=20200328082109 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2d/SpartacusStage1New.png/revision/latest/scale-to-width-down/700?cb=20200328082109 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="SpartacusStage1New.png" data-image-name="SpartacusStage1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/15/SpartacusStage2New.png/revision/latest?cb=20200328082115" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/15/SpartacusStage2New.png/revision/latest/scale-to-width-down/350?cb=20200328082115" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/15/SpartacusStage2New.png/revision/latest/scale-to-width-down/350?cb=20200328082115 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/15/SpartacusStage2New.png/revision/latest/scale-to-width-down/700?cb=20200328082115 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="SpartacusStage2New.png" data-image-name="SpartacusStage2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/SpartacusStage3New.png/revision/latest?cb=20200328082120" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/SpartacusStage3New.png/revision/latest/scale-to-width-down/350?cb=20200328082120" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/SpartacusStage3New.png/revision/latest/scale-to-width-down/350?cb=20200328082120 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/SpartacusStage3New.png/revision/latest/scale-to-width-down/700?cb=20200328082120 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="SpartacusStage3New.png" data-image-name="SpartacusStage3New.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest?cb=20201002123051" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123051" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123051 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20201002123051 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Okita Souji Sprite1 2nd Renewal.png" data-image-name="Okita Souji Sprite1 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest?cb=20201002123052" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123052" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123052 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20201002123052 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Okita Souji Sprite2 2nd Renewal.png" data-image-name="Okita Souji Sprite2 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest?cb=20201002123053" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123053" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123053 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20201002123053 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Okita Souji Sprite3 2nd Renewal.png" data-image-name="Okita Souji Sprite3 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

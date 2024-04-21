@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/49/Stheno_Sprite1_New.png/revision/latest?cb=20200813145626" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/49/Stheno_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20200813145626" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/49/Stheno_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20200813145626 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/49/Stheno_Sprite1_New.png/revision/latest/scale-to-width-down/700?cb=20200813145626 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Stheno Sprite1 New.png" data-image-name="Stheno Sprite1 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/85/Stheno_Sprite2_New.png/revision/latest?cb=20200813145630" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/85/Stheno_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20200813145630" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/85/Stheno_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20200813145630 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/85/Stheno_Sprite2_New.png/revision/latest/scale-to-width-down/700?cb=20200813145630 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Stheno Sprite2 New.png" data-image-name="Stheno Sprite2 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Stheno_Sprite3_New.png/revision/latest?cb=20200813145633" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Stheno_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20200813145633" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Stheno_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20200813145633 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Stheno_Sprite3_New.png/revision/latest/scale-to-width-down/700?cb=20200813145633 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Stheno Sprite3 New.png" data-image-name="Stheno Sprite3 New.png">
+						
+					</a>
+				</figure>

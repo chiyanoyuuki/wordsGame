@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/DantesNewSprite1.png/revision/latest?cb=20200216131028" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/DantesNewSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216131028" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/DantesNewSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216131028 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/DantesNewSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216131028 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="DantesNewSprite1.png" data-image-name="DantesNewSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d1/DantesNewSprite2.png/revision/latest?cb=20200216131033" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d1/DantesNewSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216131033" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d1/DantesNewSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216131033 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d1/DantesNewSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216131033 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="DantesNewSprite2.png" data-image-name="DantesNewSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/DantesNewSprite3.png/revision/latest?cb=20200216131037" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/DantesNewSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216131037" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/DantesNewSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216131037 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d7/DantesNewSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216131037 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="DantesNewSprite3.png" data-image-name="DantesNewSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

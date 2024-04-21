@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/67/HelenaArcherSprite1.png/revision/latest?cb=20230122154957" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/67/HelenaArcherSprite1.png/revision/latest/scale-to-width-down/350?cb=20230122154957" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/67/HelenaArcherSprite1.png/revision/latest/scale-to-width-down/350?cb=20230122154957 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/67/HelenaArcherSprite1.png/revision/latest/scale-to-width-down/700?cb=20230122154957 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="HelenaArcherSprite1.png" data-image-name="HelenaArcherSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/31/HelenaArcherSprite2.png/revision/latest?cb=20230122155003" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/31/HelenaArcherSprite2.png/revision/latest/scale-to-width-down/350?cb=20230122155003" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/31/HelenaArcherSprite2.png/revision/latest/scale-to-width-down/350?cb=20230122155003 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/31/HelenaArcherSprite2.png/revision/latest/scale-to-width-down/700?cb=20230122155003 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="HelenaArcherSprite2.png" data-image-name="HelenaArcherSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/HelenaArcherSprite3.png/revision/latest?cb=20230122155010" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/HelenaArcherSprite3.png/revision/latest/scale-to-width-down/350?cb=20230122155010" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/HelenaArcherSprite3.png/revision/latest/scale-to-width-down/350?cb=20230122155010 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/HelenaArcherSprite3.png/revision/latest/scale-to-width-down/700?cb=20230122155010 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="HelenaArcherSprite3.png" data-image-name="HelenaArcherSprite3.png">
+						
+					</a>
+				</figure>

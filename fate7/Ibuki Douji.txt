@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/88/Ibuki_Douji_1_Sprite.png/revision/latest?cb=20201211121302" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/88/Ibuki_Douji_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201211121302" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/88/Ibuki_Douji_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201211121302 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/88/Ibuki_Douji_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201211121302 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ibuki Douji 1 Sprite.png" data-image-name="Ibuki Douji 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Ibuki_Douji_2_Sprite.png/revision/latest?cb=20201211121315" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Ibuki_Douji_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201211121315" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Ibuki_Douji_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201211121315 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Ibuki_Douji_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201211121315 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ibuki Douji 2 Sprite.png" data-image-name="Ibuki Douji 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Ibuki_Douji_3_Sprite.png/revision/latest?cb=20201211121330" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Ibuki_Douji_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201211121330" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Ibuki_Douji_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201211121330 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Ibuki_Douji_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201211121330 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ibuki Douji 3 Sprite.png" data-image-name="Ibuki Douji 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

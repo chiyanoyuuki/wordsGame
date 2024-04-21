@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage1.webp/revision/latest?cb=20220913152817" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913152817" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913152817 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage1.webp/revision/latest?cb=20220913152817 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S230 Stage1.webp" data-image-name="S230 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S230_Stage2.webp/revision/latest?cb=20220913152809" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S230_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913152809" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S230_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913152809 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/71/S230_Stage2.webp/revision/latest?cb=20220913152809 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S230 Stage2.webp" data-image-name="S230 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/S230_Stage3.webp/revision/latest?cb=20220913152800" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/S230_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913152800" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/S230_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913152800 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c4/S230_Stage3.webp/revision/latest?cb=20220913152800 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S230 Stage3.webp" data-image-name="S230 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage4.webp/revision/latest?cb=20220913152752" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913152752" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913152752 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/21/S230_Stage4.webp/revision/latest?cb=20220913152752 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S230 Stage4.webp" data-image-name="S230 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/eb/AF0230.png/revision/latest?cb=20200401074012" class="image image-thumbnail" title="April Fools">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/eb/AF0230.png/revision/latest/scale-to-width-down/350?cb=20200401074012" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/eb/AF0230.png/revision/latest/scale-to-width-down/350?cb=20200401074012 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/eb/AF0230.png/revision/latest?cb=20200401074012 2x" class="pi-image-thumbnail" alt="April Fools" width="270" height="382" data-image-key="AF0230.png" data-image-name="AF0230.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Yu_Miaoyi_1.png/revision/latest?cb=20190106161636" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Yu_Miaoyi_1.png/revision/latest/scale-to-width-down/350?cb=20190106161636" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Yu_Miaoyi_1.png/revision/latest/scale-to-width-down/350?cb=20190106161636 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2d/Yu_Miaoyi_1.png/revision/latest/scale-to-width-down/700?cb=20190106161636 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Yu Miaoyi 1.png" data-image-name="Yu Miaoyi 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Yu_Miaoyi_2.png/revision/latest?cb=20190106161636" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Yu_Miaoyi_2.png/revision/latest/scale-to-width-down/350?cb=20190106161636" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Yu_Miaoyi_2.png/revision/latest/scale-to-width-down/350?cb=20190106161636 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Yu_Miaoyi_2.png/revision/latest/scale-to-width-down/700?cb=20190106161636 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Yu Miaoyi 2.png" data-image-name="Yu Miaoyi 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Yu_Miaoyi_3.png/revision/latest?cb=20190106161636" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Yu_Miaoyi_3.png/revision/latest/scale-to-width-down/350?cb=20190106161636" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Yu_Miaoyi_3.png/revision/latest/scale-to-width-down/350?cb=20190106161636 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Yu_Miaoyi_3.png/revision/latest/scale-to-width-down/700?cb=20190106161636 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Yu Miaoyi 3.png" data-image-name="Yu Miaoyi 3.png">
+						
+					</a>
+				</figure>

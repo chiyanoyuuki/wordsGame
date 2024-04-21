@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Lancelot_NewSprite1.png/revision/latest?cb=20180911092724" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Lancelot_NewSprite1.png/revision/latest/scale-to-width-down/350?cb=20180911092724" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Lancelot_NewSprite1.png/revision/latest/scale-to-width-down/350?cb=20180911092724 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ee/Lancelot_NewSprite1.png/revision/latest/scale-to-width-down/700?cb=20180911092724 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Lancelot NewSprite1.png" data-image-name="Lancelot NewSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Lancelot_NewSprite2.png/revision/latest?cb=20180911092724" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Lancelot_NewSprite2.png/revision/latest/scale-to-width-down/350?cb=20180911092724" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/55/Lancelot_NewSprite2.png/revision/latest/scale-to-width-down/350?cb=20180911092724 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/55/Lancelot_NewSprite2.png/revision/latest/scale-to-width-down/700?cb=20180911092724 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Lancelot NewSprite2.png" data-image-name="Lancelot NewSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/52/Lancelot_NewSprite3.png/revision/latest?cb=20180911092725" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/52/Lancelot_NewSprite3.png/revision/latest/scale-to-width-down/350?cb=20180911092725" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/52/Lancelot_NewSprite3.png/revision/latest/scale-to-width-down/350?cb=20180911092725 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/52/Lancelot_NewSprite3.png/revision/latest/scale-to-width-down/700?cb=20180911092725 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Lancelot NewSprite3.png" data-image-name="Lancelot NewSprite3.png">
+						
+					</a>
+				</figure>

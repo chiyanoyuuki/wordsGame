@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest?cb=20210513032214" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210513032214" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210513032214 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210513032214 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Gawain Renewal Sprite 1.png" data-image-name="Gawain Renewal Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest?cb=20210513032211" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210513032211" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210513032211 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210513032211 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Gawain Renewal Sprite 2.png" data-image-name="Gawain Renewal Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest?cb=20210513032209" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210513032209" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210513032209 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210513032209 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Gawain Renewal Sprite 3.png" data-image-name="Gawain Renewal Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

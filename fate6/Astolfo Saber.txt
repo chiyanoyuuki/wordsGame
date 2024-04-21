@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/13/S270_Stage1.webp/revision/latest?cb=20220919133729" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/13/S270_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919133729" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/13/S270_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220919133729 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/13/S270_Stage1.webp/revision/latest?cb=20220919133729 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S270 Stage1.webp" data-image-name="S270 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S270_Stage2.webp/revision/latest?cb=20220919133721" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S270_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919133721" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S270_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220919133721 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S270_Stage2.webp/revision/latest?cb=20220919133721 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S270 Stage2.webp" data-image-name="S270 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/S270_Stage3.webp/revision/latest?cb=20220919133714" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/S270_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919133714" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/S270_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220919133714 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4a/S270_Stage3.webp/revision/latest?cb=20220919133714 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S270 Stage3.webp" data-image-name="S270 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S270_Stage4.webp/revision/latest?cb=20220919133707" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S270_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919133707" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S270_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220919133707 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/S270_Stage4.webp/revision/latest?cb=20220919133707 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S270 Stage4.webp" data-image-name="S270 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/AF0270.png/revision/latest?cb=20200331215432" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/AF0270.png/revision/latest/scale-to-width-down/350?cb=20200331215432" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/AF0270.png/revision/latest/scale-to-width-down/350?cb=20200331215432 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/AF0270.png/revision/latest?cb=20200331215432 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0270.png" data-image-name="AF0270.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/Astolfo_Saber_Sprite_1.png/revision/latest?cb=20191128180638" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/Astolfo_Saber_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191128180638" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/Astolfo_Saber_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191128180638 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b3/Astolfo_Saber_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20191128180638 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Astolfo Saber Sprite 1.png" data-image-name="Astolfo Saber Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/49/Astolfo_Saber_Sprite_2.png/revision/latest?cb=20191128180651" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/49/Astolfo_Saber_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191128180651" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/49/Astolfo_Saber_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191128180651 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/49/Astolfo_Saber_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20191128180651 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Astolfo Saber Sprite 2.png" data-image-name="Astolfo Saber Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Astolfo_Saber_Sprite_3.png/revision/latest?cb=20191128180705" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Astolfo_Saber_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191128180705" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Astolfo_Saber_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191128180705 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/45/Astolfo_Saber_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20191128180705 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Astolfo Saber Sprite 3.png" data-image-name="Astolfo Saber Sprite 3.png">
+						
+					</a>
+				</figure>

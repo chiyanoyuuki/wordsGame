@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest?cb=20211208203603" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211208203603" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211208203603 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211208203603 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Martha Santa Sprite.png" data-image-name="Martha Santa Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/S129_Stage1.webp/revision/latest?cb=20220911071930" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/S129_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911071930" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/S129_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911071930 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/aa/S129_Stage1.webp/revision/latest?cb=20220911071930 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S129 Stage1.webp" data-image-name="S129 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S129_Stage2.webp/revision/latest?cb=20220911071921" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S129_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911071921" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/47/S129_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911071921 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/47/S129_Stage2.webp/revision/latest?cb=20220911071921 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S129 Stage2.webp" data-image-name="S129 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bb/S129_Stage3.webp/revision/latest?cb=20220911071913" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bb/S129_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911071913" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bb/S129_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911071913 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bb/S129_Stage3.webp/revision/latest?cb=20220911071913 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S129 Stage3.webp" data-image-name="S129 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/52/S129_Stage4.webp/revision/latest?cb=20220911071839" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/52/S129_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911071839" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/52/S129_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911071839 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/52/S129_Stage4.webp/revision/latest?cb=20220911071839 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S129 Stage4.webp" data-image-name="S129 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/AF0129.png/revision/latest?cb=20180428123114" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/AF0129.png/revision/latest/scale-to-width-down/350?cb=20180428123114" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/AF0129.png/revision/latest/scale-to-width-down/350?cb=20180428123114 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a2/AF0129.png/revision/latest?cb=20180428123114 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0129.png" data-image-name="AF0129.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Artoria_Summer_Redo_Sprite_1.png/revision/latest?cb=20191231231905" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Artoria_Summer_Redo_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191231231905" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Artoria_Summer_Redo_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20191231231905 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Artoria_Summer_Redo_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20191231231905 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="Artoria Summer Redo Sprite 1.png" data-image-name="Artoria Summer Redo Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Artoria_Summer_Redo_Sprite_2.png/revision/latest?cb=20191231231922" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Artoria_Summer_Redo_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191231231922" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Artoria_Summer_Redo_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20191231231922 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c3/Artoria_Summer_Redo_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20191231231922 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="Artoria Summer Redo Sprite 2.png" data-image-name="Artoria Summer Redo Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Artoria_Summer_Redo_Sprite_3.png/revision/latest?cb=20191231231935" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Artoria_Summer_Redo_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191231231935" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Artoria_Summer_Redo_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20191231231935 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Artoria_Summer_Redo_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20191231231935 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="Artoria Summer Redo Sprite 3.png" data-image-name="Artoria Summer Redo Sprite 3.png">
+						
+					</a>
+				</figure>

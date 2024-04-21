@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Leonardo_Da_Vinci_Rider_Sprite_1.png/revision/latest?cb=20190805124806" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Leonardo_Da_Vinci_Rider_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20190805124806" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Leonardo_Da_Vinci_Rider_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20190805124806 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Leonardo_Da_Vinci_Rider_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20190805124806 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Leonardo Da Vinci Rider Sprite 1.png" data-image-name="Leonardo Da Vinci Rider Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/24/Leonardo_Da_Vinci_Rider_Sprite_2.png/revision/latest?cb=20190805124814" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/24/Leonardo_Da_Vinci_Rider_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20190805124814" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/24/Leonardo_Da_Vinci_Rider_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20190805124814 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/24/Leonardo_Da_Vinci_Rider_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20190805124814 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Leonardo Da Vinci Rider Sprite 2.png" data-image-name="Leonardo Da Vinci Rider Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ea/Leonardo_Da_Vinci_Rider_Sprite_3.png/revision/latest?cb=20190805124823" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ea/Leonardo_Da_Vinci_Rider_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20190805124823" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ea/Leonardo_Da_Vinci_Rider_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20190805124823 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ea/Leonardo_Da_Vinci_Rider_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20190805124823 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Leonardo Da Vinci Rider Sprite 3.png" data-image-name="Leonardo Da Vinci Rider Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

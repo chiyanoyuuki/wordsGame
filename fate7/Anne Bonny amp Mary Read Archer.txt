@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/AnneArcher_sprite1.png/revision/latest?cb=20181014062855" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/AnneArcher_sprite1.png/revision/latest/scale-to-width-down/350?cb=20181014062855" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/AnneArcher_sprite1.png/revision/latest/scale-to-width-down/350?cb=20181014062855 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/AnneArcher_sprite1.png/revision/latest/scale-to-width-down/699?cb=20181014062855 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="361" data-image-key="AnneArcher sprite1.png" data-image-name="AnneArcher sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/AnneArcher_sprite2.png/revision/latest?cb=20181014062859" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/AnneArcher_sprite2.png/revision/latest/scale-to-width-down/350?cb=20181014062859" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/AnneArcher_sprite2.png/revision/latest/scale-to-width-down/350?cb=20181014062859 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/AnneArcher_sprite2.png/revision/latest/scale-to-width-down/700?cb=20181014062859 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="360" data-image-key="AnneArcher sprite2.png" data-image-name="AnneArcher sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/62/AnneArcher_sprite3.png/revision/latest?cb=20181014062908" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/62/AnneArcher_sprite3.png/revision/latest/scale-to-width-down/350?cb=20181014062908" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/62/AnneArcher_sprite3.png/revision/latest/scale-to-width-down/350?cb=20181014062908 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/62/AnneArcher_sprite3.png/revision/latest/scale-to-width-down/699?cb=20181014062908 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="296" data-image-key="AnneArcher sprite3.png" data-image-name="AnneArcher sprite3.png">
+						
+					</a>
+				</figure>

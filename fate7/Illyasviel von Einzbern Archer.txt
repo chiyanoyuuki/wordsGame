@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Illya_Archer_1_Sprite.png/revision/latest?cb=20200821031415" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Illya_Archer_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821031415" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Illya_Archer_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821031415 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Illya_Archer_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200821031415 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Illya Archer 1 Sprite.png" data-image-name="Illya Archer 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Illya_Archer_2_Sprite.png/revision/latest?cb=20200821031414" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Illya_Archer_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821031414" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Illya_Archer_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821031414 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Illya_Archer_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200821031414 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Illya Archer 2 Sprite.png" data-image-name="Illya Archer 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Illya_Archer_3_Sprite.png/revision/latest?cb=20200821031413" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Illya_Archer_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821031413" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Illya_Archer_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200821031413 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/53/Illya_Archer_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200821031413 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Illya Archer 3 Sprite.png" data-image-name="Illya Archer 3 Sprite.png">
+						
+					</a>
+				</figure>

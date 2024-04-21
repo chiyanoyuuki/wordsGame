@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/33/ElizabethBraver_Sprite1-3.png/revision/latest?cb=20180929072244" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/33/ElizabethBraver_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20180929072244" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/33/ElizabethBraver_Sprite1-3.png/revision/latest/scale-to-width-down/350?cb=20180929072244 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/33/ElizabethBraver_Sprite1-3.png/revision/latest/scale-to-width-down/700?cb=20180929072244 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="245" data-image-key="ElizabethBraver Sprite1-3.png" data-image-name="ElizabethBraver Sprite1-3.png">
+						
+					</a>
+				</figure>

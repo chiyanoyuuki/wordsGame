@@ -1,0 +1,30 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S149_Stage1.webp/revision/latest?cb=20220911081254" class="image image-thumbnail" title="Femme Fatale">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S149_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911081254" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S149_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911081254 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S149_Stage1.webp/revision/latest?cb=20220911081254 2x" class="pi-image-thumbnail" alt="Femme Fatale" width="270" height="382" data-image-key="S149 Stage1.webp" data-image-name="S149 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/74/S149_Dragonoid_Portrait.png/revision/latest?cb=20220129125733" class="image image-thumbnail" title="Dragonoid">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/74/S149_Dragonoid_Portrait.png/revision/latest?cb=20220129125733" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/74/S149_Dragonoid_Portrait.png/revision/latest?cb=20220129125733 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/74/S149_Dragonoid_Portrait.png/revision/latest?cb=20220129125733 2x" class="pi-image-thumbnail" alt="Dragonoid" width="270" height="306" data-image-key="S149 Dragonoid Portrait.png" data-image-name="S149 Dragonoid Portrait.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Tiamat.png/revision/latest?cb=20220429054221" class="image image-thumbnail" title="Femme Fatale Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Tiamat.png/revision/latest/scale-to-width-down/350?cb=20220429054221" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Tiamat.png/revision/latest/scale-to-width-down/350?cb=20220429054221 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Tiamat.png/revision/latest/scale-to-width-down/700?cb=20220429054221 2x" class="pi-image-thumbnail" alt="Femme Fatale Sprite" width="270" height="270" data-image-key="Tiamat.png" data-image-name="Tiamat.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Tiamat_head.png/revision/latest?cb=20190324235031" class="image image-thumbnail" title="Dragonoid Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Tiamat_head.png/revision/latest/scale-to-width-down/350?cb=20190324235031" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Tiamat_head.png/revision/latest/scale-to-width-down/350?cb=20190324235031 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/Tiamat_head.png/revision/latest/scale-to-width-down/700?cb=20190324235031 2x" class="pi-image-thumbnail" alt="Dragonoid Sprite" width="270" height="270" data-image-key="Tiamat head.png" data-image-name="Tiamat head.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Tiamat_april_fool.png/revision/latest?cb=20180401235135" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Tiamat_april_fool.png/revision/latest/scale-to-width-down/350?cb=20180401235135" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Tiamat_april_fool.png/revision/latest/scale-to-width-down/350?cb=20180401235135 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Tiamat_april_fool.png/revision/latest?cb=20180401235135 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="275" data-image-key="Tiamat april fool.png" data-image-name="Tiamat april fool.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/OrionSprite1New.png/revision/latest?cb=20181006052401" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/OrionSprite1New.png/revision/latest/scale-to-width-down/350?cb=20181006052401" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/OrionSprite1New.png/revision/latest/scale-to-width-down/350?cb=20181006052401 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8a/OrionSprite1New.png/revision/latest/scale-to-width-down/699?cb=20181006052401 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="288" data-image-key="OrionSprite1New.png" data-image-name="OrionSprite1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c8/OrionSprite2New.png/revision/latest?cb=20181008081022" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c8/OrionSprite2New.png/revision/latest/scale-to-width-down/350?cb=20181008081022" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c8/OrionSprite2New.png/revision/latest/scale-to-width-down/350?cb=20181008081022 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c8/OrionSprite2New.png/revision/latest/scale-to-width-down/700?cb=20181008081022 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="262" data-image-key="OrionSprite2New.png" data-image-name="OrionSprite2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/OrionSprite3New.png/revision/latest?cb=20181006052407" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/OrionSprite3New.png/revision/latest/scale-to-width-down/350?cb=20181006052407" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/OrionSprite3New.png/revision/latest/scale-to-width-down/350?cb=20181006052407 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6e/OrionSprite3New.png/revision/latest/scale-to-width-down/700?cb=20181006052407 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="220" data-image-key="OrionSprite3New.png" data-image-name="OrionSprite3New.png">
+						
+					</a>
+				</figure>

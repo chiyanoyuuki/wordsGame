@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/73/KingHassanSprite1.png/revision/latest?cb=20181003120854" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/73/KingHassanSprite1.png/revision/latest/scale-to-width-down/350?cb=20181003120854" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/73/KingHassanSprite1.png/revision/latest/scale-to-width-down/350?cb=20181003120854 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/73/KingHassanSprite1.png/revision/latest/scale-to-width-down/700?cb=20181003120854 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="365" data-image-key="KingHassanSprite1.png" data-image-name="KingHassanSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/KingHassanSprite2.png/revision/latest?cb=20181004173959" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/KingHassanSprite2.png/revision/latest/scale-to-width-down/350?cb=20181004173959" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/KingHassanSprite2.png/revision/latest/scale-to-width-down/350?cb=20181004173959 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fa/KingHassanSprite2.png/revision/latest/scale-to-width-down/700?cb=20181004173959 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="371" data-image-key="KingHassanSprite2.png" data-image-name="KingHassanSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/King_Hassan_sprite3.png/revision/latest?cb=20181002172331" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/King_Hassan_sprite3.png/revision/latest/scale-to-width-down/350?cb=20181002172331" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/King_Hassan_sprite3.png/revision/latest/scale-to-width-down/350?cb=20181002172331 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fd/King_Hassan_sprite3.png/revision/latest/scale-to-width-down/699?cb=20181002172331 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="332" data-image-key="King Hassan sprite3.png" data-image-name="King Hassan sprite3.png">
+						
+					</a>
+				</figure>

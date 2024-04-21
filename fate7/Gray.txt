@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest?cb=20190428225629" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190428225629" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190428225629 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Gray_Sprite.png/revision/latest/scale-to-width-down/700?cb=20190428225629 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Gray Sprite.png" data-image-name="Gray Sprite.png">
+						
+					</a>
+				</figure>

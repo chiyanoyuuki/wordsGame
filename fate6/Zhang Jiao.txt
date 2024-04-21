@@ -1,0 +1,42 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/44/S348_Stage1.webp/revision/latest?cb=20220925064157" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/44/S348_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925064157" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/44/S348_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925064157 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/44/S348_Stage1.webp/revision/latest?cb=20220925064157 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S348 Stage1.webp" data-image-name="S348 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/S348_Stage2.webp/revision/latest?cb=20220925064147" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/S348_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925064147" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/S348_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925064147 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8c/S348_Stage2.webp/revision/latest?cb=20220925064147 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S348 Stage2.webp" data-image-name="S348 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S348_Stage3.webp/revision/latest?cb=20220925064137" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S348_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925064137" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S348_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925064137 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S348_Stage3.webp/revision/latest?cb=20220925064137 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S348 Stage3.webp" data-image-name="S348 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/S348_Stage4.webp/revision/latest?cb=20220925064127" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/S348_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925064127" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/S348_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925064127 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/S348_Stage4.webp/revision/latest?cb=20220925064127 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S348 Stage4.webp" data-image-name="S348 Stage4.webp">
+						
+					</a><a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/S342_Stage4.webp/revision/latest?cb=20220925063356" class="image image-thumbnail" title="xx">
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S348_Sprite_Stage1.png/revision/latest?cb=20220609121440" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S348_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20220609121440" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S348_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20220609121440 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S348_Sprite_Stage1.png/revision/latest/scale-to-width-down/700?cb=20220609121440 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="S348 Sprite Stage1.png" data-image-name="S348 Sprite Stage1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S348_Sprite_Stage2.png/revision/latest?cb=20220609122248" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S348_Sprite_Stage2.png/revision/latest/scale-to-width-down/350?cb=20220609122248" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S348_Sprite_Stage2.png/revision/latest/scale-to-width-down/350?cb=20220609122248 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/90/S348_Sprite_Stage2.png/revision/latest/scale-to-width-down/700?cb=20220609122248 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="S348 Sprite Stage2.png" data-image-name="S348 Sprite Stage2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S348_Sprite_Stage3.png/revision/latest?cb=20220609174151" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S348_Sprite_Stage3.png/revision/latest/scale-to-width-down/350?cb=20220609174151" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S348_Sprite_Stage3.png/revision/latest/scale-to-width-down/350?cb=20220609174151 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S348_Sprite_Stage3.png/revision/latest/scale-to-width-down/700?cb=20220609174151 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="S348 Sprite Stage3.png" data-image-name="S348 Sprite Stage3.png">
+						
+					</a>
+				</figure>

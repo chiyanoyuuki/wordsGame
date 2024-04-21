@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest?cb=20200216130713" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216130713" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216130713 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Gilcastersprite1.png/revision/latest/scale-to-width-down/700?cb=20200216130713 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Gilcastersprite1.png" data-image-name="Gilcastersprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest?cb=20200216130717" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216130717" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216130717 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/GilCasterSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216130717 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="GilCasterSprite2.png" data-image-name="GilCasterSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest?cb=20200216130724" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216130724" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216130724 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/34/GilCasterSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216130724 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="GilCasterSprite3.png" data-image-name="GilCasterSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

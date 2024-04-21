@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Ericsprite1.png/revision/latest?cb=20220514120926" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Ericsprite1.png/revision/latest/scale-to-width-down/350?cb=20220514120926" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Ericsprite1.png/revision/latest/scale-to-width-down/350?cb=20220514120926 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Ericsprite1.png/revision/latest/scale-to-width-down/700?cb=20220514120926 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ericsprite1.png" data-image-name="Ericsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Ericsprite2.png/revision/latest?cb=20220514120934" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Ericsprite2.png/revision/latest/scale-to-width-down/350?cb=20220514120934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Ericsprite2.png/revision/latest/scale-to-width-down/350?cb=20220514120934 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/Ericsprite2.png/revision/latest/scale-to-width-down/700?cb=20220514120934 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ericsprite2.png" data-image-name="Ericsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/23/Ericsprite3.png/revision/latest?cb=20220514120947" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/23/Ericsprite3.png/revision/latest/scale-to-width-down/350?cb=20220514120947" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/23/Ericsprite3.png/revision/latest/scale-to-width-down/350?cb=20220514120947 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/23/Ericsprite3.png/revision/latest/scale-to-width-down/700?cb=20220514120947 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ericsprite3.png" data-image-name="Ericsprite3.png">
+						
+					</a>
+				</figure>

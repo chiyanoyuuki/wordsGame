@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest?cb=20191119193555" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest/scale-to-width-down/350?cb=20191119193555" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest/scale-to-width-down/350?cb=20191119193555 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/Murasaki_Shikibu_1.png/revision/latest/scale-to-width-down/700?cb=20191119193555 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Murasaki Shikibu 1.png" data-image-name="Murasaki Shikibu 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest?cb=20191119193604" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest/scale-to-width-down/350?cb=20191119193604" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest/scale-to-width-down/350?cb=20191119193604 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/Murasaki_Shikibu_2.png/revision/latest/scale-to-width-down/700?cb=20191119193604 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Murasaki Shikibu 2.png" data-image-name="Murasaki Shikibu 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest?cb=20191119211607" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest/scale-to-width-down/350?cb=20191119211607" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest/scale-to-width-down/350?cb=20191119211607 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/Murasaki_Shikibu_3.png/revision/latest/scale-to-width-down/700?cb=20191119211607 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Murasaki Shikibu 3.png" data-image-name="Murasaki Shikibu 3.png">
+						
+					</a>
+				</figure>

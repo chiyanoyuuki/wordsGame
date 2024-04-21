@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/Medb_new_1.png/revision/latest?cb=20181019130713" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/Medb_new_1.png/revision/latest/scale-to-width-down/286?cb=20181019130713" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/Medb_new_1.png/revision/latest/scale-to-width-down/286?cb=20181019130713 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e0/Medb_new_1.png/revision/latest?cb=20181019130713 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="471" data-image-key="Medb new 1.png" data-image-name="Medb new 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/22/Medb_new_2.png/revision/latest?cb=20181019130722" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/22/Medb_new_2.png/revision/latest/scale-to-width-down/286?cb=20181019130722" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/22/Medb_new_2.png/revision/latest/scale-to-width-down/286?cb=20181019130722 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/22/Medb_new_2.png/revision/latest?cb=20181019130722 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="471" data-image-key="Medb new 2.png" data-image-name="Medb new 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Medb_new_3.png/revision/latest?cb=20181102144934" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Medb_new_3.png/revision/latest/scale-to-width-down/346?cb=20181102144934" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Medb_new_3.png/revision/latest/scale-to-width-down/346?cb=20181102144934 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/Medb_new_3.png/revision/latest?cb=20181102144934 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="390" data-image-key="Medb new 3.png" data-image-name="Medb new 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

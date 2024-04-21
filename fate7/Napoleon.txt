@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/NapoleonSprite1.png/revision/latest?cb=20180714183424" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/NapoleonSprite1.png/revision/latest/scale-to-width-down/350?cb=20180714183424" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/NapoleonSprite1.png/revision/latest/scale-to-width-down/350?cb=20180714183424 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4c/NapoleonSprite1.png/revision/latest/scale-to-width-down/700?cb=20180714183424 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="287" data-image-key="NapoleonSprite1.png" data-image-name="NapoleonSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/13/NapoleonSprite2.png/revision/latest?cb=20180714183440" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/13/NapoleonSprite2.png/revision/latest/scale-to-width-down/350?cb=20180714183440" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/13/NapoleonSprite2.png/revision/latest/scale-to-width-down/350?cb=20180714183440 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/13/NapoleonSprite2.png/revision/latest/scale-to-width-down/700?cb=20180714183440 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="284" data-image-key="NapoleonSprite2.png" data-image-name="NapoleonSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/de/NapoleonSprite3.png/revision/latest?cb=20180714183453" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/de/NapoleonSprite3.png/revision/latest/scale-to-width-down/350?cb=20180714183453" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/de/NapoleonSprite3.png/revision/latest/scale-to-width-down/350?cb=20180714183453 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/de/NapoleonSprite3.png/revision/latest/scale-to-width-down/699?cb=20180714183453 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="225" data-image-key="NapoleonSprite3.png" data-image-name="NapoleonSprite3.png">
+						
+					</a>
+				</figure>

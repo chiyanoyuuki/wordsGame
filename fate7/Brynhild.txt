@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/BrynhildrNewSprite1.png/revision/latest?cb=20200625034043" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/BrynhildrNewSprite1.png/revision/latest/scale-to-width-down/350?cb=20200625034043" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/BrynhildrNewSprite1.png/revision/latest/scale-to-width-down/350?cb=20200625034043 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/BrynhildrNewSprite1.png/revision/latest/scale-to-width-down/700?cb=20200625034043 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="BrynhildrNewSprite1.png" data-image-name="BrynhildrNewSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/86/BrynhildrNewSprite2.png/revision/latest?cb=20200625034008" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/86/BrynhildrNewSprite2.png/revision/latest/scale-to-width-down/350?cb=20200625034008" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/86/BrynhildrNewSprite2.png/revision/latest/scale-to-width-down/350?cb=20200625034008 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/86/BrynhildrNewSprite2.png/revision/latest/scale-to-width-down/700?cb=20200625034008 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="BrynhildrNewSprite2.png" data-image-name="BrynhildrNewSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/BrynhildrNewSprite3.png/revision/latest?cb=20200625033905" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/BrynhildrNewSprite3.png/revision/latest/scale-to-width-down/350?cb=20200625033905" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/BrynhildrNewSprite3.png/revision/latest/scale-to-width-down/350?cb=20200625033905 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d5/BrynhildrNewSprite3.png/revision/latest/scale-to-width-down/700?cb=20200625033905 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="BrynhildrNewSprite3.png" data-image-name="BrynhildrNewSprite3.png">
+						
+					</a>
+				</figure>

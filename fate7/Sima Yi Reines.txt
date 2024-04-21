@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Sima_Yi_Stage_1.png/revision/latest?cb=20190428035342" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Sima_Yi_Stage_1.png/revision/latest/scale-to-width-down/350?cb=20190428035342" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Sima_Yi_Stage_1.png/revision/latest/scale-to-width-down/350?cb=20190428035342 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d9/Sima_Yi_Stage_1.png/revision/latest/scale-to-width-down/700?cb=20190428035342 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sima Yi Stage 1.png" data-image-name="Sima Yi Stage 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Sima_Yi_Stage_2.png/revision/latest?cb=20190428040545" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Sima_Yi_Stage_2.png/revision/latest/scale-to-width-down/350?cb=20190428040545" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Sima_Yi_Stage_2.png/revision/latest/scale-to-width-down/350?cb=20190428040545 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Sima_Yi_Stage_2.png/revision/latest/scale-to-width-down/700?cb=20190428040545 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sima Yi Stage 2.png" data-image-name="Sima Yi Stage 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/84/Sima_Yi_Stage_3.png/revision/latest?cb=20190428041519" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/84/Sima_Yi_Stage_3.png/revision/latest/scale-to-width-down/350?cb=20190428041519" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/84/Sima_Yi_Stage_3.png/revision/latest/scale-to-width-down/350?cb=20190428041519 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/84/Sima_Yi_Stage_3.png/revision/latest/scale-to-width-down/700?cb=20190428041519 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sima Yi Stage 3.png" data-image-name="Sima Yi Stage 3.png">
+						
+					</a>
+				</figure>

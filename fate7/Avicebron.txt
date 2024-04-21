@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Avicebron1.png/revision/latest?cb=20200216133954" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Avicebron1.png/revision/latest/scale-to-width-down/350?cb=20200216133954" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Avicebron1.png/revision/latest/scale-to-width-down/350?cb=20200216133954 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/Avicebron1.png/revision/latest/scale-to-width-down/700?cb=20200216133954 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Avicebron1.png" data-image-name="Avicebron1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Avicebron2.png/revision/latest?cb=20200216133959" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Avicebron2.png/revision/latest/scale-to-width-down/350?cb=20200216133959" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Avicebron2.png/revision/latest/scale-to-width-down/350?cb=20200216133959 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7c/Avicebron2.png/revision/latest/scale-to-width-down/700?cb=20200216133959 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Avicebron2.png" data-image-name="Avicebron2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a5/Avicebron3.png/revision/latest?cb=20200216134004" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a5/Avicebron3.png/revision/latest/scale-to-width-down/350?cb=20200216134004" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a5/Avicebron3.png/revision/latest/scale-to-width-down/350?cb=20200216134004 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a5/Avicebron3.png/revision/latest/scale-to-width-down/700?cb=20200216134004 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Avicebron3.png" data-image-name="Avicebron3.png">
+						
+					</a>
+				</figure>

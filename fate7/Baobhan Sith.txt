@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Fairy_Knight_Tristan_Sprite_1.png/revision/latest?cb=20230701070016" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Fairy_Knight_Tristan_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20230701070016" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Fairy_Knight_Tristan_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20230701070016 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/Fairy_Knight_Tristan_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20230701070016 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Fairy Knight Tristan Sprite 1.png" data-image-name="Fairy Knight Tristan Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Fairy_Knight_Tristan_Sprite_2.png/revision/latest?cb=20230701070011" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Fairy_Knight_Tristan_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20230701070011" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Fairy_Knight_Tristan_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20230701070011 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Fairy_Knight_Tristan_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20230701070011 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Fairy Knight Tristan Sprite 2.png" data-image-name="Fairy Knight Tristan Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/74/Baobhan_Sith_Sprite_3.png/revision/latest?cb=20230701065930" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/74/Baobhan_Sith_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20230701065930" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/74/Baobhan_Sith_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20230701065930 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/74/Baobhan_Sith_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20230701065930 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="Baobhan Sith Sprite 3.png" data-image-name="Baobhan Sith Sprite 3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Sei_Shonagon_1_Sprite.png/revision/latest?cb=20200214221504" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Sei_Shonagon_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200214221504" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Sei_Shonagon_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200214221504 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Sei_Shonagon_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200214221504 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sei Shonagon 1 Sprite.png" data-image-name="Sei Shonagon 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/88/Sei_Shonagon_2_Sprite.png/revision/latest?cb=20200214221514" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/88/Sei_Shonagon_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200214221514" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/88/Sei_Shonagon_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200214221514 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/88/Sei_Shonagon_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200214221514 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sei Shonagon 2 Sprite.png" data-image-name="Sei Shonagon 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/16/Sei_Shonagon_3_Sprite.png/revision/latest?cb=20200214221525" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/16/Sei_Shonagon_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200214221525" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/16/Sei_Shonagon_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200214221525 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/16/Sei_Shonagon_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200214221525 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sei Shonagon 3 Sprite.png" data-image-name="Sei Shonagon 3 Sprite.png">
+						
+					</a>
+				</figure>

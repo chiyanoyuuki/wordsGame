@@ -1,0 +1,84 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S312_Stage1.webp/revision/latest?cb=20220925055238" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S312_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925055238" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S312_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925055238 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3a/S312_Stage1.webp/revision/latest?cb=20220925055238 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S312 Stage1.webp" data-image-name="S312 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S312_Stage2.webp/revision/latest?cb=20220925055228" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S312_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925055228" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S312_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925055228 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S312_Stage2.webp/revision/latest?cb=20220925055228 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S312 Stage2.webp" data-image-name="S312 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S312_Stage3.webp/revision/latest?cb=20220925055219" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S312_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925055219" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S312_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925055219 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S312_Stage3.webp/revision/latest?cb=20220925055219 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S312 Stage3.webp" data-image-name="S312 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/S312_Stage4.webp/revision/latest?cb=20220925055210" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/S312_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925055210" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/S312_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925055210 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d2/S312_Stage4.webp/revision/latest?cb=20220925055210 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S312 Stage4.webp" data-image-name="S312 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/S312_AprilFool.webp/revision/latest?cb=20230402083543" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/S312_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083543" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/S312_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083543 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2d/S312_AprilFool.webp/revision/latest?cb=20230402083543 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S312 AprilFool.webp" data-image-name="S312 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S312_Costume1.webp/revision/latest?cb=20220925055202" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S312_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925055202" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S312_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925055202 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/be/S312_Costume1.webp/revision/latest?cb=20220925055202 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S312 Costume1.webp" data-image-name="S312 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1d/S312_Costume2.webp/revision/latest?cb=20220925055153" class="image image-thumbnail" title="Costume 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1d/S312_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220925055153" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1d/S312_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220925055153 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1d/S312_Costume2.webp/revision/latest?cb=20220925055153 2x" class="pi-image-thumbnail" alt="Costume 2" width="270" height="382" data-image-key="S312 Costume2.webp" data-image-name="S312 Costume2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S312_Costume3.webp/revision/latest?cb=20220925055145" class="image image-thumbnail" title="Costume 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S312_Costume3.webp/revision/latest/scale-to-width-down/350?cb=20220925055145" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S312_Costume3.webp/revision/latest/scale-to-width-down/350?cb=20220925055145 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S312_Costume3.webp/revision/latest?cb=20220925055145 2x" class="pi-image-thumbnail" alt="Costume 3" width="270" height="382" data-image-key="S312 Costume3.webp" data-image-name="S312 Costume3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest?cb=20210715154043" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154043" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154043 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0a/Fairy_Knight_Lancelot_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210715154043 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Fairy Knight Lancelot 1 Sprite.png" data-image-name="Fairy Knight Lancelot 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest?cb=20210715154039" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154039" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154039 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d3/Fairy_Knight_Lancelot_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210715154039 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Fairy Knight Lancelot 2 Sprite.png" data-image-name="Fairy Knight Lancelot 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest?cb=20210715154035" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154035" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210715154035 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Fairy_Knight_Lancelot_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210715154035 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Fairy Knight Lancelot 3 Sprite.png" data-image-name="Fairy Knight Lancelot 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Fairy_Knight_Lancelot_Costume1_Sprite.png/revision/latest?cb=20210807101205" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Fairy_Knight_Lancelot_Costume1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210807101205" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Fairy_Knight_Lancelot_Costume1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210807101205 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a8/Fairy_Knight_Lancelot_Costume1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210807101205 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Fairy Knight Lancelot Costume1 Sprite.png" data-image-name="Fairy Knight Lancelot Costume1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/da/Fairy_Knight_Lancelot_Costume2_Sprite.png/revision/latest?cb=20210812120217" class="image image-thumbnail" title="Costume 2 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/da/Fairy_Knight_Lancelot_Costume2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210812120217" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/da/Fairy_Knight_Lancelot_Costume2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210812120217 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/da/Fairy_Knight_Lancelot_Costume2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210812120217 2x" class="pi-image-thumbnail" alt="Costume 2 Sprite" width="270" height="270" data-image-key="Fairy Knight Lancelot Costume2 Sprite.png" data-image-name="Fairy Knight Lancelot Costume2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Fairy_Knight_Lancelot_Costume3_Sprite.png/revision/latest?cb=20220319070230" class="image image-thumbnail" title="Costume 3 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Fairy_Knight_Lancelot_Costume3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220319070230" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/Fairy_Knight_Lancelot_Costume3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220319070230 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/Fairy_Knight_Lancelot_Costume3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20220319070230 2x" class="pi-image-thumbnail" alt="Costume 3 Sprite" width="270" height="270" data-image-key="Fairy Knight Lancelot Costume3 Sprite.png" data-image-name="Fairy Knight Lancelot Costume3 Sprite.png">
+						
+					</a>
+				</figure>

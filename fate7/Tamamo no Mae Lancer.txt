@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/74/NaughtyFoxInBikini_Sprite1.png/revision/latest?cb=20181014062630" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/74/NaughtyFoxInBikini_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20181014062630" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/74/NaughtyFoxInBikini_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20181014062630 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/74/NaughtyFoxInBikini_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20181014062630 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="357" data-image-key="NaughtyFoxInBikini Sprite1.png" data-image-name="NaughtyFoxInBikini Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/NaughtyFoxInBikini_Sprite2.png/revision/latest?cb=20181014062635" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/NaughtyFoxInBikini_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20181014062635" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/NaughtyFoxInBikini_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20181014062635 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fa/NaughtyFoxInBikini_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20181014062635 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="357" data-image-key="NaughtyFoxInBikini Sprite2.png" data-image-name="NaughtyFoxInBikini Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/NaughtyFoxInBikini_Sprite3.png/revision/latest?cb=20181014062639" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/NaughtyFoxInBikini_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20181014062639" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/NaughtyFoxInBikini_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20181014062639 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d7/NaughtyFoxInBikini_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20181014062639 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="358" data-image-key="NaughtyFoxInBikini Sprite3.png" data-image-name="NaughtyFoxInBikini Sprite3.png">
+						
+					</a>
+				</figure>

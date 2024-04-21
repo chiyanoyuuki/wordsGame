@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S335_Sprite_1.png/revision/latest?cb=20220114001624" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S335_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20220114001624" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S335_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20220114001624 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0b/S335_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20220114001624 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="S335 Sprite 1.png" data-image-name="S335 Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S335_Sprite_2.png/revision/latest?cb=20220114001626" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S335_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20220114001626" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S335_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20220114001626 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/S335_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20220114001626 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="S335 Sprite 2.png" data-image-name="S335 Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S335_Sprite_3.png/revision/latest?cb=20220114001628" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S335_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20220114001628" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S335_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20220114001628 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/S335_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20220114001628 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="S335 Sprite 3.png" data-image-name="S335 Sprite 3.png">
+						
+					</a>
+				</figure>

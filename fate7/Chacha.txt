@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/ChachaSprite.png/revision/latest?cb=20180929085858" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/ChachaSprite.png/revision/latest/scale-to-width-down/350?cb=20180929085858" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/ChachaSprite.png/revision/latest/scale-to-width-down/350?cb=20180929085858 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/ChachaSprite.png/revision/latest/scale-to-width-down/700?cb=20180929085858 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="269" data-image-key="ChachaSprite.png" data-image-name="ChachaSprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S051_Stage1.webp/revision/latest?cb=20220910102742" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S051_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910102742" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S051_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910102742 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a8/S051_Stage1.webp/revision/latest?cb=20220910102742 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S051 Stage1.webp" data-image-name="S051 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S051_Stage2.webp/revision/latest?cb=20220910102735" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S051_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910102735" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S051_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910102735 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S051_Stage2.webp/revision/latest?cb=20220910102735 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S051 Stage2.webp" data-image-name="S051 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S051_Stage3.webp/revision/latest?cb=20220910102728" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S051_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910102728" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/82/S051_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910102728 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/82/S051_Stage3.webp/revision/latest?cb=20220910102728 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S051 Stage3.webp" data-image-name="S051 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/S051_Stage4.webp/revision/latest?cb=20220910102719" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/S051_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910102719" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/S051_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910102719 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fa/S051_Stage4.webp/revision/latest?cb=20220910102719 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S051 Stage4.webp" data-image-name="S051 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S051_Costume1.webp/revision/latest?cb=20220910102713" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S051_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910102713" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S051_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910102713 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S051_Costume1.webp/revision/latest?cb=20220910102713 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S051 Costume1.webp" data-image-name="S051 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/43/AF0051.png/revision/latest?cb=20180428134111" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/43/AF0051.png/revision/latest/scale-to-width-down/350?cb=20180428134111" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/43/AF0051.png/revision/latest/scale-to-width-down/350?cb=20180428134111 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/43/AF0051.png/revision/latest?cb=20180428134111 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0051.png" data-image-name="AF0051.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest?cb=20200216100042" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest/scale-to-width-down/350?cb=20200216100042" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest/scale-to-width-down/350?cb=20200216100042 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8b/Kintoki_new_1.png/revision/latest/scale-to-width-down/700?cb=20200216100042 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kintoki new 1.png" data-image-name="Kintoki new 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest?cb=20200216100047" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest/scale-to-width-down/350?cb=20200216100047" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest/scale-to-width-down/350?cb=20200216100047 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f1/Kintoki_new_2.png/revision/latest/scale-to-width-down/700?cb=20200216100047 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kintoki new 2.png" data-image-name="Kintoki new 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest?cb=20200216100051" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest/scale-to-width-down/350?cb=20200216100051" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest/scale-to-width-down/350?cb=20200216100051 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/Kintoki_new_3.png/revision/latest/scale-to-width-down/700?cb=20200216100051 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kintoki new 3.png" data-image-name="Kintoki new 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Sakata_Kintoki_Berserker_Costume1_Sprite.png/revision/latest?cb=20201205173430" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Sakata_Kintoki_Berserker_Costume1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201205173430" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Sakata_Kintoki_Berserker_Costume1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201205173430 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fe/Sakata_Kintoki_Berserker_Costume1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201205173430 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Sakata Kintoki Berserker Costume1 Sprite.png" data-image-name="Sakata Kintoki Berserker Costume1 Sprite.png">
+						
+					</a>
+				</figure>

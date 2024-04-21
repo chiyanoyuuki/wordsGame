@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest?cb=20180929105429" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180929105429" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20180929105429 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3a/MedusaRiderNew_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20180929105429 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="228" data-image-key="MedusaRiderNew Sprite1.png" data-image-name="MedusaRiderNew Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest?cb=20180929105440" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180929105440" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20180929105440 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7c/MedusaRiderNew_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20180929105440 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="228" data-image-key="MedusaRiderNew Sprite2.png" data-image-name="MedusaRiderNew Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest?cb=20180929105445" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180929105445" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20180929105445 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/10/MedusaRiderNew_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20180929105445 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="227" data-image-key="MedusaRiderNew Sprite3.png" data-image-name="MedusaRiderNew Sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

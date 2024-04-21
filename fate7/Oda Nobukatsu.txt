@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Nobukatsu_Sprite_1.png/revision/latest?cb=20201009144428" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Nobukatsu_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201009144428" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Nobukatsu_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201009144428 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Nobukatsu_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20201009144428 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Nobukatsu Sprite 1.png" data-image-name="Nobukatsu Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/Nobukatsu_Sprite_2.png/revision/latest?cb=20201009144429" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/Nobukatsu_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201009144429" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/Nobukatsu_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201009144429 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6f/Nobukatsu_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20201009144429 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Nobukatsu Sprite 2.png" data-image-name="Nobukatsu Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/Nobukatsu_Sprite_3.png/revision/latest?cb=20201009144430" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/Nobukatsu_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201009144430" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/Nobukatsu_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201009144430 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2a/Nobukatsu_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20201009144430 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Nobukatsu Sprite 3.png" data-image-name="Nobukatsu Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

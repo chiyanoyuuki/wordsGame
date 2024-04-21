@@ -1,0 +1,11 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S359_Sprite_Stage1.png/revision/latest?cb=20220818144257" class="image image-thumbnail" title="Sprite 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S359_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20220818144257" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S359_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20220818144257 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S359_Sprite_Stage1.png/revision/latest/scale-to-width-down/700?cb=20220818144257 2x" class="pi-image-thumbnail" alt="Sprite 1-3" width="270" height="270" data-image-key="S359 Sprite Stage1.png" data-image-name="S359 Sprite Stage1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S359_Sprite_Costume1.png/revision/latest?cb=20220818144306" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S359_Sprite_Costume1.png/revision/latest/scale-to-width-down/350?cb=20220818144306" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S359_Sprite_Costume1.png/revision/latest/scale-to-width-down/350?cb=20220818144306 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S359_Sprite_Costume1.png/revision/latest/scale-to-width-down/700?cb=20220818144306 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="S359 Sprite Costume1.png" data-image-name="S359 Sprite Costume1.png">
+						
+					</a>
+				</figure>

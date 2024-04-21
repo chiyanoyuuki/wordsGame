@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Ryouma_%26_oryou.png/revision/latest?cb=20181013180609" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Ryouma_%26_oryou.png/revision/latest/scale-to-width-down/350?cb=20181013180609" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Ryouma_%26_oryou.png/revision/latest/scale-to-width-down/350?cb=20181013180609 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c1/Ryouma_%26_oryou.png/revision/latest/scale-to-width-down/700?cb=20181013180609 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="289" data-image-key="Ryouma &amp; oryou.png" data-image-name="Ryouma &amp; oryou.png">
+						
+					</a>
+				</figure>

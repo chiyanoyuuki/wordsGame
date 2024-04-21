@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S027_Stage1.webp/revision/latest?cb=20220910084039" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S027_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910084039" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S027_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910084039 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S027_Stage1.webp/revision/latest?cb=20220910084039 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S027 Stage1.webp" data-image-name="S027 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S027_Stage2.webp/revision/latest?cb=20220910084031" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S027_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910084031" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S027_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910084031 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/S027_Stage2.webp/revision/latest?cb=20220910084031 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S027 Stage2.webp" data-image-name="S027 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/12/S027_Stage3.webp/revision/latest?cb=20220910084024" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/12/S027_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910084024" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/12/S027_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910084024 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/12/S027_Stage3.webp/revision/latest?cb=20220910084024 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S027 Stage3.webp" data-image-name="S027 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S027_Stage4.webp/revision/latest?cb=20220910084016" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S027_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910084016" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/S027_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910084016 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/S027_Stage4.webp/revision/latest?cb=20220910084016 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S027 Stage4.webp" data-image-name="S027 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S027_Costume1.webp/revision/latest?cb=20220910084135" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S027_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910084135" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S027_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910084135 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S027_Costume1.webp/revision/latest?cb=20220910084135 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S027 Costume1.webp" data-image-name="S027 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/AF0027.png/revision/latest?cb=20180428132405" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/AF0027.png/revision/latest/scale-to-width-down/350?cb=20180428132405" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/AF0027.png/revision/latest/scale-to-width-down/350?cb=20180428132405 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b6/AF0027.png/revision/latest?cb=20180428132405 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0027.png" data-image-name="AF0027.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest?cb=20210120102618" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102618" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102618 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ec/Ushiwakamaru_1_Renewal_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120102618 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ushiwakamaru 1 Renewal Sprite.png" data-image-name="Ushiwakamaru 1 Renewal Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest?cb=20210120102616" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102616" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102616 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/32/Ushiwakamaru_2_Renewal_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120102616 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ushiwakamaru 2 Renewal Sprite.png" data-image-name="Ushiwakamaru 2 Renewal Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest?cb=20210120102614" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102614" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210120102614 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4d/Ushiwakamaru_3_Renewal_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210120102614 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ushiwakamaru 3 Renewal Sprite.png" data-image-name="Ushiwakamaru 3 Renewal Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/11/Ushiwakamaru_Costume_Sprite.png/revision/latest?cb=20210428023708" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/11/Ushiwakamaru_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428023708" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/11/Ushiwakamaru_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428023708 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/11/Ushiwakamaru_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210428023708 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Ushiwakamaru Costume Sprite.png" data-image-name="Ushiwakamaru Costume Sprite.png">
+						
+					</a>
+				</figure>

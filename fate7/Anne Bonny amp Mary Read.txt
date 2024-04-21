@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Annesprite1.png/revision/latest?cb=20200216132210" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Annesprite1.png/revision/latest/scale-to-width-down/350?cb=20200216132210" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Annesprite1.png/revision/latest/scale-to-width-down/350?cb=20200216132210 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d5/Annesprite1.png/revision/latest?cb=20200216132210 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Annesprite1.png" data-image-name="Annesprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Annesprite2.png/revision/latest?cb=20200216132215" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Annesprite2.png/revision/latest/scale-to-width-down/350?cb=20200216132215" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Annesprite2.png/revision/latest/scale-to-width-down/350?cb=20200216132215 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f2/Annesprite2.png/revision/latest?cb=20200216132215 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Annesprite2.png" data-image-name="Annesprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Annesprite3.png/revision/latest?cb=20200216132220" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Annesprite3.png/revision/latest/scale-to-width-down/350?cb=20200216132220" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Annesprite3.png/revision/latest/scale-to-width-down/350?cb=20200216132220 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Annesprite3.png/revision/latest/scale-to-width-down/700?cb=20200216132220 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Annesprite3.png" data-image-name="Annesprite3.png">
+						
+					</a>
+				</figure>

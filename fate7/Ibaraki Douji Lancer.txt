@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Ibaraki_Doji_Lancer_Sprite1.png/revision/latest?cb=20200216141422" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Ibaraki_Doji_Lancer_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200216141422" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/18/Ibaraki_Doji_Lancer_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200216141422 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/18/Ibaraki_Doji_Lancer_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20200216141422 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ibaraki Doji Lancer Sprite1.png" data-image-name="Ibaraki Doji Lancer Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/66/Ibaraki_Doji_Lancer_Sprite2.png/revision/latest?cb=20200216141427" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/66/Ibaraki_Doji_Lancer_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200216141427" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/66/Ibaraki_Doji_Lancer_Sprite2.png/revision/latest/scale-to-width-down/350?cb=20200216141427 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/66/Ibaraki_Doji_Lancer_Sprite2.png/revision/latest/scale-to-width-down/700?cb=20200216141427 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ibaraki Doji Lancer Sprite2.png" data-image-name="Ibaraki Doji Lancer Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Ibaraki_Doji_Lancer_Sprite3.png/revision/latest?cb=20200216141431" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Ibaraki_Doji_Lancer_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216141431" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Ibaraki_Doji_Lancer_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216141431 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fc/Ibaraki_Doji_Lancer_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200216141431 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ibaraki Doji Lancer Sprite3.png" data-image-name="Ibaraki Doji Lancer Sprite3.png">
+						
+					</a>
+				</figure>

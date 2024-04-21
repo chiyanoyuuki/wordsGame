@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S024_Stage1.webp/revision/latest?cb=20220910083131" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S024_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910083131" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S024_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910083131 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S024_Stage1.webp/revision/latest?cb=20220910083131 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S024 Stage1.webp" data-image-name="S024 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/S024_Stage2.webp/revision/latest?cb=20220910083121" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/S024_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910083121" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a1/S024_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910083121 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a1/S024_Stage2.webp/revision/latest?cb=20220910083121 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S024 Stage2.webp" data-image-name="S024 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/87/S024_Stage3.webp/revision/latest?cb=20220910083112" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/87/S024_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910083112" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/87/S024_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910083112 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/87/S024_Stage3.webp/revision/latest?cb=20220910083112 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S024 Stage3.webp" data-image-name="S024 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S024_Stage4.webp/revision/latest?cb=20220910083104" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S024_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910083104" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S024_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910083104 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3e/S024_Stage4.webp/revision/latest?cb=20220910083104 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S024 Stage4.webp" data-image-name="S024 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/44/AF0024.png/revision/latest?cb=20200404150650" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/44/AF0024.png/revision/latest/scale-to-width-down/350?cb=20200404150650" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/44/AF0024.png/revision/latest/scale-to-width-down/350?cb=20200404150650 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/44/AF0024.png/revision/latest?cb=20200404150650 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0024.png" data-image-name="AF0024.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest?cb=20201216144924" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144924" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144924 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201216144924 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="Saint George 1 Sprite.png" data-image-name="Saint George 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest?cb=20201216144936" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144936 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201216144936 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="Saint George 2 Sprite.png" data-image-name="Saint George 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest?cb=20201216144943" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144943" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144943 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201216144943 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="Saint George 3 Sprite.png" data-image-name="Saint George 3 Sprite.png">
+						
+					</a>
+				</figure>

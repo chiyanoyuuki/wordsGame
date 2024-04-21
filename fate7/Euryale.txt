@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Euryale_Sprite1_New.png/revision/latest?cb=20200813145532" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Euryale_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20200813145532" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Euryale_Sprite1_New.png/revision/latest/scale-to-width-down/350?cb=20200813145532 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/Euryale_Sprite1_New.png/revision/latest/scale-to-width-down/700?cb=20200813145532 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Euryale Sprite1 New.png" data-image-name="Euryale Sprite1 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Euryale_Sprite2_New.png/revision/latest?cb=20200813145535" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Euryale_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20200813145535" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Euryale_Sprite2_New.png/revision/latest/scale-to-width-down/350?cb=20200813145535 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/Euryale_Sprite2_New.png/revision/latest/scale-to-width-down/700?cb=20200813145535 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Euryale Sprite2 New.png" data-image-name="Euryale Sprite2 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/35/Euryale_Sprite3_New.png/revision/latest?cb=20200813145539" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/35/Euryale_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20200813145539" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/35/Euryale_Sprite3_New.png/revision/latest/scale-to-width-down/350?cb=20200813145539 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/35/Euryale_Sprite3_New.png/revision/latest/scale-to-width-down/700?cb=20200813145539 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Euryale Sprite3 New.png" data-image-name="Euryale Sprite3 New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

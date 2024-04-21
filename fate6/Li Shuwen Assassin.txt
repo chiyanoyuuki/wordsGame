@@ -1,0 +1,72 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S235_Stage1.webp/revision/latest?cb=20220917045809" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S235_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917045809" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S235_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220917045809 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6e/S235_Stage1.webp/revision/latest?cb=20220917045809 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S235 Stage1.webp" data-image-name="S235 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S235_Stage2.webp/revision/latest?cb=20220917045801" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S235_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917045801" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S235_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220917045801 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S235_Stage2.webp/revision/latest?cb=20220917045801 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S235 Stage2.webp" data-image-name="S235 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S235_Stage3.webp/revision/latest?cb=20220917045752" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S235_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917045752" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S235_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220917045752 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c5/S235_Stage3.webp/revision/latest?cb=20220917045752 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S235 Stage3.webp" data-image-name="S235 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/37/S235_Stage4.webp/revision/latest?cb=20220917045744" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/37/S235_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917045744" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/37/S235_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220917045744 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/37/S235_Stage4.webp/revision/latest?cb=20220917045744 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S235 Stage4.webp" data-image-name="S235 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/49/S235_Costume1.webp/revision/latest?cb=20220917045736" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/49/S235_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220917045736" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/49/S235_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220917045736 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/49/S235_Costume1.webp/revision/latest?cb=20220917045736 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S235 Costume1.webp" data-image-name="S235 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S235_Costume2.webp/revision/latest?cb=20220917045729" class="image image-thumbnail" title="Costume 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S235_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220917045729" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S235_Costume2.webp/revision/latest/scale-to-width-down/350?cb=20220917045729 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/S235_Costume2.webp/revision/latest?cb=20220917045729 2x" class="pi-image-thumbnail" alt="Costume 2" width="270" height="382" data-image-key="S235 Costume2.webp" data-image-name="S235 Costume2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0235.png/revision/latest?cb=20200401080326" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0235.png/revision/latest/scale-to-width-down/350?cb=20200401080326" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0235.png/revision/latest/scale-to-width-down/350?cb=20200401080326 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d8/AF0235.png/revision/latest?cb=20200401080326 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0235.png" data-image-name="AF0235.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/LiShuwenAssassinSprite1.png/revision/latest?cb=20200216133437" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/LiShuwenAssassinSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216133437" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/LiShuwenAssassinSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216133437 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0e/LiShuwenAssassinSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216133437 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="LiShuwenAssassinSprite1.png" data-image-name="LiShuwenAssassinSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/LiShuwenAssassinSprite2.png/revision/latest?cb=20200216133441" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/LiShuwenAssassinSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216133441" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/LiShuwenAssassinSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216133441 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0c/LiShuwenAssassinSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216133441 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="LiShuwenAssassinSprite2.png" data-image-name="LiShuwenAssassinSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/15/LiShuwenSprite3.png/revision/latest?cb=20200216133446" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/15/LiShuwenSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216133446" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/15/LiShuwenSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216133446 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/15/LiShuwenSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216133446 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="LiShuwenSprite3.png" data-image-name="LiShuwenSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/78/Li_Shuwen_Costume_1.png/revision/latest?cb=20181130203826" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/78/Li_Shuwen_Costume_1.png/revision/latest/scale-to-width-down/350?cb=20181130203826" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/78/Li_Shuwen_Costume_1.png/revision/latest/scale-to-width-down/350?cb=20181130203826 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/78/Li_Shuwen_Costume_1.png/revision/latest/scale-to-width-down/700?cb=20181130203826 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Li Shuwen Costume 1.png" data-image-name="Li Shuwen Costume 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Li_Shuwen_Costume_2.png/revision/latest?cb=20190607023451" class="image image-thumbnail" title="Costume 2 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Li_Shuwen_Costume_2.png/revision/latest/scale-to-width-down/350?cb=20190607023451" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Li_Shuwen_Costume_2.png/revision/latest/scale-to-width-down/350?cb=20190607023451 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/Li_Shuwen_Costume_2.png/revision/latest/scale-to-width-down/700?cb=20190607023451 2x" class="pi-image-thumbnail" alt="Costume 2 Sprite" width="270" height="270" data-image-key="Li Shuwen Costume 2.png" data-image-name="Li Shuwen Costume 2.png">
+						
+					</a>
+				</figure>

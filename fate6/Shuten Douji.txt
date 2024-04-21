@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S112_Stage1.webp/revision/latest?cb=20220911062458" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S112_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911062458" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S112_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911062458 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5c/S112_Stage1.webp/revision/latest?cb=20220911062458 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S112 Stage1.webp" data-image-name="S112 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S112_Stage2.webp/revision/latest?cb=20220911062446" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S112_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911062446" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S112_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911062446 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S112_Stage2.webp/revision/latest?cb=20220911062446 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S112 Stage2.webp" data-image-name="S112 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S112_Stage3.webp/revision/latest?cb=20220911062435" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S112_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911062435" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S112_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911062435 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/61/S112_Stage3.webp/revision/latest?cb=20220911062435 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S112 Stage3.webp" data-image-name="S112 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/S112_Stage4.webp/revision/latest?cb=20220911062418" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/S112_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911062418" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/S112_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911062418 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bd/S112_Stage4.webp/revision/latest?cb=20220911062418 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S112 Stage4.webp" data-image-name="S112 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S112_Costume1.webp/revision/latest?cb=20220911062402" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S112_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911062402" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S112_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911062402 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S112_Costume1.webp/revision/latest?cb=20220911062402 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S112 Costume1.webp" data-image-name="S112 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/48/AF0112.png/revision/latest?cb=20180415151215" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/48/AF0112.png/revision/latest/scale-to-width-down/350?cb=20180415151215" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/48/AF0112.png/revision/latest/scale-to-width-down/350?cb=20180415151215 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/48/AF0112.png/revision/latest?cb=20180415151215 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0112.png" data-image-name="AF0112.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Shutensprite1.png/revision/latest?cb=20200216113322" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Shutensprite1.png/revision/latest/scale-to-width-down/350?cb=20200216113322" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Shutensprite1.png/revision/latest/scale-to-width-down/350?cb=20200216113322 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bc/Shutensprite1.png/revision/latest/scale-to-width-down/700?cb=20200216113322 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Shutensprite1.png" data-image-name="Shutensprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/Shutensprite2.png/revision/latest?cb=20200216113327" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/Shutensprite2.png/revision/latest/scale-to-width-down/350?cb=20200216113327" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3a/Shutensprite2.png/revision/latest/scale-to-width-down/350?cb=20200216113327 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3a/Shutensprite2.png/revision/latest/scale-to-width-down/700?cb=20200216113327 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Shutensprite2.png" data-image-name="Shutensprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b8/Shutensprite3.png/revision/latest?cb=20200216113331" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b8/Shutensprite3.png/revision/latest/scale-to-width-down/350?cb=20200216113331" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b8/Shutensprite3.png/revision/latest/scale-to-width-down/350?cb=20200216113331 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b8/Shutensprite3.png/revision/latest/scale-to-width-down/700?cb=20200216113331 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Shutensprite3.png" data-image-name="Shutensprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Shuten_Douji_Costume_Sprite.png/revision/latest?cb=20210428140915" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Shuten_Douji_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428140915" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Shuten_Douji_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210428140915 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ab/Shuten_Douji_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210428140915 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Shuten Douji Costume Sprite.png" data-image-name="Shuten Douji Costume Sprite.png">
+						
+					</a>
+				</figure>

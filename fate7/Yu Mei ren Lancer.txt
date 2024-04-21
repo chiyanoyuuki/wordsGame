@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest?cb=20200819121416" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200819121416" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest/scale-to-width-down/350?cb=20200819121416 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7a/Yu_Miaoyi_Lancer_Sprite.png/revision/latest/scale-to-width-down/700?cb=20200819121416 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Yu Miaoyi Lancer Sprite.png" data-image-name="Yu Miaoyi Lancer Sprite.png">
+						
+					</a>
+				</figure>

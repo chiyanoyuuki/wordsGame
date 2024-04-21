@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Gillescastersprite1.png/revision/latest?cb=20200216101332" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Gillescastersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216101332" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Gillescastersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216101332 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a4/Gillescastersprite1.png/revision/latest/scale-to-width-down/700?cb=20200216101332 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Gillescastersprite1.png" data-image-name="Gillescastersprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/12/Gillescastersprite2.png/revision/latest?cb=20200216101336" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/12/Gillescastersprite2.png/revision/latest/scale-to-width-down/350?cb=20200216101336" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/12/Gillescastersprite2.png/revision/latest/scale-to-width-down/350?cb=20200216101336 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/12/Gillescastersprite2.png/revision/latest/scale-to-width-down/700?cb=20200216101336 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Gillescastersprite2.png" data-image-name="Gillescastersprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Gillescastersprite3.png/revision/latest?cb=20200216101338" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Gillescastersprite3.png/revision/latest/scale-to-width-down/350?cb=20200216101338" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/29/Gillescastersprite3.png/revision/latest/scale-to-width-down/350?cb=20200216101338 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/29/Gillescastersprite3.png/revision/latest/scale-to-width-down/700?cb=20200216101338 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Gillescastersprite3.png" data-image-name="Gillescastersprite3.png">
+						
+					</a>
+				</figure>

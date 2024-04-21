@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S054_Stage1.webp/revision/latest?cb=20220910122003" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S054_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910122003" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/30/S054_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910122003 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/30/S054_Stage1.webp/revision/latest?cb=20220910122003 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S054 Stage1.webp" data-image-name="S054 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/58/S054_Stage2.webp/revision/latest?cb=20220910121956" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/58/S054_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910121956" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/58/S054_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910121956 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/58/S054_Stage2.webp/revision/latest?cb=20220910121956 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S054 Stage2.webp" data-image-name="S054 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d1/S054_Stage3.webp/revision/latest?cb=20220910121949" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d1/S054_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910121949" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d1/S054_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910121949 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d1/S054_Stage3.webp/revision/latest?cb=20220910121949 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S054 Stage3.webp" data-image-name="S054 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S054_Stage4.webp/revision/latest?cb=20220910121942" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S054_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910121942" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S054_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910121942 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S054_Stage4.webp/revision/latest?cb=20220910121942 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S054 Stage4.webp" data-image-name="S054 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/73/AF0054.png/revision/latest?cb=20200404150611" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/73/AF0054.png/revision/latest/scale-to-width-down/350?cb=20200404150611" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/73/AF0054.png/revision/latest/scale-to-width-down/350?cb=20200404150611 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/73/AF0054.png/revision/latest?cb=20200404150611 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0054.png" data-image-name="AF0054.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest?cb=20210203211445" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211445" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211445 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211445 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Caligula 1 Sprite.png" data-image-name="Caligula 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest?cb=20210203211442" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211442" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211442 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211442 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Caligula 2 Sprite.png" data-image-name="Caligula 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest?cb=20210203211440" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211440" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211440 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211440 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Caligula 3 Sprite.png" data-image-name="Caligula 3 Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/28/S123_Stage1.webp/revision/latest?cb=20220911065502" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/28/S123_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911065502" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/28/S123_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911065502 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/28/S123_Stage1.webp/revision/latest?cb=20220911065502 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S123 Stage1.webp" data-image-name="S123 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/S123_Stage2.webp/revision/latest?cb=20220911065432" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/S123_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911065432" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/S123_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911065432 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d7/S123_Stage2.webp/revision/latest?cb=20220911065432 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S123 Stage2.webp" data-image-name="S123 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/85/S123_Stage3.webp/revision/latest?cb=20220911065404" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/85/S123_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911065404" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/85/S123_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911065404 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/85/S123_Stage3.webp/revision/latest?cb=20220911065404 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S123 Stage3.webp" data-image-name="S123 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S123_Stage4.webp/revision/latest?cb=20220911065643" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S123_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911065643" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S123_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911065643 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/79/S123_Stage4.webp/revision/latest?cb=20220911065643 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S123 Stage4.webp" data-image-name="S123 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S123_Costume1.webp/revision/latest?cb=20220911065251" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S123_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911065251" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S123_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911065251 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e0/S123_Costume1.webp/revision/latest?cb=20220911065251 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S123 Costume1.webp" data-image-name="S123 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/AF0123.png/revision/latest?cb=20180428122531" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/AF0123.png/revision/latest/scale-to-width-down/350?cb=20180428122531" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/AF0123.png/revision/latest/scale-to-width-down/350?cb=20180428122531 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3c/AF0123.png/revision/latest?cb=20180428122531 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0123.png" data-image-name="AF0123.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest?cb=20210513032214" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210513032214" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210513032214 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/45/Gawain_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210513032214 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Gawain Renewal Sprite 1.png" data-image-name="Gawain Renewal Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest?cb=20210513032211" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210513032211" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210513032211 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d2/Gawain_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210513032211 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Gawain Renewal Sprite 2.png" data-image-name="Gawain Renewal Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest?cb=20210513032209" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210513032209" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210513032209 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/53/Gawain_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210513032209 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Gawain Renewal Sprite 3.png" data-image-name="Gawain Renewal Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S123_Costume_1_Sprite.png/revision/latest?cb=20220305013704" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S123_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220305013704" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S123_Costume_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20220305013704 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ad/S123_Costume_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20220305013704 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="S123 Costume 1 Sprite.png" data-image-name="S123 Costume 1 Sprite.png">
+						
+					</a>
+				</figure>

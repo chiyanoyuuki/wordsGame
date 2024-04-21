@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/KiyohimeLancer_Sprite1.png/revision/latest?cb=20181007165612" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/KiyohimeLancer_Sprite1.png/revision/latest/scale-to-width-down/277?cb=20181007165612" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/KiyohimeLancer_Sprite1.png/revision/latest/scale-to-width-down/277?cb=20181007165612 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b0/KiyohimeLancer_Sprite1.png/revision/latest?cb=20181007165612 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="487" data-image-key="KiyohimeLancer Sprite1.png" data-image-name="KiyohimeLancer Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/KiyohimeLancer_Sprite2.png/revision/latest?cb=20181125080555" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/KiyohimeLancer_Sprite2.png/revision/latest/scale-to-width-down/277?cb=20181125080555" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/KiyohimeLancer_Sprite2.png/revision/latest/scale-to-width-down/277?cb=20181125080555 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/KiyohimeLancer_Sprite2.png/revision/latest?cb=20181125080555 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="487" data-image-key="KiyohimeLancer Sprite2.png" data-image-name="KiyohimeLancer Sprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/KiyohimeLancer_Sprite3.png/revision/latest?cb=20181007165544" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/KiyohimeLancer_Sprite3.png/revision/latest/scale-to-width-down/277?cb=20181007165544" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/KiyohimeLancer_Sprite3.png/revision/latest/scale-to-width-down/277?cb=20181007165544 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/KiyohimeLancer_Sprite3.png/revision/latest?cb=20181007165544 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="487" data-image-key="KiyohimeLancer Sprite3.png" data-image-name="KiyohimeLancer Sprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/AlexanderNewStage1.png/revision/latest?cb=20220503153904" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/AlexanderNewStage1.png/revision/latest/scale-to-width-down/350?cb=20220503153904" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/aa/AlexanderNewStage1.png/revision/latest/scale-to-width-down/350?cb=20220503153904 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/aa/AlexanderNewStage1.png/revision/latest/scale-to-width-down/700?cb=20220503153904 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="AlexanderNewStage1.png" data-image-name="AlexanderNewStage1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/76/AlexanderNewStage2.png/revision/latest?cb=20220503153911" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/76/AlexanderNewStage2.png/revision/latest/scale-to-width-down/350?cb=20220503153911" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/76/AlexanderNewStage2.png/revision/latest/scale-to-width-down/350?cb=20220503153911 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/76/AlexanderNewStage2.png/revision/latest/scale-to-width-down/700?cb=20220503153911 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="AlexanderNewStage2.png" data-image-name="AlexanderNewStage2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ce/AlexanderNewStage3.png/revision/latest?cb=20220503153917" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ce/AlexanderNewStage3.png/revision/latest/scale-to-width-down/350?cb=20220503153917" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ce/AlexanderNewStage3.png/revision/latest/scale-to-width-down/350?cb=20220503153917 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ce/AlexanderNewStage3.png/revision/latest/scale-to-width-down/700?cb=20220503153917 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="AlexanderNewStage3.png" data-image-name="AlexanderNewStage3.png">
+						
+					</a>
+				</figure>

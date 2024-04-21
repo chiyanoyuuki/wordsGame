@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/Sei_Shonagon_Berserker_1_Sprite.png/revision/latest?cb=20210915160536" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/Sei_Shonagon_Berserker_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915160536" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fd/Sei_Shonagon_Berserker_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915160536 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fd/Sei_Shonagon_Berserker_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210915160536 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Sei Shonagon Berserker 1 Sprite.png" data-image-name="Sei Shonagon Berserker 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sei_Shonagon_Berserker_2_Sprite.png/revision/latest?cb=20210915160538" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sei_Shonagon_Berserker_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915160538" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sei_Shonagon_Berserker_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915160538 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/Sei_Shonagon_Berserker_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210915160538 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Sei Shonagon Berserker 2 Sprite.png" data-image-name="Sei Shonagon Berserker 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/68/Sei_Shonagon_Berserker_3_Sprite.png/revision/latest?cb=20210915160541" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/68/Sei_Shonagon_Berserker_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915160541" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/68/Sei_Shonagon_Berserker_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210915160541 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/68/Sei_Shonagon_Berserker_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210915160541 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Sei Shonagon Berserker 3 Sprite.png" data-image-name="Sei Shonagon Berserker 3 Sprite.png">
+						
+					</a>
+				</figure>

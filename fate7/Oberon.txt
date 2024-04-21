@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Oberon_Sprite.png/revision/latest?cb=20210803170143" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Oberon_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210803170143" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/Oberon_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210803170143 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/Oberon_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210803170143 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Oberon Sprite.png" data-image-name="Oberon Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Oberon_2_Sprite.png/revision/latest?cb=20210811223640" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Oberon_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210811223640" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Oberon_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210811223640 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Oberon_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210811223640 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Oberon 2 Sprite.png" data-image-name="Oberon 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/32/OberonVortigern_Sprite.png/revision/latest?cb=20210809132320" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/32/OberonVortigern_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210809132320" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/32/OberonVortigern_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210809132320 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/32/OberonVortigern_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210809132320 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="OberonVortigern Sprite.png" data-image-name="OberonVortigern Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/69/ScheherazadeSprite1.png/revision/latest?cb=20200216135604" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/69/ScheherazadeSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216135604" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/69/ScheherazadeSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216135604 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/69/ScheherazadeSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216135604 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="ScheherazadeSprite1.png" data-image-name="ScheherazadeSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/ScheherazadeSprite2.png/revision/latest?cb=20200216135609" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/ScheherazadeSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216135609" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/ScheherazadeSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216135609 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b0/ScheherazadeSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216135609 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="ScheherazadeSprite2.png" data-image-name="ScheherazadeSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Scheherazade_sprite_3.png/revision/latest?cb=20200216135614" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Scheherazade_sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200216135614" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Scheherazade_sprite_3.png/revision/latest/scale-to-width-down/350?cb=20200216135614 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c2/Scheherazade_sprite_3.png/revision/latest/scale-to-width-down/700?cb=20200216135614 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Scheherazade sprite 3.png" data-image-name="Scheherazade sprite 3.png">
+						
+					</a>
+				</figure>

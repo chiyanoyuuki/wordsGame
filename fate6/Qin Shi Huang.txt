@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b2/S229_Stage1.webp/revision/latest?cb=20220913152907" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b2/S229_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913152907" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b2/S229_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220913152907 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b2/S229_Stage1.webp/revision/latest?cb=20220913152907 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S229 Stage1.webp" data-image-name="S229 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S229_Stage2.webp/revision/latest?cb=20220913152854" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S229_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913152854" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S229_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220913152854 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/S229_Stage2.webp/revision/latest?cb=20220913152854 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S229 Stage2.webp" data-image-name="S229 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S229_Stage3.webp/revision/latest?cb=20220913152843" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S229_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913152843" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S229_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220913152843 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S229_Stage3.webp/revision/latest?cb=20220913152843 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S229 Stage3.webp" data-image-name="S229 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S229_Stage4.webp/revision/latest?cb=20220913152833" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S229_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913152833" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S229_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220913152833 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/S229_Stage4.webp/revision/latest?cb=20220913152833 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S229 Stage4.webp" data-image-name="S229 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/89/AF0229.png/revision/latest?cb=20200401073959" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/89/AF0229.png/revision/latest/scale-to-width-down/350?cb=20200401073959" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/89/AF0229.png/revision/latest/scale-to-width-down/350?cb=20200401073959 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/89/AF0229.png/revision/latest?cb=20200401073959 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0229.png" data-image-name="AF0229.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest?cb=20181207073157" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest/scale-to-width-down/350?cb=20181207073157" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest/scale-to-width-down/350?cb=20181207073157 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0d/Qin_Shi_Huang_Di_1.png/revision/latest/scale-to-width-down/700?cb=20181207073157 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Qin Shi Huang Di 1.png" data-image-name="Qin Shi Huang Di 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest?cb=20181207072427" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest/scale-to-width-down/350?cb=20181207072427" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest/scale-to-width-down/350?cb=20181207072427 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/46/Qin_Shi_Huang_Di_2.png/revision/latest/scale-to-width-down/699?cb=20181207072427 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="341" data-image-key="Qin Shi Huang Di 2.png" data-image-name="Qin Shi Huang Di 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest?cb=20181207072427" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest/scale-to-width-down/350?cb=20181207072427" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest/scale-to-width-down/350?cb=20181207072427 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bf/Qin_Shi_Huang_Di_3.png/revision/latest/scale-to-width-down/700?cb=20181207072427 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="296" data-image-key="Qin Shi Huang Di 3.png" data-image-name="Qin Shi Huang Di 3.png">
+						
+					</a>
+				</figure>

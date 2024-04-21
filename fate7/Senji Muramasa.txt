@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest?cb=20210101052550" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052550" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052550 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210101052550 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Senji Muramasa 1 Sprite.png" data-image-name="Senji Muramasa 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest?cb=20210101052557" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052557" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052557 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210101052557 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Senji Muramasa 2 Sprite.png" data-image-name="Senji Muramasa 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest?cb=20210101052603" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052603" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052603 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210101052603 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Senji Muramasa 3 Sprite.png" data-image-name="Senji Muramasa 3 Sprite.png">
+						
+					</a>
+				</figure>

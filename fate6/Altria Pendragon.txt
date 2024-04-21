@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S002_Stage1.webp/revision/latest?cb=20220910072124" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S002_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910072124" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S002_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910072124 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3f/S002_Stage1.webp/revision/latest?cb=20220910072124 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S002 Stage1.webp" data-image-name="S002 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/db/S002_Stage2.webp/revision/latest?cb=20220910072141" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/db/S002_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910072141" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/db/S002_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910072141 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/db/S002_Stage2.webp/revision/latest?cb=20220910072141 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S002 Stage2.webp" data-image-name="S002 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S002_Stage3.webp/revision/latest?cb=20220910072150" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S002_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910072150" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/df/S002_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910072150 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/df/S002_Stage3.webp/revision/latest?cb=20220910072150 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S002 Stage3.webp" data-image-name="S002 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S002_Stage4.webp/revision/latest?cb=20220910072159" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S002_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910072159" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/be/S002_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910072159 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/be/S002_Stage4.webp/revision/latest?cb=20220910072159 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S002 Stage4.webp" data-image-name="S002 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S002_Costume1.webp/revision/latest?cb=20220910072116" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S002_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910072116" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S002_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910072116 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/S002_Costume1.webp/revision/latest?cb=20220910072116 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S002 Costume1.webp" data-image-name="S002 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/AF0002.png/revision/latest?cb=20200401130607" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/AF0002.png/revision/latest/scale-to-width-down/350?cb=20200401130607" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/AF0002.png/revision/latest/scale-to-width-down/350?cb=20200401130607 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3e/AF0002.png/revision/latest?cb=20200401130607 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0002.png" data-image-name="AF0002.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest?cb=20200112075303" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075303" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075303 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f4/Artoria_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20200112075303 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="300" data-image-key="Artoria Sprite1 2nd Renewal.png" data-image-name="Artoria Sprite1 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest?cb=20200112075330" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075330" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075330 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Artoria_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20200112075330 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="300" data-image-key="Artoria Sprite2 2nd Renewal.png" data-image-name="Artoria Sprite2 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest?cb=20200112075355" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075355" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20200112075355 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Artoria_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20200112075355 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="311" data-image-key="Artoria Sprite3 2nd Renewal.png" data-image-name="Artoria Sprite3 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b2/Artoria_Sprite_Cos1.png/revision/latest?cb=20200927062812" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b2/Artoria_Sprite_Cos1.png/revision/latest/scale-to-width-down/350?cb=20200927062812" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b2/Artoria_Sprite_Cos1.png/revision/latest/scale-to-width-down/350?cb=20200927062812 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b2/Artoria_Sprite_Cos1.png/revision/latest/scale-to-width-down/700?cb=20200927062812 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Artoria Sprite Cos1.png" data-image-name="Artoria Sprite Cos1.png">
+						
+					</a>
+				</figure>

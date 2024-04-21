@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest?cb=20210908151948" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151948" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151948 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151948 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Charlotte Corday Caster 1 Sprite.png" data-image-name="Charlotte Corday Caster 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest?cb=20210908151949" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151949" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151949 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151949 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Charlotte Corday Caster 2 Sprite.png" data-image-name="Charlotte Corday Caster 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest?cb=20210908151951" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151951" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151951 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151951 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Charlotte Corday Caster 3 Sprite.png" data-image-name="Charlotte Corday Caster 3 Sprite.png">
+						
+					</a>
+				</figure>

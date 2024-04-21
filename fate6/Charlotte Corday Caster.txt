@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S319_Stage1.webp/revision/latest?cb=20220925061329" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S319_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061329" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S319_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061329 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/35/S319_Stage1.webp/revision/latest?cb=20220925061329 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S319 Stage1.webp" data-image-name="S319 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/S319_Stage2.webp/revision/latest?cb=20220925061323" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/S319_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925061323" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/S319_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925061323 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9e/S319_Stage2.webp/revision/latest?cb=20220925061323 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S319 Stage2.webp" data-image-name="S319 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S319_Stage3.webp/revision/latest?cb=20220925061315" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S319_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925061315" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/S319_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925061315 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/S319_Stage3.webp/revision/latest?cb=20220925061315 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S319 Stage3.webp" data-image-name="S319 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/19/S319_Stage4.webp/revision/latest?cb=20220925061309" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/19/S319_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/19/S319_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061309 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/19/S319_Stage4.webp/revision/latest?cb=20220925061309 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S319 Stage4.webp" data-image-name="S319 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/S319_AprilFool.webp/revision/latest?cb=20230402083656" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/S319_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083656" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/S319_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083656 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d4/S319_AprilFool.webp/revision/latest?cb=20230402083656 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S319 AprilFool.webp" data-image-name="S319 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest?cb=20210908151948" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151948" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151948 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/Charlotte_Corday_Caster_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151948 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Charlotte Corday Caster 1 Sprite.png" data-image-name="Charlotte Corday Caster 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest?cb=20210908151949" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151949" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151949 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2b/Charlotte_Corday_Caster_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151949 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Charlotte Corday Caster 2 Sprite.png" data-image-name="Charlotte Corday Caster 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest?cb=20210908151951" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151951" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210908151951 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Charlotte_Corday_Caster_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210908151951 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Charlotte Corday Caster 3 Sprite.png" data-image-name="Charlotte Corday Caster 3 Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5a/S302_Stage1.webp/revision/latest?cb=20220925053242" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5a/S302_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925053242" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5a/S302_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925053242 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5a/S302_Stage1.webp/revision/latest?cb=20220925053242 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S302 Stage1.webp" data-image-name="S302 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/S302_Stage2.webp/revision/latest?cb=20220925053231" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/S302_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925053231" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/S302_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925053231 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ca/S302_Stage2.webp/revision/latest?cb=20220925053231 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S302 Stage2.webp" data-image-name="S302 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/37/S302_Stage3.webp/revision/latest?cb=20220925053221" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/37/S302_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925053221" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/37/S302_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925053221 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/37/S302_Stage3.webp/revision/latest?cb=20220925053221 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S302 Stage3.webp" data-image-name="S302 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/53/S302_Stage4.webp/revision/latest?cb=20220925053209" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/53/S302_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925053209" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/53/S302_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925053209 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/53/S302_Stage4.webp/revision/latest?cb=20220925053209 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S302 Stage4.webp" data-image-name="S302 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/03/AF0302.png/revision/latest?cb=20210718173851" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/03/AF0302.png/revision/latest/scale-to-width-down/350?cb=20210718173851" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/03/AF0302.png/revision/latest/scale-to-width-down/350?cb=20210718173851 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/03/AF0302.png/revision/latest/scale-to-width-down/700?cb=20210718173851 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0302.png" data-image-name="AF0302.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest?cb=20210101052550" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052550" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052550 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fa/Senji_Muramasa_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210101052550 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Senji Muramasa 1 Sprite.png" data-image-name="Senji Muramasa 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest?cb=20210101052557" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052557" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052557 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210101052557 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Senji Muramasa 2 Sprite.png" data-image-name="Senji Muramasa 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest?cb=20210101052603" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052603" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210101052603 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Senji_Muramasa_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210101052603 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Senji Muramasa 3 Sprite.png" data-image-name="Senji Muramasa 3 Sprite.png">
+						
+					</a>
+				</figure>

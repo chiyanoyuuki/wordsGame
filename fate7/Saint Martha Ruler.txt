@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Martharulersprite1.png/revision/latest?cb=20200216130225" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Martharulersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216130225" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Martharulersprite1.png/revision/latest/scale-to-width-down/350?cb=20200216130225 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Martharulersprite1.png/revision/latest/scale-to-width-down/700?cb=20200216130225 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Martharulersprite1.png" data-image-name="Martharulersprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Martharulersprite2.png/revision/latest?cb=20200216130230" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Martharulersprite2.png/revision/latest/scale-to-width-down/350?cb=20200216130230" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Martharulersprite2.png/revision/latest/scale-to-width-down/350?cb=20200216130230 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dd/Martharulersprite2.png/revision/latest/scale-to-width-down/700?cb=20200216130230 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Martharulersprite2.png" data-image-name="Martharulersprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Martharulersprite3.png/revision/latest?cb=20200216130235" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Martharulersprite3.png/revision/latest/scale-to-width-down/350?cb=20200216130235" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/67/Martharulersprite3.png/revision/latest/scale-to-width-down/350?cb=20200216130235 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/67/Martharulersprite3.png/revision/latest/scale-to-width-down/700?cb=20200216130235 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Martharulersprite3.png" data-image-name="Martharulersprite3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/eb/Cu_Chulainn_Caster_New_Sprite_1.png/revision/latest?cb=20210613013132" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/eb/Cu_Chulainn_Caster_New_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210613013132" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/eb/Cu_Chulainn_Caster_New_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210613013132 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/eb/Cu_Chulainn_Caster_New_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210613013132 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Cu Chulainn Caster New Sprite 1.png" data-image-name="Cu Chulainn Caster New Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Cu_Chulainn_Caster_New_Sprite_2.png/revision/latest?cb=20210613013159" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Cu_Chulainn_Caster_New_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210613013159" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Cu_Chulainn_Caster_New_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210613013159 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0e/Cu_Chulainn_Caster_New_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210613013159 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Cu Chulainn Caster New Sprite 2.png" data-image-name="Cu Chulainn Caster New Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Cu_Chulainn_Caster_New_Sprite_3.png/revision/latest?cb=20210613013213" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Cu_Chulainn_Caster_New_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210613013213" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Cu_Chulainn_Caster_New_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210613013213 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0c/Cu_Chulainn_Caster_New_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210613013213 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Cu Chulainn Caster New Sprite 3.png" data-image-name="Cu Chulainn Caster New Sprite 3.png">
+						
+					</a>
+				</figure>

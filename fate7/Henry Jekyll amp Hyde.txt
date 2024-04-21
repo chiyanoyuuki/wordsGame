@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Jekyllsprite1.png/revision/latest?cb=20200216124539" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Jekyllsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216124539" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Jekyllsprite1.png/revision/latest/scale-to-width-down/350?cb=20200216124539 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6b/Jekyllsprite1.png/revision/latest/scale-to-width-down/700?cb=20200216124539 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Jekyllsprite1.png" data-image-name="Jekyllsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cd/Hyde_Sprite_2.png/revision/latest?cb=20200216124544" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cd/Hyde_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200216124544" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cd/Hyde_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20200216124544 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cd/Hyde_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20200216124544 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Hyde Sprite 2.png" data-image-name="Hyde Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Jekyll_sprite3.png/revision/latest?cb=20200216124549" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Jekyll_sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216124549" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Jekyll_sprite3.png/revision/latest/scale-to-width-down/350?cb=20200216124549 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/bd/Jekyll_sprite3.png/revision/latest/scale-to-width-down/700?cb=20200216124549 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Jekyll sprite3.png" data-image-name="Jekyll sprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

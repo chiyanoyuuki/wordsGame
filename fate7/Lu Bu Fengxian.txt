@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/LuBu_Sprite_1.png/revision/latest?cb=20190808083920" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/LuBu_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20190808083920" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f9/LuBu_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20190808083920 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f9/LuBu_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20190808083920 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="LuBu Sprite 1.png" data-image-name="LuBu Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/LuBu_Sprite_2.png/revision/latest?cb=20190808083921" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/LuBu_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20190808083921" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/fb/LuBu_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20190808083921 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/fb/LuBu_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20190808083921 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="LuBu Sprite 2.png" data-image-name="LuBu Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/LuBu_Sprite_3.png/revision/latest?cb=20190808083923" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/LuBu_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20190808083923" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a4/LuBu_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20190808083923 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a4/LuBu_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20190808083923 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="LuBu Sprite 3.png" data-image-name="LuBu Sprite 3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7b/Katsushika_Hokusai_Saber_Sprite.png/revision/latest?cb=20190815005832" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7b/Katsushika_Hokusai_Saber_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190815005832" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7b/Katsushika_Hokusai_Saber_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190815005832 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7b/Katsushika_Hokusai_Saber_Sprite.png/revision/latest/scale-to-width-down/700?cb=20190815005832 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Katsushika Hokusai Saber Sprite.png" data-image-name="Katsushika Hokusai Saber Sprite.png">
+						
+					</a>
+				</figure>

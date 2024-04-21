@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S171_Stage1.webp/revision/latest?cb=20220911124012" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S171_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911124012" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/af/S171_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911124012 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/af/S171_Stage1.webp/revision/latest?cb=20220911124012 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S171 Stage1.webp" data-image-name="S171 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S171_Stage2.webp/revision/latest?cb=20220911124002" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S171_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911124002" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S171_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911124002 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e7/S171_Stage2.webp/revision/latest?cb=20220911124002 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S171 Stage2.webp" data-image-name="S171 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/20/S171_Stage3.webp/revision/latest?cb=20220911123953" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/20/S171_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911123953" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/20/S171_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911123953 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/20/S171_Stage3.webp/revision/latest?cb=20220911123953 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S171 Stage3.webp" data-image-name="S171 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S171_Stage4.webp/revision/latest?cb=20220911124730" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S171_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911124730" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S171_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911124730 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ef/S171_Stage4.webp/revision/latest?cb=20220911124730 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S171 Stage4.webp" data-image-name="S171 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S171_Costume1.webp/revision/latest?cb=20220911123915" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S171_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911123915" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/92/S171_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220911123915 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/92/S171_Costume1.webp/revision/latest?cb=20220911123915 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S171 Costume1.webp" data-image-name="S171 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/60/AF0171.png/revision/latest?cb=20180428125511" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/60/AF0171.png/revision/latest/scale-to-width-down/350?cb=20180428125511" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/60/AF0171.png/revision/latest/scale-to-width-down/350?cb=20180428125511 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/60/AF0171.png/revision/latest?cb=20180428125511 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0171.png" data-image-name="AF0171.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ce/PenthesileaSprite1.png/revision/latest?cb=20220514122501" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ce/PenthesileaSprite1.png/revision/latest/scale-to-width-down/350?cb=20220514122501" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ce/PenthesileaSprite1.png/revision/latest/scale-to-width-down/350?cb=20220514122501 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ce/PenthesileaSprite1.png/revision/latest/scale-to-width-down/700?cb=20220514122501 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="PenthesileaSprite1.png" data-image-name="PenthesileaSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/PenthesileaSprite2.png/revision/latest?cb=20220514122524" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/PenthesileaSprite2.png/revision/latest/scale-to-width-down/350?cb=20220514122524" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/PenthesileaSprite2.png/revision/latest/scale-to-width-down/350?cb=20220514122524 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3c/PenthesileaSprite2.png/revision/latest/scale-to-width-down/700?cb=20220514122524 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="PenthesileaSprite2.png" data-image-name="PenthesileaSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/PenthesileaSprite3.png/revision/latest?cb=20220514122552" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/PenthesileaSprite3.png/revision/latest/scale-to-width-down/350?cb=20220514122552" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/PenthesileaSprite3.png/revision/latest/scale-to-width-down/350?cb=20220514122552 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/PenthesileaSprite3.png/revision/latest/scale-to-width-down/700?cb=20220514122552 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="PenthesileaSprite3.png" data-image-name="PenthesileaSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Penthesilea_Sprite_Costume.png/revision/latest?cb=20200122163814" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Penthesilea_Sprite_Costume.png/revision/latest/scale-to-width-down/350?cb=20200122163814" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Penthesilea_Sprite_Costume.png/revision/latest/scale-to-width-down/350?cb=20200122163814 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Penthesilea_Sprite_Costume.png/revision/latest/scale-to-width-down/700?cb=20200122163814 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Penthesilea Sprite Costume.png" data-image-name="Penthesilea Sprite Costume.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Ivan_Sprite_Stage1.png/revision/latest?cb=20181021095108" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Ivan_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20181021095108" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Ivan_Sprite_Stage1.png/revision/latest/scale-to-width-down/350?cb=20181021095108 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9f/Ivan_Sprite_Stage1.png/revision/latest/scale-to-width-down/700?cb=20181021095108 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="254" data-image-key="Ivan Sprite Stage1.png" data-image-name="Ivan Sprite Stage1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Ivan_Sprite_Stage2.png/revision/latest?cb=20181017133053" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Ivan_Sprite_Stage2.png/revision/latest/scale-to-width-down/350?cb=20181017133053" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Ivan_Sprite_Stage2.png/revision/latest/scale-to-width-down/350?cb=20181017133053 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1a/Ivan_Sprite_Stage2.png/revision/latest/scale-to-width-down/700?cb=20181017133053 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="271" data-image-key="Ivan Sprite Stage2.png" data-image-name="Ivan Sprite Stage2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/Ivan_Sprite_Stage3.png/revision/latest?cb=20181014055845" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/Ivan_Sprite_Stage3.png/revision/latest/scale-to-width-down/350?cb=20181014055845" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/Ivan_Sprite_Stage3.png/revision/latest/scale-to-width-down/350?cb=20181014055845 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b9/Ivan_Sprite_Stage3.png/revision/latest/scale-to-width-down/700?cb=20181014055845 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="271" data-image-key="Ivan Sprite Stage3.png" data-image-name="Ivan Sprite Stage3.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Nito1.png/revision/latest?cb=20200216131418" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Nito1.png/revision/latest/scale-to-width-down/350?cb=20200216131418" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Nito1.png/revision/latest/scale-to-width-down/350?cb=20200216131418 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/05/Nito1.png/revision/latest/scale-to-width-down/700?cb=20200216131418 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Nito1.png" data-image-name="Nito1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/30/Nito2.png/revision/latest?cb=20200216131423" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/30/Nito2.png/revision/latest/scale-to-width-down/350?cb=20200216131423" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/30/Nito2.png/revision/latest/scale-to-width-down/350?cb=20200216131423 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/30/Nito2.png/revision/latest/scale-to-width-down/700?cb=20200216131423 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Nito2.png" data-image-name="Nito2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Nito3.png/revision/latest?cb=20200216131428" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Nito3.png/revision/latest/scale-to-width-down/350?cb=20200216131428" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Nito3.png/revision/latest/scale-to-width-down/350?cb=20200216131428 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3e/Nito3.png/revision/latest/scale-to-width-down/700?cb=20200216131428 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Nito3.png" data-image-name="Nito3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

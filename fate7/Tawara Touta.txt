@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/TawaraToudaSprite1.png/revision/latest?cb=20200216112916" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/TawaraToudaSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216112916" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d7/TawaraToudaSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216112916 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d7/TawaraToudaSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216112916 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="TawaraToudaSprite1.png" data-image-name="TawaraToudaSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/ToudaSprite1.png/revision/latest?cb=20200216112921" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/ToudaSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216112921" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/ToudaSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216112921 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/ToudaSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216112921 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="ToudaSprite1.png" data-image-name="ToudaSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/ToudaSprite3.png/revision/latest?cb=20200216112926" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/ToudaSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216112926" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/ToudaSprite3.png/revision/latest/scale-to-width-down/350?cb=20200216112926 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/ToudaSprite3.png/revision/latest/scale-to-width-down/700?cb=20200216112926 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="ToudaSprite3.png" data-image-name="ToudaSprite3.png">
+						
+					</a>
+				</figure>

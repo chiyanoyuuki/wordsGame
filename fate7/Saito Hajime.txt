@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest?cb=20201010015041" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201010015041" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201010015041 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saito_Hajime_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20201010015041 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Saito Hajime Sprite 1.png" data-image-name="Saito Hajime Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest?cb=20201010015049" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201010015049" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201010015049 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7e/Saito_Hajime_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20201010015049 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Saito Hajime Sprite 2.png" data-image-name="Saito Hajime Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest?cb=20201010015058" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201010015058" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201010015058 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/d4/Saito_Hajime_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20201010015058 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Saito Hajime Sprite 3.png" data-image-name="Saito Hajime Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

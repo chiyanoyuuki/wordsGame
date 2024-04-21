@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest?cb=20201216144924" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144924" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144924 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/64/Saint_George_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201216144924 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="Saint George 1 Sprite.png" data-image-name="Saint George 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest?cb=20201216144936" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144936" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144936 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/Saint_George_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201216144936 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="Saint George 2 Sprite.png" data-image-name="Saint George 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest?cb=20201216144943" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144943" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201216144943 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/75/Saint_George_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201216144943 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="Saint George 3 Sprite.png" data-image-name="Saint George 3 Sprite.png">
+						
+					</a>
+				</figure>

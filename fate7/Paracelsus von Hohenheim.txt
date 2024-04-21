@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/60/Paracelsussprite1.png/revision/latest?cb=20200216124611" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/60/Paracelsussprite1.png/revision/latest/scale-to-width-down/350?cb=20200216124611" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/60/Paracelsussprite1.png/revision/latest/scale-to-width-down/350?cb=20200216124611 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/60/Paracelsussprite1.png/revision/latest/scale-to-width-down/700?cb=20200216124611 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Paracelsussprite1.png" data-image-name="Paracelsussprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/Paracelsussprite2.png/revision/latest?cb=20200216124617" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/Paracelsussprite2.png/revision/latest/scale-to-width-down/350?cb=20200216124617" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b0/Paracelsussprite2.png/revision/latest/scale-to-width-down/350?cb=20200216124617 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b0/Paracelsussprite2.png/revision/latest/scale-to-width-down/700?cb=20200216124617 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Paracelsussprite2.png" data-image-name="Paracelsussprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/19/Paracelsussprite3.png/revision/latest?cb=20200216124622" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/19/Paracelsussprite3.png/revision/latest/scale-to-width-down/350?cb=20200216124622" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/19/Paracelsussprite3.png/revision/latest/scale-to-width-down/350?cb=20200216124622 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/19/Paracelsussprite3.png/revision/latest/scale-to-width-down/700?cb=20200216124622 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Paracelsussprite3.png" data-image-name="Paracelsussprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

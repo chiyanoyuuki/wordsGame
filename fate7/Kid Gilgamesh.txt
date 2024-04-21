@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest?cb=20190302162537" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest/scale-to-width-down/350?cb=20190302162537" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest/scale-to-width-down/350?cb=20190302162537 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kogilsprite1.png/revision/latest?cb=20190302162537 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kogilsprite1.png" data-image-name="Kogilsprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest?cb=20190302162556" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest/scale-to-width-down/350?cb=20190302162556" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest/scale-to-width-down/350?cb=20190302162556 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Kogilsprite2.png/revision/latest?cb=20190302162556 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kogilsprite2.png" data-image-name="Kogilsprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest?cb=20190302162601" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest/scale-to-width-down/350?cb=20190302162601" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest/scale-to-width-down/350?cb=20190302162601 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/de/Kogilsprite3.png/revision/latest?cb=20190302162601 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kogilsprite3.png" data-image-name="Kogilsprite3.png">
+						
+					</a>
+				</figure>

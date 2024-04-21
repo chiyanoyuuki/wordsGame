@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kama_1_Fix.png/revision/latest?cb=20200216144243" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kama_1_Fix.png/revision/latest/scale-to-width-down/350?cb=20200216144243" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kama_1_Fix.png/revision/latest/scale-to-width-down/350?cb=20200216144243 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4a/Kama_1_Fix.png/revision/latest/scale-to-width-down/700?cb=20200216144243 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Kama 1 Fix.png" data-image-name="Kama 1 Fix.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/Kama_2.png/revision/latest?cb=20190327193714" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/Kama_2.png/revision/latest/scale-to-width-down/350?cb=20190327193714" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a2/Kama_2.png/revision/latest/scale-to-width-down/350?cb=20190327193714 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a2/Kama_2.png/revision/latest/scale-to-width-down/700?cb=20190327193714 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Kama 2.png" data-image-name="Kama 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/66/Kama_3_Sprite.png/revision/latest?cb=20190813145707" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/66/Kama_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190813145707" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/66/Kama_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190813145707 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/66/Kama_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20190813145707 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Kama 3 Sprite.png" data-image-name="Kama 3 Sprite.png">
+						
+					</a>
+				</figure>

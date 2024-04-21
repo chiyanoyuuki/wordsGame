@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S305_Stage1.webp/revision/latest?cb=20220925053521" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S305_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925053521" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S305_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925053521 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2a/S305_Stage1.webp/revision/latest?cb=20220925053521 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S305 Stage1.webp" data-image-name="S305 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/69/S305_Stage2.webp/revision/latest?cb=20220925053510" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/69/S305_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925053510" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/69/S305_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925053510 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/69/S305_Stage2.webp/revision/latest?cb=20220925053510 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S305 Stage2.webp" data-image-name="S305 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S305_Stage3.webp/revision/latest?cb=20220925053457" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S305_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925053457" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/35/S305_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925053457 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/35/S305_Stage3.webp/revision/latest?cb=20220925053457 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S305 Stage3.webp" data-image-name="S305 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S305_Stage4.webp/revision/latest?cb=20220925053446" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S305_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925053446" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S305_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925053446 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a0/S305_Stage4.webp/revision/latest?cb=20220925053446 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S305 Stage4.webp" data-image-name="S305 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S305_Costume1.webp/revision/latest?cb=20220925053435" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S305_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925053435" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S305_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220925053435 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0d/S305_Costume1.webp/revision/latest?cb=20220925053435 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S305 Costume1.webp" data-image-name="S305 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/AF0305.png/revision/latest?cb=20210402131234" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/AF0305.png/revision/latest/scale-to-width-down/350?cb=20210402131234" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/0a/AF0305.png/revision/latest/scale-to-width-down/350?cb=20210402131234 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/0a/AF0305.png/revision/latest?cb=20210402131234 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0305.png" data-image-name="AF0305.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Caren_C_Hortensia_Sprite_1.png/revision/latest?cb=20210210150557" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Caren_C_Hortensia_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210210150557" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Caren_C_Hortensia_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210210150557 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cf/Caren_C_Hortensia_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210210150557 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Caren C Hortensia Sprite 1.png" data-image-name="Caren C Hortensia Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Caren_C_Hortensia_Sprite_2.png/revision/latest?cb=20210210150554" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Caren_C_Hortensia_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210210150554" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Caren_C_Hortensia_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210210150554 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e4/Caren_C_Hortensia_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210210150554 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Caren C Hortensia Sprite 2.png" data-image-name="Caren C Hortensia Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5a/Caren_C_Hortensia_Sprite_3.png/revision/latest?cb=20210210150552" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5a/Caren_C_Hortensia_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210210150552" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5a/Caren_C_Hortensia_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210210150552 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5a/Caren_C_Hortensia_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210210150552 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Caren C Hortensia Sprite 3.png" data-image-name="Caren C Hortensia Sprite 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Caren_C_Hortensia_Costume_Sprite.png/revision/latest?cb=20210219144519" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Caren_C_Hortensia_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210219144519" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Caren_C_Hortensia_Costume_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210219144519 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e8/Caren_C_Hortensia_Costume_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210219144519 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Caren C Hortensia Costume Sprite.png" data-image-name="Caren C Hortensia Costume Sprite.png">
+						
+					</a>
+				</figure>

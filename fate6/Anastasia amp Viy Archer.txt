@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/db/S318_Stage1.webp/revision/latest?cb=20220925061411" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/db/S318_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061411" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/db/S318_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925061411 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/db/S318_Stage1.webp/revision/latest?cb=20220925061411 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S318 Stage1.webp" data-image-name="S318 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/S318_Stage2.webp/revision/latest?cb=20220925061405" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/S318_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925061405" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/S318_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925061405 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/S318_Stage2.webp/revision/latest?cb=20220925061405 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S318 Stage2.webp" data-image-name="S318 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/S318_Stage3.webp/revision/latest?cb=20220925061357" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/S318_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925061357" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/S318_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925061357 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2c/S318_Stage3.webp/revision/latest?cb=20220925061357 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S318 Stage3.webp" data-image-name="S318 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/S318_Stage4.webp/revision/latest?cb=20220925061346" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/S318_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061346" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8a/S318_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925061346 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8a/S318_Stage4.webp/revision/latest?cb=20220925061346 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S318 Stage4.webp" data-image-name="S318 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/80/S318_AprilFool.webp/revision/latest?cb=20230402083644" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/80/S318_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083644" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/80/S318_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083644 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/80/S318_AprilFool.webp/revision/latest?cb=20230402083644 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S318 AprilFool.webp" data-image-name="S318 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6c/Anastasia_and_Viy_1_Sprite.png/revision/latest?cb=20210911110008" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6c/Anastasia_and_Viy_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210911110008" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6c/Anastasia_and_Viy_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210911110008 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6c/Anastasia_and_Viy_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210911110008 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Anastasia and Viy 1 Sprite.png" data-image-name="Anastasia and Viy 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Anastasia_and_Viy_2_Sprite.png/revision/latest?cb=20210911110010" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Anastasia_and_Viy_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210911110010" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Anastasia_and_Viy_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210911110010 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f6/Anastasia_and_Viy_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210911110010 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Anastasia and Viy 2 Sprite.png" data-image-name="Anastasia and Viy 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Anastasia_and_Viy_3_Sprite.png/revision/latest?cb=20210911110012" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Anastasia_and_Viy_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210911110012" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/27/Anastasia_and_Viy_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210911110012 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/27/Anastasia_and_Viy_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210911110012 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Anastasia and Viy 3 Sprite.png" data-image-name="Anastasia and Viy 3 Sprite.png">
+						
+					</a>
+				</figure>

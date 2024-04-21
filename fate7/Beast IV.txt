@@ -1,0 +1,5 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest?cb=20211226101745" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211226101745" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211226101745 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c6/Lostbelt_Beast_IV_Sprite.png/revision/latest/scale-to-width-down/699?cb=20211226101745 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="238" data-image-key="Lostbelt Beast IV Sprite.png" data-image-name="Lostbelt Beast IV Sprite.png">
+						
+					</a>
+				</figure>

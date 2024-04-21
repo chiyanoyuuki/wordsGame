@@ -1,0 +1,54 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b8/S107_Stage1.webp/revision/latest?cb=20220911061542" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b8/S107_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911061542" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b8/S107_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911061542 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b8/S107_Stage1.webp/revision/latest?cb=20220911061542 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S107 Stage1.webp" data-image-name="S107 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S107_Stage2.webp/revision/latest?cb=20220911061507" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S107_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911061507" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S107_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911061507 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/7f/S107_Stage2.webp/revision/latest?cb=20220911061507 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S107 Stage2.webp" data-image-name="S107 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S107_Stage3.webp/revision/latest?cb=20220911061437" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S107_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911061437" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S107_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911061437 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3c/S107_Stage3.webp/revision/latest?cb=20220911061437 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S107 Stage3.webp" data-image-name="S107 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S107_Stage4.webp/revision/latest?cb=20220911061348" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S107_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911061348" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S107_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911061348 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9a/S107_Stage4.webp/revision/latest?cb=20220911061348 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S107 Stage4.webp" data-image-name="S107 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/AF0107.png/revision/latest?cb=20180428125824" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/AF0107.png/revision/latest/scale-to-width-down/350?cb=20180428125824" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/AF0107.png/revision/latest/scale-to-width-down/350?cb=20180428125824 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/AF0107.png/revision/latest?cb=20180428125824 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0107.png" data-image-name="AF0107.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/20/Angra1st.png/revision/latest?cb=20200221161628" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/20/Angra1st.png/revision/latest/scale-to-width-down/350?cb=20200221161628" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/20/Angra1st.png/revision/latest/scale-to-width-down/350?cb=20200221161628 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/20/Angra1st.png/revision/latest/scale-to-width-down/700?cb=20200221161628 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Angra1st.png" data-image-name="Angra1st.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/Angra2nd.png/revision/latest?cb=20200221161657" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/Angra2nd.png/revision/latest/scale-to-width-down/350?cb=20200221161657" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/Angra2nd.png/revision/latest/scale-to-width-down/350?cb=20200221161657 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3b/Angra2nd.png/revision/latest/scale-to-width-down/700?cb=20200221161657 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Angra2nd.png" data-image-name="Angra2nd.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Angra3rd.png/revision/latest?cb=20200221161704" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Angra3rd.png/revision/latest/scale-to-width-down/350?cb=20200221161704" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Angra3rd.png/revision/latest/scale-to-width-down/350?cb=20200221161704 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c9/Angra3rd.png/revision/latest/scale-to-width-down/700?cb=20200221161704 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Angra3rd.png" data-image-name="Angra3rd.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/11/Angra4th.png/revision/latest?cb=20230102043040" class="image image-thumbnail" title="Beast Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/11/Angra4th.png/revision/latest/scale-to-width-down/350?cb=20230102043040" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/11/Angra4th.png/revision/latest/scale-to-width-down/350?cb=20230102043040 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/11/Angra4th.png/revision/latest/scale-to-width-down/700?cb=20230102043040 2x" class="pi-image-thumbnail" alt="Beast Sprite" width="270" height="270" data-image-key="Angra4th.png" data-image-name="Angra4th.png">
+						
+					</a>
+				</figure>

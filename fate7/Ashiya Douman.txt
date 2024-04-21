@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/59/Ashiya_Douman_1_Sprite.png/revision/latest?cb=20201208114041" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/59/Ashiya_Douman_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114041" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/59/Ashiya_Douman_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114041 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/59/Ashiya_Douman_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208114041 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Ashiya Douman 1 Sprite.png" data-image-name="Ashiya Douman 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/09/Ashiya_Douman_2_Sprite.png/revision/latest?cb=20201208114050" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/09/Ashiya_Douman_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114050" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/09/Ashiya_Douman_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114050 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/09/Ashiya_Douman_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208114050 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Ashiya Douman 2 Sprite.png" data-image-name="Ashiya Douman 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Ashiya_Douman_3_Sprite.png/revision/latest?cb=20201208114058" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Ashiya_Douman_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114058" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Ashiya_Douman_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114058 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/Ashiya_Douman_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208114058 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Ashiya Douman 3 Sprite.png" data-image-name="Ashiya Douman 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

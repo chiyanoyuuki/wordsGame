@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/AntoinetteCasterSprite1.png/revision/latest?cb=20200216125951" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/AntoinetteCasterSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216125951" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9f/AntoinetteCasterSprite1.png/revision/latest/scale-to-width-down/350?cb=20200216125951 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9f/AntoinetteCasterSprite1.png/revision/latest/scale-to-width-down/700?cb=20200216125951 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="AntoinetteCasterSprite1.png" data-image-name="AntoinetteCasterSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/69/AntoinetteCasterSprite2.png/revision/latest?cb=20200216125956" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/69/AntoinetteCasterSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216125956" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/69/AntoinetteCasterSprite2.png/revision/latest/scale-to-width-down/350?cb=20200216125956 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/69/AntoinetteCasterSprite2.png/revision/latest/scale-to-width-down/700?cb=20200216125956 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="AntoinetteCasterSprite2.png" data-image-name="AntoinetteCasterSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Marie_Antoinette_caster_3.png/revision/latest?cb=20200216130001" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Marie_Antoinette_caster_3.png/revision/latest/scale-to-width-down/350?cb=20200216130001" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/05/Marie_Antoinette_caster_3.png/revision/latest/scale-to-width-down/350?cb=20200216130001 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/05/Marie_Antoinette_caster_3.png/revision/latest/scale-to-width-down/700?cb=20200216130001 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Marie Antoinette caster 3.png" data-image-name="Marie Antoinette caster 3.png">
+						
+					</a>
+				</figure>

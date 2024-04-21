@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest?cb=20210203211445" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211445" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211445 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e1/Caligula_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211445 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Caligula 1 Sprite.png" data-image-name="Caligula 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest?cb=20210203211442" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211442" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211442 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ae/Caligula_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211442 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Caligula 2 Sprite.png" data-image-name="Caligula 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest?cb=20210203211440" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211440" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20210203211440 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cc/Caligula_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20210203211440 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Caligula 3 Sprite.png" data-image-name="Caligula 3 Sprite.png">
+						
+					</a>
+				</figure>

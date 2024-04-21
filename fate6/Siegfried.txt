@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S006_Stage1.webp/revision/latest?cb=20220910074524" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S006_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910074524" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S006_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910074524 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S006_Stage1.webp/revision/latest?cb=20220910074524 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S006 Stage1.webp" data-image-name="S006 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/S006_Stage2.webp/revision/latest?cb=20220910074250" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/S006_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910074250" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/S006_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910074250 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/S006_Stage2.webp/revision/latest?cb=20220910074250 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S006 Stage2.webp" data-image-name="S006 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S006_Stage3.webp/revision/latest?cb=20220910074508" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S006_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910074508" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/90/S006_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910074508 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/90/S006_Stage3.webp/revision/latest?cb=20220910074508 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S006 Stage3.webp" data-image-name="S006 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/40/S006_Stage4.webp/revision/latest?cb=20220910074449" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/40/S006_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910074449" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/40/S006_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910074449 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/40/S006_Stage4.webp/revision/latest?cb=20220910074449 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S006 Stage4.webp" data-image-name="S006 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S006_Costume1.webp/revision/latest?cb=20220910074442" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S006_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910074442" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S006_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910074442 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S006_Costume1.webp/revision/latest?cb=20220910074442 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S006 Costume1.webp" data-image-name="S006 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0006.png/revision/latest?cb=20200401125652" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0006.png/revision/latest/scale-to-width-down/350?cb=20200401125652" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0006.png/revision/latest/scale-to-width-down/350?cb=20200401125652 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/41/AF0006.png/revision/latest?cb=20200401125652 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="AF0006.png" data-image-name="AF0006.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest?cb=20220728140141" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest/scale-to-width-down/350?cb=20220728140141" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest/scale-to-width-down/350?cb=20220728140141 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/47/Siegfried_new_1.png/revision/latest/scale-to-width-down/700?cb=20220728140141 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Siegfried new 1.png" data-image-name="Siegfried new 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest?cb=20220728140447" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest/scale-to-width-down/350?cb=20220728140447" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest/scale-to-width-down/350?cb=20220728140447 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b4/Siegfried_new_2.png/revision/latest/scale-to-width-down/700?cb=20220728140447 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Siegfried new 2.png" data-image-name="Siegfried new 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest?cb=20220728140309" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest/scale-to-width-down/350?cb=20220728140309" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest/scale-to-width-down/350?cb=20220728140309 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/ca/Siegfried_new_3.png/revision/latest/scale-to-width-down/700?cb=20220728140309 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Siegfried new 3.png" data-image-name="Siegfried new 3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Siegfried_Costume_Sprite1.png/revision/latest?cb=20190814234442" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Siegfried_Costume_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190814234442" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/32/Siegfried_Costume_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20190814234442 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/32/Siegfried_Costume_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20190814234442 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Siegfried Costume Sprite1.png" data-image-name="Siegfried Costume Sprite1.png">
+						
+					</a>
+				</figure>

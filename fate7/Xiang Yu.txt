@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Xiang_Yu_1.png/revision/latest?cb=20220612090126" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Xiang_Yu_1.png/revision/latest/scale-to-width-down/350?cb=20220612090126" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Xiang_Yu_1.png/revision/latest/scale-to-width-down/350?cb=20220612090126 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2c/Xiang_Yu_1.png/revision/latest/scale-to-width-down/700?cb=20220612090126 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Xiang Yu 1.png" data-image-name="Xiang Yu 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/XianYuStage2.png/revision/latest?cb=20220612090140" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/XianYuStage2.png/revision/latest/scale-to-width-down/350?cb=20220612090140" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6d/XianYuStage2.png/revision/latest/scale-to-width-down/350?cb=20220612090140 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6d/XianYuStage2.png/revision/latest/scale-to-width-down/700?cb=20220612090140 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="XianYuStage2.png" data-image-name="XianYuStage2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/XianYuStage3_NoEffects.png/revision/latest?cb=20220612090147" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/XianYuStage3_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220612090147" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8f/XianYuStage3_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220612090147 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8f/XianYuStage3_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220612090147 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="XianYuStage3 NoEffects.png" data-image-name="XianYuStage3 NoEffects.png">
+						
+					</a>
+				</figure>

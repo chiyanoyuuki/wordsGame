@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S327_Stage1.webp/revision/latest?cb=20220925062139" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S327_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062139" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/79/S327_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062139 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/79/S327_Stage1.webp/revision/latest?cb=20220925062139 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S327 Stage1.webp" data-image-name="S327 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b7/S327_Stage2.webp/revision/latest?cb=20220925062515" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b7/S327_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925062515" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b7/S327_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925062515 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b7/S327_Stage2.webp/revision/latest?cb=20220925062515 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S327 Stage2.webp" data-image-name="S327 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/S327_Stage3.webp/revision/latest?cb=20220925062051" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/S327_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925062051" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/S327_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925062051 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ac/S327_Stage3.webp/revision/latest?cb=20220925062051 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S327 Stage3.webp" data-image-name="S327 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/59/S327_Stage4.webp/revision/latest?cb=20220925062023" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/59/S327_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925062023" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/59/S327_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925062023 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/59/S327_Stage4.webp/revision/latest?cb=20220925062023 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S327 Stage4.webp" data-image-name="S327 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S327_AprilFool.webp/revision/latest?cb=20230402083848" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S327_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083848" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S327_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083848 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S327_AprilFool.webp/revision/latest?cb=20230402083848 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S327 AprilFool.webp" data-image-name="S327 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest?cb=20211119161325" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161325" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161325 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6e/Izumo_no_Okuni_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161325 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Izumo no Okuni 1 Sprite.png" data-image-name="Izumo no Okuni 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest?cb=20211119161328" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161328" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161328 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/36/Izumo_no_Okuni_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161328 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Izumo no Okuni 2 Sprite.png" data-image-name="Izumo no Okuni 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest?cb=20211119161332" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161332" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211119161332 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e5/Izumo_no_Okuni_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211119161332 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Izumo no Okuni 3 Sprite.png" data-image-name="Izumo no Okuni 3 Sprite.png">
+						
+					</a>
+				</figure>

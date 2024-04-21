@@ -1,0 +1,18 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/99/S151_Stage1.webp/revision/latest?cb=20220911082735" class="image image-thumbnail" title="Saint Graph">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/99/S151_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911082735" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/99/S151_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911082735 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/99/S151_Stage1.webp/revision/latest?cb=20220911082735 2x" class="pi-image-thumbnail" alt="Saint Graph" width="270" height="382" data-image-key="S151 Stage1.webp" data-image-name="S151 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Goetia_april_fool.png/revision/latest?cb=20180401235108" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Goetia_april_fool.png/revision/latest/scale-to-width-down/350?cb=20180401235108" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Goetia_april_fool.png/revision/latest/scale-to-width-down/350?cb=20180401235108 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/Goetia_april_fool.png/revision/latest?cb=20180401235108 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="244" data-image-key="Goetia april fool.png" data-image-name="Goetia april fool.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/King_of_Demon_Gods_-_Goetia_Sprite.png/revision/latest?cb=20190303084116" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/King_of_Demon_Gods_-_Goetia_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190303084116" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2d/King_of_Demon_Gods_-_Goetia_Sprite.png/revision/latest/scale-to-width-down/350?cb=20190303084116 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2d/King_of_Demon_Gods_-_Goetia_Sprite.png/revision/latest/scale-to-width-down/700?cb=20190303084116 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="King of Demon Gods - Goetia Sprite.png" data-image-name="King of Demon Gods - Goetia Sprite.png">
+						
+					</a>
+				</figure>

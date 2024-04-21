@@ -1,0 +1,42 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S350_Stage1.webp/revision/latest?cb=20220925065132" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S350_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925065132" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S350_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925065132 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3b/S350_Stage1.webp/revision/latest?cb=20220925065132 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S350 Stage1.webp" data-image-name="S350 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/10/S350_Stage2.webp/revision/latest?cb=20220925065115" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/10/S350_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925065115" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/10/S350_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925065115 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/10/S350_Stage2.webp/revision/latest?cb=20220925065115 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S350 Stage2.webp" data-image-name="S350 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/S350_Stage3.webp/revision/latest?cb=20220925065055" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/S350_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925065055" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a3/S350_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925065055 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a3/S350_Stage3.webp/revision/latest?cb=20220925065055 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S350 Stage3.webp" data-image-name="S350 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/S350_Stage4.webp/revision/latest?cb=20220925065043" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/S350_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925065043" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2b/S350_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925065043 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2b/S350_Stage4.webp/revision/latest?cb=20220925065043 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S350 Stage4.webp" data-image-name="S350 Stage4.webp">
+						<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5f/S342_Stage4.webp/revision/latest?cb=20220925063356" class="image image-thumbnail" title="xx">
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest?cb=20220706070155" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070155" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070155 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/dc/S350_Sprite_Stage1_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220706070155 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="270" data-image-key="S350 Sprite Stage1 NoEffects.png" data-image-name="S350 Sprite Stage1 NoEffects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest?cb=20220706070207" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070207" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070207 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/91/S350_Sprite_Stage2_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220706070207 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="270" data-image-key="S350 Sprite Stage2 NoEffects.png" data-image-name="S350 Sprite Stage2 NoEffects.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest?cb=20220706070206" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070206" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest/scale-to-width-down/350?cb=20220706070206 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1e/S350_Sprite_Stage3_NoEffects.png/revision/latest/scale-to-width-down/700?cb=20220706070206 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="270" data-image-key="S350 Sprite Stage3 NoEffects.png" data-image-name="S350 Sprite Stage3 NoEffects.png">
+						
+					</a>
+				</figure>

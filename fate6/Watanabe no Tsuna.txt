@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S298_Stage1.webp/revision/latest?cb=20220925052809" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S298_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925052809" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/00/S298_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925052809 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/00/S298_Stage1.webp/revision/latest?cb=20220925052809 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S298 Stage1.webp" data-image-name="S298 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S298_Stage2.webp/revision/latest?cb=20220925052759" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S298_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925052759" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S298_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220925052759 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e2/S298_Stage2.webp/revision/latest?cb=20220925052759 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S298 Stage2.webp" data-image-name="S298 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S298_Stage3.webp/revision/latest?cb=20220925052749" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S298_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925052749" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/43/S298_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220925052749 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/43/S298_Stage3.webp/revision/latest?cb=20220925052749 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S298 Stage3.webp" data-image-name="S298 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/73/S298_Stage4.webp/revision/latest?cb=20220925052736" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/73/S298_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925052736" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/73/S298_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925052736 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/73/S298_Stage4.webp/revision/latest?cb=20220925052736 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S298 Stage4.webp" data-image-name="S298 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/90/AF0298.png/revision/latest?cb=20210402130252" class="image image-thumbnail" title="April Fools">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/90/AF0298.png/revision/latest/scale-to-width-down/350?cb=20210402130252" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/90/AF0298.png/revision/latest/scale-to-width-down/350?cb=20210402130252 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/90/AF0298.png/revision/latest?cb=20210402130252 2x" class="pi-image-thumbnail" alt="April Fools" width="270" height="382" data-image-key="AF0298.png" data-image-name="AF0298.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Watanabe_no_Tsuna_1_Sprite.png/revision/latest?cb=20201208113945" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Watanabe_no_Tsuna_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113945" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Watanabe_no_Tsuna_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113945 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c4/Watanabe_no_Tsuna_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113945 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Watanabe no Tsuna 1 Sprite.png" data-image-name="Watanabe no Tsuna 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/02/Watanabe_no_Tsuna_2_Sprite.png/revision/latest?cb=20201208113953" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/02/Watanabe_no_Tsuna_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113953" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/02/Watanabe_no_Tsuna_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113953 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/02/Watanabe_no_Tsuna_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113953 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Watanabe no Tsuna 2 Sprite.png" data-image-name="Watanabe no Tsuna 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Watanabe_no_Tsuna_3_Sprite.png/revision/latest?cb=20201208114004" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Watanabe_no_Tsuna_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114004" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Watanabe_no_Tsuna_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208114004 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Watanabe_no_Tsuna_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208114004 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Watanabe no Tsuna 3 Sprite.png" data-image-name="Watanabe no Tsuna 3 Sprite.png">
+						
+					</a>
+				</figure>

@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/68/S119_Stage1.webp/revision/latest?cb=20220911064425" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/68/S119_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911064425" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/68/S119_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911064425 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/68/S119_Stage1.webp/revision/latest?cb=20220911064425 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S119 Stage1.webp" data-image-name="S119 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/15/S119_Stage2.webp/revision/latest?cb=20220911064413" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/15/S119_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911064413" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/15/S119_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911064413 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/15/S119_Stage2.webp/revision/latest?cb=20220911064413 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S119 Stage2.webp" data-image-name="S119 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/76/S119_Stage3.webp/revision/latest?cb=20220911064351" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/76/S119_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911064351" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/76/S119_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911064351 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/76/S119_Stage3.webp/revision/latest?cb=20220911064351 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S119 Stage3.webp" data-image-name="S119 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S119_Stage4.webp/revision/latest?cb=20220911064337" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S119_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911064337" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/24/S119_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911064337 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/24/S119_Stage4.webp/revision/latest?cb=20220911064337 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S119 Stage4.webp" data-image-name="S119 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/AF0119.png/revision/latest?cb=20180428123412" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/AF0119.png/revision/latest/scale-to-width-down/350?cb=20180428123412" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/ac/AF0119.png/revision/latest/scale-to-width-down/350?cb=20180428123412 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/ac/AF0119.png/revision/latest?cb=20180428123412 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0119.png" data-image-name="AF0119.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Artoria_Lancer_Renewal_Sprite_1.png/revision/latest?cb=20210515090550" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Artoria_Lancer_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210515090550" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Artoria_Lancer_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210515090550 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Artoria_Lancer_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210515090550 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Artoria Lancer Renewal Sprite 1.png" data-image-name="Artoria Lancer Renewal Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Artoria_Lancer_Renewal_Sprite_2.png/revision/latest?cb=20220513132834" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Artoria_Lancer_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20220513132834" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Artoria_Lancer_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20220513132834 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5c/Artoria_Lancer_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20220513132834 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Artoria Lancer Renewal Sprite 2.png" data-image-name="Artoria Lancer Renewal Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Artoria_Lancer_Renewal_Sprite_3.png/revision/latest?cb=20210515090546" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Artoria_Lancer_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210515090546" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Artoria_Lancer_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210515090546 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1b/Artoria_Lancer_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210515090546 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Artoria Lancer Renewal Sprite 3.png" data-image-name="Artoria Lancer Renewal Sprite 3.png">
+						
+					</a>
+				</figure>

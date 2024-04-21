@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/98/Tristan_Renewal_Sprite_1.png/revision/latest?cb=20210513005514" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/98/Tristan_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210513005514" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/98/Tristan_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20210513005514 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/98/Tristan_Renewal_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20210513005514 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Tristan Renewal Sprite 1.png" data-image-name="Tristan Renewal Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Tristan_Renewal_Sprite_2.png/revision/latest?cb=20210513005513" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Tristan_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210513005513" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Tristan_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20210513005513 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/1f/Tristan_Renewal_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20210513005513 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Tristan Renewal Sprite 2.png" data-image-name="Tristan Renewal Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Tristan_Renewal_Sprite_3.png/revision/latest?cb=20210513005511" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Tristan_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210513005511" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Tristan_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20210513005511 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/5b/Tristan_Renewal_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20210513005511 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Tristan Renewal Sprite 3.png" data-image-name="Tristan Renewal Sprite 3.png">
+						
+					</a>
+				</figure>

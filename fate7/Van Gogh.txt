@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Van_Gogh_Sprite_1.png/revision/latest?cb=20201112003601" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Van_Gogh_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201112003601" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Van_Gogh_Sprite_1.png/revision/latest/scale-to-width-down/350?cb=20201112003601 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c7/Van_Gogh_Sprite_1.png/revision/latest/scale-to-width-down/700?cb=20201112003601 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Van Gogh Sprite 1.png" data-image-name="Van Gogh Sprite 1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Van_Gogh_Sprite_2.png/revision/latest?cb=20201112003612" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Van_Gogh_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201112003612" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Van_Gogh_Sprite_2.png/revision/latest/scale-to-width-down/350?cb=20201112003612 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9e/Van_Gogh_Sprite_2.png/revision/latest/scale-to-width-down/700?cb=20201112003612 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Van Gogh Sprite 2.png" data-image-name="Van Gogh Sprite 2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Van_Gogh_Sprite_3.png/revision/latest?cb=20201112003623" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Van_Gogh_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201112003623" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/56/Van_Gogh_Sprite_3.png/revision/latest/scale-to-width-down/350?cb=20201112003623 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/56/Van_Gogh_Sprite_3.png/revision/latest/scale-to-width-down/700?cb=20201112003623 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Van Gogh Sprite 3.png" data-image-name="Van Gogh Sprite 3.png">
+						
+					</a>
+				</figure>

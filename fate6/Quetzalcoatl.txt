@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/S144_Stage1.webp/revision/latest?cb=20220911080807" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/S144_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911080807" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cb/S144_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911080807 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cb/S144_Stage1.webp/revision/latest?cb=20220911080807 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S144 Stage1.webp" data-image-name="S144 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S144_Stage2.webp/revision/latest?cb=20220911080758" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S144_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911080758" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S144_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911080758 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/S144_Stage2.webp/revision/latest?cb=20220911080758 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S144 Stage2.webp" data-image-name="S144 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S144_Stage3.webp/revision/latest?cb=20220911080747" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S144_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911080747" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S144_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911080747 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6f/S144_Stage3.webp/revision/latest?cb=20220911080747 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S144 Stage3.webp" data-image-name="S144 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/cd/S144_Stage4.webp/revision/latest?cb=20220911080735" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/cd/S144_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911080735" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/cd/S144_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911080735 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/cd/S144_Stage4.webp/revision/latest?cb=20220911080735 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S144 Stage4.webp" data-image-name="S144 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/1/13/AF0144.png/revision/latest?cb=20180428124138" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/1/13/AF0144.png/revision/latest/scale-to-width-down/350?cb=20180428124138" srcset="https://static.wikia.nocookie.net/fategrandorder/images/1/13/AF0144.png/revision/latest/scale-to-width-down/350?cb=20180428124138 1x, https://static.wikia.nocookie.net/fategrandorder/images/1/13/AF0144.png/revision/latest?cb=20180428124138 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0144.png" data-image-name="AF0144.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Quetzalqoatl_Sprite1.png/revision/latest?cb=20200222085719" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Quetzalqoatl_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222085719" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/72/Quetzalqoatl_Sprite1.png/revision/latest/scale-to-width-down/350?cb=20200222085719 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/72/Quetzalqoatl_Sprite1.png/revision/latest/scale-to-width-down/700?cb=20200222085719 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Quetzalqoatl Sprite1.png" data-image-name="Quetzalqoatl Sprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/QuetzalcoatlSprite2.png/revision/latest?cb=20200222085730" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/QuetzalcoatlSprite2.png/revision/latest/scale-to-width-down/350?cb=20200222085730" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a8/QuetzalcoatlSprite2.png/revision/latest/scale-to-width-down/350?cb=20200222085730 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a8/QuetzalcoatlSprite2.png/revision/latest/scale-to-width-down/700?cb=20200222085730 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="QuetzalcoatlSprite2.png" data-image-name="QuetzalcoatlSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/Quetzalqoatl_Sprite3.png/revision/latest?cb=20200222085739" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/Quetzalqoatl_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222085739" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/4c/Quetzalqoatl_Sprite3.png/revision/latest/scale-to-width-down/350?cb=20200222085739 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/4c/Quetzalqoatl_Sprite3.png/revision/latest/scale-to-width-down/700?cb=20200222085739 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Quetzalqoatl Sprite3.png" data-image-name="Quetzalqoatl Sprite3.png">
+						
+					</a>
+				</figure>

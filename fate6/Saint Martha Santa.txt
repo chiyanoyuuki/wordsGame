@@ -1,0 +1,24 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S330_Stage1.webp/revision/latest?cb=20220925062959" class="image image-thumbnail" title="Stage 1-3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S330_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062959" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/61/S330_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220925062959 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/61/S330_Stage1.webp/revision/latest?cb=20220925062959 2x" class="pi-image-thumbnail" alt="Stage 1-3" width="270" height="382" data-image-key="S330 Stage1.webp" data-image-name="S330 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S330_Stage4.webp/revision/latest?cb=20220925062948" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S330_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925062948" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S330_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220925062948 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b6/S330_Stage4.webp/revision/latest?cb=20220925062948 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S330 Stage4.webp" data-image-name="S330 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S330_AprilFool.webp/revision/latest?cb=20230402083920" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S330_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083920" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S330_AprilFool.webp/revision/latest/scale-to-width-down/350?cb=20230402083920 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f8/S330_AprilFool.webp/revision/latest?cb=20230402083920 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="382" data-image-key="S330 AprilFool.webp" data-image-name="S330 AprilFool.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest?cb=20211208203603" class="image image-thumbnail" title="Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211208203603" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest/scale-to-width-down/350?cb=20211208203603 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Martha_Santa_Sprite.png/revision/latest/scale-to-width-down/700?cb=20211208203603 2x" class="pi-image-thumbnail" alt="Sprite" width="270" height="270" data-image-key="Martha Santa Sprite.png" data-image-name="Martha Santa Sprite.png">
+						
+					</a>
+				</figure>

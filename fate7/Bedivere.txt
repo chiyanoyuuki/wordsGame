@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest?cb=20201208113045" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113045" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113045 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/89/Bedivere_Renewal_1_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113045 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Bedivere Renewal 1 Sprite.png" data-image-name="Bedivere Renewal 1 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest?cb=20201208113050" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113050" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113050 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/07/Bedivere_Renewal_2_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113050 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Bedivere Renewal 2 Sprite.png" data-image-name="Bedivere Renewal 2 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest?cb=20201208113056" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113056" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/350?cb=20201208113056 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/65/Bedivere_Renewal_3_Sprite.png/revision/latest/scale-to-width-down/700?cb=20201208113056 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Bedivere Renewal 3 Sprite.png" data-image-name="Bedivere Renewal 3 Sprite.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

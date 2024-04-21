@@ -1,0 +1,48 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/4/40/S181_Stage1.webp/revision/latest?cb=20220911130218" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/4/40/S181_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911130218" srcset="https://static.wikia.nocookie.net/fategrandorder/images/4/40/S181_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220911130218 1x, https://static.wikia.nocookie.net/fategrandorder/images/4/40/S181_Stage1.webp/revision/latest?cb=20220911130218 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S181 Stage1.webp" data-image-name="S181 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S181_Stage2.webp/revision/latest?cb=20220911130210" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S181_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911130210" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/81/S181_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220911130210 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/81/S181_Stage2.webp/revision/latest?cb=20220911130210 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S181 Stage2.webp" data-image-name="S181 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S181_Stage3.webp/revision/latest?cb=20220911130202" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S181_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911130202" srcset="https://static.wikia.nocookie.net/fategrandorder/images/7/71/S181_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220911130202 1x, https://static.wikia.nocookie.net/fategrandorder/images/7/71/S181_Stage3.webp/revision/latest?cb=20220911130202 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S181 Stage3.webp" data-image-name="S181 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S181_Stage4.webp/revision/latest?cb=20220911130154" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S181_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911130154" srcset="https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S181_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220911130154 1x, https://static.wikia.nocookie.net/fategrandorder/images/f/f3/S181_Stage4.webp/revision/latest?cb=20220911130154 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S181 Stage4.webp" data-image-name="S181 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/ea/AF0181.png/revision/latest?cb=20180428123923" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/ea/AF0181.png/revision/latest/scale-to-width-down/350?cb=20180428123923" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/ea/AF0181.png/revision/latest/scale-to-width-down/350?cb=20180428123923 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/ea/AF0181.png/revision/latest?cb=20180428123923 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0181.png" data-image-name="AF0181.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest?cb=20181002125606" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest/scale-to-width-down/350?cb=20181002125606" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest/scale-to-width-down/350?cb=20181002125606 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest?cb=20181002125606 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="373" data-image-key="Raikosm1.png" data-image-name="Raikosm1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest?cb=20181006102718" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest/scale-to-width-down/350?cb=20181006102718" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest/scale-to-width-down/350?cb=20181006102718 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest/scale-to-width-down/700?cb=20181006102718 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="315" data-image-key="Raikosm2.png" data-image-name="Raikosm2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest?cb=20181003133033" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest/scale-to-width-down/350?cb=20181003133033" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest/scale-to-width-down/350?cb=20181003133033 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest/scale-to-width-down/700?cb=20181003133033 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="269" data-image-key="Raikosm3.png" data-image-name="Raikosm3.png">
+						
+					</a>
+				</figure>

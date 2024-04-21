@@ -1,0 +1,18 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/FuumaSprite1.png/revision/latest?cb=20190818051634" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/FuumaSprite1.png/revision/latest/scale-to-width-down/350?cb=20190818051634" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/FuumaSprite1.png/revision/latest/scale-to-width-down/350?cb=20190818051634 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/FuumaSprite1.png/revision/latest/scale-to-width-down/700?cb=20190818051634 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="FuumaSprite1.png" data-image-name="FuumaSprite1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/FuumaSprite2.png/revision/latest?cb=20190818051638" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/FuumaSprite2.png/revision/latest/scale-to-width-down/350?cb=20190818051638" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/FuumaSprite2.png/revision/latest/scale-to-width-down/350?cb=20190818051638 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/FuumaSprite2.png/revision/latest/scale-to-width-down/700?cb=20190818051638 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="FuumaSprite2.png" data-image-name="FuumaSprite2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/5/50/FuumaSprite3.png/revision/latest?cb=20190818051641" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/5/50/FuumaSprite3.png/revision/latest/scale-to-width-down/350?cb=20190818051641" srcset="https://static.wikia.nocookie.net/fategrandorder/images/5/50/FuumaSprite3.png/revision/latest/scale-to-width-down/350?cb=20190818051641 1x, https://static.wikia.nocookie.net/fategrandorder/images/5/50/FuumaSprite3.png/revision/latest/scale-to-width-down/700?cb=20190818051641 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="FuumaSprite3.png" data-image-name="FuumaSprite3.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">

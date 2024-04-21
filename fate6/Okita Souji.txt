@@ -1,0 +1,60 @@
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S068_Stage1.webp/revision/latest?cb=20220910152040" class="image image-thumbnail" title="Stage 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S068_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910152040" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/96/S068_Stage1.webp/revision/latest/scale-to-width-down/350?cb=20220910152040 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/96/S068_Stage1.webp/revision/latest?cb=20220910152040 2x" class="pi-image-thumbnail" alt="Stage 1" width="270" height="382" data-image-key="S068 Stage1.webp" data-image-name="S068 Stage1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S068_Stage2.webp/revision/latest?cb=20220910152025" class="image image-thumbnail" title="Stage 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S068_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910152025" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S068_Stage2.webp/revision/latest/scale-to-width-down/350?cb=20220910152025 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8d/S068_Stage2.webp/revision/latest?cb=20220910152025 2x" class="pi-image-thumbnail" alt="Stage 2" width="270" height="382" data-image-key="S068 Stage2.webp" data-image-name="S068 Stage2.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/0/04/S068_Stage3.webp/revision/latest?cb=20220910151944" class="image image-thumbnail" title="Stage 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/0/04/S068_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910151944" srcset="https://static.wikia.nocookie.net/fategrandorder/images/0/04/S068_Stage3.webp/revision/latest/scale-to-width-down/350?cb=20220910151944 1x, https://static.wikia.nocookie.net/fategrandorder/images/0/04/S068_Stage3.webp/revision/latest?cb=20220910151944 2x" class="pi-image-thumbnail" alt="Stage 3" width="270" height="382" data-image-key="S068 Stage3.webp" data-image-name="S068 Stage3.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S068_Stage4.webp/revision/latest?cb=20220910151914" class="image image-thumbnail" title="Stage 4">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S068_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910151914" srcset="https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S068_Stage4.webp/revision/latest/scale-to-width-down/350?cb=20220910151914 1x, https://static.wikia.nocookie.net/fategrandorder/images/b/b3/S068_Stage4.webp/revision/latest?cb=20220910151914 2x" class="pi-image-thumbnail" alt="Stage 4" width="270" height="382" data-image-key="S068 Stage4.webp" data-image-name="S068 Stage4.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S068_Costume1.webp/revision/latest?cb=20220910151842" class="image image-thumbnail" title="Costume 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S068_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910151842" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S068_Costume1.webp/revision/latest/scale-to-width-down/350?cb=20220910151842 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/2f/S068_Costume1.webp/revision/latest?cb=20220910151842 2x" class="pi-image-thumbnail" alt="Costume 1" width="270" height="382" data-image-key="S068 Costume1.webp" data-image-name="S068 Costume1.webp">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/2/28/AF0068.png/revision/latest?cb=20180428130759" class="image image-thumbnail" title="April Fool">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/2/28/AF0068.png/revision/latest/scale-to-width-down/350?cb=20180428130759" srcset="https://static.wikia.nocookie.net/fategrandorder/images/2/28/AF0068.png/revision/latest/scale-to-width-down/350?cb=20180428130759 1x, https://static.wikia.nocookie.net/fategrandorder/images/2/28/AF0068.png/revision/latest?cb=20180428130759 2x" class="pi-image-thumbnail" alt="April Fool" width="270" height="384" data-image-key="AF0068.png" data-image-name="AF0068.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest?cb=20201002123051" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123051" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123051 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/9c/Okita_Souji_Sprite1_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20201002123051 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="Okita Souji Sprite1 2nd Renewal.png" data-image-name="Okita Souji Sprite1 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest?cb=20201002123052" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123052" srcset="https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123052 1x, https://static.wikia.nocookie.net/fategrandorder/images/c/c0/Okita_Souji_Sprite2_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20201002123052 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="Okita Souji Sprite2 2nd Renewal.png" data-image-name="Okita Souji Sprite2 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest?cb=20201002123053" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123053" srcset="https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/350?cb=20201002123053 1x, https://static.wikia.nocookie.net/fategrandorder/images/8/8e/Okita_Souji_Sprite3_2nd_Renewal.png/revision/latest/scale-to-width-down/700?cb=20201002123053 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="Okita Souji Sprite3 2nd Renewal.png" data-image-name="Okita Souji Sprite3 2nd Renewal.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/33/Okita_Souji_Sprite_Costume1.png/revision/latest?cb=20201015120838" class="image image-thumbnail" title="Costume 1 Sprite">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/33/Okita_Souji_Sprite_Costume1.png/revision/latest/scale-to-width-down/350?cb=20201015120838" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/33/Okita_Souji_Sprite_Costume1.png/revision/latest/scale-to-width-down/350?cb=20201015120838 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/33/Okita_Souji_Sprite_Costume1.png/revision/latest/scale-to-width-down/700?cb=20201015120838 2x" class="pi-image-thumbnail" alt="Costume 1 Sprite" width="270" height="270" data-image-key="Okita Souji Sprite Costume1.png" data-image-name="Okita Souji Sprite Costume1.png">
+						
+					</a>
+				</figure>

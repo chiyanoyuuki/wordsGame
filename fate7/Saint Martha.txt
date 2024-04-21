@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/MarthaStage1New.png/revision/latest?cb=20190929073336" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/MarthaStage1New.png/revision/latest/scale-to-width-down/350?cb=20190929073336" srcset="https://static.wikia.nocookie.net/fategrandorder/images/a/a7/MarthaStage1New.png/revision/latest/scale-to-width-down/350?cb=20190929073336 1x, https://static.wikia.nocookie.net/fategrandorder/images/a/a7/MarthaStage1New.png/revision/latest/scale-to-width-down/700?cb=20190929073336 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="270" data-image-key="MarthaStage1New.png" data-image-name="MarthaStage1New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/d/da/MarthaStage2New.png/revision/latest?cb=20190929073341" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/d/da/MarthaStage2New.png/revision/latest/scale-to-width-down/350?cb=20190929073341" srcset="https://static.wikia.nocookie.net/fategrandorder/images/d/da/MarthaStage2New.png/revision/latest/scale-to-width-down/350?cb=20190929073341 1x, https://static.wikia.nocookie.net/fategrandorder/images/d/da/MarthaStage2New.png/revision/latest/scale-to-width-down/700?cb=20190929073341 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="270" data-image-key="MarthaStage2New.png" data-image-name="MarthaStage2New.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/MarthaStage3New.png/revision/latest?cb=20190929073345" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/MarthaStage3New.png/revision/latest/scale-to-width-down/350?cb=20190929073345" srcset="https://static.wikia.nocookie.net/fategrandorder/images/3/3d/MarthaStage3New.png/revision/latest/scale-to-width-down/350?cb=20190929073345 1x, https://static.wikia.nocookie.net/fategrandorder/images/3/3d/MarthaStage3New.png/revision/latest/scale-to-width-down/700?cb=20190929073345 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="270" data-image-key="MarthaStage3New.png" data-image-name="MarthaStage3New.png">
+						
+					</a>
+				</figure>

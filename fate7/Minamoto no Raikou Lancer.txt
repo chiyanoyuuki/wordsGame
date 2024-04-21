@@ -1,0 +1,17 @@
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest?cb=20181002125606" class="image image-thumbnail" title="Sprite 1">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest/scale-to-width-down/350?cb=20181002125606" srcset="https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest/scale-to-width-down/350?cb=20181002125606 1x, https://static.wikia.nocookie.net/fategrandorder/images/9/95/Raikosm1.png/revision/latest?cb=20181002125606 2x" class="pi-image-thumbnail" alt="Sprite 1" width="270" height="373" data-image-key="Raikosm1.png" data-image-name="Raikosm1.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest?cb=20181006102718" class="image image-thumbnail" title="Sprite 2">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest/scale-to-width-down/350?cb=20181006102718" srcset="https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest/scale-to-width-down/350?cb=20181006102718 1x, https://static.wikia.nocookie.net/fategrandorder/images/e/e6/Raikosm2.png/revision/latest/scale-to-width-down/700?cb=20181006102718 2x" class="pi-image-thumbnail" alt="Sprite 2" width="270" height="315" data-image-key="Raikosm2.png" data-image-name="Raikosm2.png">
+						
+					</a>
+				</figure>
+				<figure class="pi-item pi-image">
+					<a href="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest?cb=20181003133033" class="image image-thumbnail" title="Sprite 3">
+						<img src="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest/scale-to-width-down/350?cb=20181003133033" srcset="https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest/scale-to-width-down/350?cb=20181003133033 1x, https://static.wikia.nocookie.net/fategrandorder/images/6/63/Raikosm3.png/revision/latest/scale-to-width-down/700?cb=20181003133033 2x" class="pi-image-thumbnail" alt="Sprite 3" width="270" height="269" data-image-key="Raikosm3.png" data-image-name="Raikosm3.png">
+						
+					</a>
+				</figure>
